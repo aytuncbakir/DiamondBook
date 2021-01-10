@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+    <dua id="1">
+        <baslik>Okunması ile sahibine icabet olunacak dua</baslik>
+        <arapca>Bu duâ ile cum’a günü herhangi bir saatte duâ edilirse sahibine muhakkak icabet olunur.</arapca>
+        <turkce>La ilahe illa ente ya Hannân ya Mennân ya bedias-semavati vel ardi ya zel celali vel ikram</turkce>
+        <anlam>Sen’den başka hiçbir ilâh yoktur. Ey Hannân, ey Mennân, ey gökleri ve yeri en güzel şekilde yaratan, ey Celâl ve ikrâm sâhibi!</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="2">
+        <baslik>Kişinin kendisi, annesi ve babası için mağfiret duası</baslik>
+        <arapca>Cuma namazından sonra oturduğu yerden kalkmadan yüz defa okuyan kimsenin yüzbin günâhını, ana ve babasının da yirmidörtbin günâhını Allah mağfiret eder.</arapca>
+        <turkce>Sübhanallahi ve bihamdihi Sübhanallahil azim ve bihamdihi ve estağfirullah.</turkce>
+        <anlam>Allah’ı hamdiyle tesbih ederim. Azîm olan yüce Allah’ı hamd ile tesbîh ederim. Allah’tan beni affetmesini isterim.</anlam>
+        <adet>100</adet>
+    </dua>
+	
+	<dua id="3">
+        <baslik>Bir sonraki Cuma'ya dek hıfza vesile olan dua</baslik>
+        <arapca>Kim cuma namazından sonra -konuşmadan ve kalkmadan- ihlâs sûresini, Felâk sûresini ve Nâs sûresini yedişer defa okursa Allah Teâlâ onu gelecek cumaya kadar, zarar verici şeylerden muhafaza buyurur.</arapca>
+        <turkce>İhlas - Felak - Nas</turkce>
+        <anlam>İhlas - Felak - Nas</anlam>
+        <adet>7</adet>
+    </dua>
+	
+	<dua id="4">
+        <baslik>İsteğe kavuşmaya vesile olan dua</baslik>
+        <arapca>Cuma Günü Ya Veliyyü Ya Allah  esmasını (1000) defa zikreden kişi her istediğine kavuşur.</arapca>
+        <turkce>Ya Veliyyü Ya Allah</turkce>
+        <anlam>Dost ve yardım edici, Müminlere dost, yardım eden, seven ve işlerini neticelendiren beraber, yakın olan, yardımcı, hami, dost ve dilediğine arka çıkıp onları kemale ulaştıran.</anlam>
+        <adet>1000</adet>
+    </dua>
+	
+	<dua id="5">
+        <baslik>Dileğe icabete vesile olacak dua</baslik>
+        <arapca>Cuma günü La İlahe İllahü’l Melikü’l Hakku’l- Mübin (200) defa zikreden Kişi Allah’tan ne isterse verilir.</arapca>
+        <turkce>La İlahe İllahü’l Melikü’l Hakku’l- Mübin</turkce>
+        <anlam>(Melik (herşeyin sahibi), Hakk (varlığı hiç değişmeyen), Mübin (apaçık ki) Allah'tan başka hiç bir ilah yoktur.</anlam>
+        <adet>200</adet>
+    </dua>
+	
+	<dua id="6">
+        <baslik>Dertten (Fakirlik, düşkünlük) kurtulmaya vesile olacak dua</baslik>
+        <arapca>Cuma gecesi “Ya Darr” Esmasını (100) kere çekerse,düşmüş olduğu dertten kurtulur.Fakir ve düşkün kimseler buna devam etseler çok faydasını görürler.</arapca>
+        <turkce>Ya Darr</turkce>
+        <anlam> Elem ve zarar verici şeyler yaratan, dilediğine felaket, keder ve şiddet veren, zarara uğratan demektir. Zarara uğratan .Her şer kabul edilenin mutlak var edicisi. Hikmeti gereği elem ve zarar verici şeyleri de yaratan.</anlam>
+        <adet>100</adet>
+    </dua>
+	
+	<dua id="7">
+        <baslik>Mağfiret ve şifa bulmaya vesile olacak dua</baslik>
+        <arapca>Cuma namazından sonra 100 defa Ya Gafur İsmini okumaya devam eden kişi mağfirete nail olur ve şifa bulur.</arapca>
+        <turkce>Ya Gafur</turkce>
+        <anlam>Kulların günahlarını,hatalarını  ve kusurlarını çokca bağışlayan,bağışlamaktan bıkmayan,usanmayan,affı ve bağışlaması sonsuz olan.</anlam>
+        <adet>100</adet>
+    </dua>
+	
+		<dua id="8">
+            <baslik>Seyyidü’l-Îstiğfar duası</baslik>
+        <arapca>Resulullah (Sallallahü Aleyhi ve Sellem) buyurdu ki: “Kim şu kelimeleri Cuma gecesi yedi kere okur da o gece vefat ederse, cennete girer, Cuma günü ölürse, yine cennete girer. (Bir rivayete göre ' “şehit olarak ölür” buyrulmuştur. Bu duaya Seyyidü’l-Îstiğfar duası denilir ki, o) dua(da) şudur</arapca>
+        <turkce>Ey Allah’ım! Benim Rabbim sensin. Senden başka hiçbir ilah yoktur. Beni Sen yarattın. Ben, Senin kulunum. Ben gücümün yettiği kadar Senin ahdin ve vaadin üzere sabitim.Ben, Senin ıhsan ettiğin nimetlerini itiraf ediyor, günahlarımı da kabul ediyorum. Öyleyse Beni mağfiret eyle. Şu muhakkak ki, günahları Senden başkası bağışlayamaz. Ben yaptığım şeylerin şerrinden Sana sığmıyorum.</turkce>
+        <anlam>Allahümme ente Rabbi lâ ilahe illâ ente. Halaktenî ve ene abdüke ve ene alâ ahdike ve va ‘dike mesteta ‘tü. Ebûü leke bini ‘metike ve ebûü leke bizenbî fağfır li feinnehü lâ yağfırüzzünübe illa ente. E'ûzü bike min şerri mâ sana ‘tü.</anlam>
+        <adet>7</adet>
+    </dua>
+	
+	<dua id="9">
+        <baslik>80 bin günahın affına vesile olacak dua</baslik>
+        <arapca>Cuma günleri bana 80 salavat okuyanın 80 yıllık günahı affolur.</arapca>
+        <turkce>Allahümme salli ala seyyidina Muhammedin ve ala ali seyyidina Muhammed</turkce>
+        <anlam>Allahım! Efendimiz, mihmandarımız, rehberimiz Hz. Muhammed Mustafa sav’e, ailesi ve ashabına rahmet eyle ve bereketler ihsan eyle.</anlam>
+        <adet>80</adet>
+    </dua>
+	
+	<dua id="10">
+        <baslik>Muhtaçlıktan müstağni olmaya vesile kılınacak dua</baslik>
+        <arapca>Resulullah (Sallallahü Aleyhi ve Sellem) söyle buyurdu  ''Her kim bu duayı Cuma günü 70 kere okursa,iki Cuma geçmeden Allah onun başkasına muhtaç olmaktan müstağni kılar.</arapca>
+        <turkce>Allahümmek fini bi halâlike an harâmike ve ağnini bi fadlike ammen sivake</turkce>
+        <anlam>Allah'ım, bana helalinden o kadar ver ki,haramına ihtiyacım kalmasın.Ve beni lütfü kereminle Sen'den başkasına muhtaç etme.</anlam>
+        <adet>70</adet>
+    </dua>
+
+    <dua id="11">
+        <baslik>Cuma günü yapılacak dua</baslik>
+        <arapca>Cuma günü yapılacak dua</arapca>
+        <turkce>Lailahe illallah Cuma’nın sebebiyle, Muhammedün Resullullah gerek yüzün gölgesiyle dünya ve ahiret muradımı ver.
+
+            Melekler duasıyla, Ya vedüdüm, entel maksudum, Kulhüvellahü ehad, bin bir kere ya samed, cennet kapılarını aç, benim günahımdan geç.
+
+            Benim günahım varsada senin gibi halikim var. Muhammed Aleyhisselam dostum var.
+
+            İlahi kabre vardığım gece lütfeyle, yalnız kaldığım gece bilmediğimi bildir. Kabrimi nur ile doldur. Kevser şarabına daldır, ulu cemalini göster.
+
+            Gece gündüz yalvarırım sana dünya ve ahiret muradımı ver bana.
+
+            Rabbim Allah, fikrim zikrullah, kalbimin nuru Resullullah, evvelim Allah, ahirim Allah, La ilahe illallah Muhammedün Resullullah.</turkce>
+        <anlam>Cuma günü yapılacak dua</anlam>
+        <adet>1</adet>
+    </dua>
+
+</dualar>

@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+    <dua id="1">
+        <baslik>İftarda Duâsı</baslik>
+        <arapca>İftarda Yapılacak Duâ</arapca>
+        <turkce>Allâhumme leke sumtu ve bike âmentu ve aleyke tevekkeltu ve alâ rızkıke eftartu veli savmi ğadin neveytu fağfir limâ kaddemtu vemâ ahhertu.</turkce>
+        <anlam>Allah'ım! Senin için oruç tuttum, sana inandım, sana dayandım, Senin verdiğin rızıkla orucumu açtım. Yarının orucuna da niyet ettim, benim geçmiş ve gelecek günahlarımı bağışla.</anlam>
+        <adet>3</adet>
+    </dua>
+
+    <dua id="2">
+        <baslik>Kurban Kesecek Kişinin Okuyacağı Dua</baslik>
+        <arapca>Kurban Kesecek Kişinin Okuyacağı Dua</arapca>
+        <turkce>İnni veccehtu vechiye lillezî fetara's-semâvâti ve'l-arda hanîfen vemâ ene minel-müşrikîn.</turkce>
+        <anlam>Muhakkak ben, dinime tam bağlanarak, o yeri ve gökleri yaratan Allah'a yöneldim. Ben müşriklerden değilim.(En'am Sûresi, 79) </anlam>
+        <adet>3</adet>
+    </dua>
+
+    <dua id="3">
+        <baslik>Elbise giyerken okunacak dua</baslik>
+        <arapca>Elbise giyerken okunacak dua</arapca>
+        <turkce>Elhamdülillahillezi kesani haza ve rezakanihi min gayri havlin minni vela kuvvetin.</turkce>
+        <anlam>Güç ve kuvvetim olmadığı halde bu elbiseyi bana ihsan eden ve giydiren Allah’a  hamd olsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="4">
+        <baslik>Tuvalete girerken okunacak dua</baslik>
+        <arapca>Tuvalete girerken okunacak dua</arapca>
+        <turkce>Bismillahi Allahümme inni euzü bike mine'l hubsi ve'l habais.</turkce>
+        <anlam>Allah’ın ismiyle Allah’ım cinlerden ve pisliklerden Sana sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="5">
+        <baslik>Tuvaletten çıkarken okunacak dua</baslik>
+        <arapca>Tuvaletten çıkarken okunacak dua</arapca>
+        <turkce>Elhamdülillâhillezî ezhebe anni'l eza ve âfâni.</turkce>
+        <anlam>Benden sıkıntıyı gideren ve bna afiyet veren Allah’a hamd olsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="6">
+        <baslik>Yemek Duası</baslik>
+        <arapca>Yemek Duası</arapca>
+        <turkce>Bismillahi evvelehu ve ahirehu.</turkce>
+        <anlam>Evvelinde ve sonunda Allah’ın adıyla başlarım.</anlam>
+        <adet>1</adet>
+    </dua>
+    <dua id="7">
+        <baslik>Yemek Duası</baslik>
+        <arapca>Yemek Duası</arapca>
+        <turkce>Elhamdülillâhillezî et'amena ve sekana ve ce'alena mine'l-müslimin.</turkce>
+        <anlam> Bizi yediren, içiren ve müslüman olarak yaratan Allah’a hamdolsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="8">
+        <baslik>Yemek Duası</baslik>
+        <arapca>Yemek Duası</arapca>
+        <turkce>Allahümme barik lena fihi.Ve et'imna hayran minhü.</turkce>
+        <anlam>  Allah’ım, bu yemeği bize faydalı ve bereketli kıl ve bize bundan daha iyisini yedir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="9">
+        <baslik>Yemek Duası</baslik>
+        <arapca>Yemek Duası</arapca>
+        <turkce>Elhamdülillâhi hamden kesiran tayyiben mübareken fihi. Elhamdülillâhillezî kefana ve avana gayr-i mekfiyyin vela
+            vela mekfurin vela müvedde'in vela müstağne anhü rabbena.
+        </turkce>
+        <anlam> Allah’a bol, temiz ve mübarek bir hamdle hamdolsun. Kendisi hçibir şeye muhtaç olmadığı, fazl ve ihsanı inkar edilmediği, terk edilip yüz
+            çevirilemediği ve kendisinden müstağni kalınamadığı halde ihtiyaçlarımızı gideren ve bizi barındıran Allah’a hamdolsun.
+        </anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="10">
+        <baslik>Su içerken okunan dua</baslik>
+        <arapca>Su içerken okunan dua</arapca>
+        <turkce>Elhamdülillâhillezî sekana azben füraten bi-rahmetihi velem yec'alhü milhan ücacen bi-zünubina.</turkce>
+        <anlam>Bize rahmetiyle tatlı ve lezzetli suyu içiren ve günahlarımız yüzünden onu tuzlu ce acı yapmayan Allah’a hamdolsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="11">
+        <baslik>Süt içerken okunacak dua</baslik>
+        <arapca>Süt içerken okunacak dua</arapca>
+        <turkce>Allahümme barik lena fihi ve zidna minhü.</turkce>
+        <anlam>Allah’ım bu sütü bize faydalı ve bereketli kıl.Ve bundan bize bol ver.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="12">
+        <baslik>Evden çıkarken okunan dua</baslik>
+        <arapca>Evden çıkarken okunan dua</arapca>
+        <turkce>Bismillahi. Tevekkeltü alellahi. Allahümme inna neuzü bike minen nedille nudille, nazlime ev nuzleme, necheleev yüchele aleyna.
+        </turkce>
+        <anlam> Allah’ın ismiyle çıkıyorum. Allah’ım ancak sana güvenirim. Allah’ım hataya düşmekten, eğri yola sapmaktan, başkasına zulmetmekten
+            ve zulme uğramaktan, cahillikten ve cahilliğe maruz kalmaktan Sana sığınırız.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="13">
+        <baslik>Hoşa giden birşey görüldüğünde okunan dua</baslik>
+        <arapca>Hoşa giden birşey görüldüğünde okunan dua</arapca>
+        <turkce>Maaşallahü la kuvvete illa billah.</turkce>
+        <anlam>Bunu Allah diledi verdi. Kuvvet ancak Allah’ındır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="14">
+        <baslik>Musibete uğramış birini görenin yapacağı dua</baslik>
+        <arapca>Musibete uğramış birini görenin yapacağı dua</arapca>
+        <turkce>Elhamdülillâhillezî afani mim-mebtelake bihi ve faddaleni ala kesirin mimmen halaka tafdilen.</turkce>
+        <anlam> Sana verdiği derdi bana vermeyen ve beni yarattıklarının bir çoğundan üstün kılan Allah’a hamdolsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="15">
+        <baslik>Bir iş yapmaya niyetlenenin yapacağı dua</baslik>
+        <arapca>Bir iş yapmaya niyetlenenin yapacağı dua</arapca>
+        <turkce>Allahümme hırli vahtarli.</turkce>
+        <anlam>Allah’ım bana hayırlısını ver ve benim için en uygun olanını seç.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="16">
+        <baslik>Öfkelenenin okuyacağı dua</baslik>
+        <arapca>Öfkelenenin okuyacağı dua</arapca>
+        <turkce>Allahümmağfirli zenbi ve vezbih gayza kalbi ve ecirni mine'ş-şeytan.</turkce>
+        <anlam> Allah’ım günahımı affet.Kalbimdeki öfkeyi gider beni şeytandan koru.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="17">
+        <baslik>Namazdan sonra okuncak dua</baslik>
+        <arapca>Namazdan sonra okuncak dua</arapca>
+        <turkce>Allahümme einni ala zikrike ve şükrike hüsni ibadetike.</turkce>
+        <anlam>  Allah’ım seni zikretmek. Sana şükretmek ve Sana ve sana güzelce ibadet etmek hususunda bana yardım et.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="18">
+        <baslik>Namazdan sonra okuncak dua</baslik>
+        <arapca>Namazdan sonra okuncak dua</arapca>
+        <turkce>Allahümme inni euzü bike mine'l küfri ve'l-fakri ve azabi'il-kabri.</turkce>
+        <anlam>Allah’ım küfürden, fakirlikten ve kabir azabından sana sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="19">
+        <baslik>Namazdan sonra okuncak dua</baslik>
+        <arapca>Namazdan sonra okuncak dua</arapca>
+        <turkce>Namazdan sonra okuncak dua
+            Allahümmağfirli zenbi ve ve'ssıli fi dari ve barikli fi rızki.
+            </turkce>
+        <anlam>Allah’ım günahlarımı affet. Evimi genişlet ve rızkımı bereketli kıl.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="20">
+        <baslik>Sıkıntı anında okunacak dua</baslik>
+        <arapca>Sıkıntı anında okunacak dua</arapca>
+        <turkce>La ilahe illallahü el-Halimü'l Kerim. Sübhanallahi Rabbi'l Arşi'l Azim. Sübhanallahi Rabbi's-semavati's-seb'i ve Rabbi'l-Arşi'l-Kerim.
+            </turkce>
+        <anlam>Halim ve Kerim olan Allah'tan başka ilah yoktur. Büyük Arşın Rabbi olan Allah noksanlıklardan münezzehtir.
+            Kerim olan Arşın ve yedi kat semanın Rabbi olan Allah münezzehtir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="21">
+        <baslik>Sıkıntı anında okunacak dua</baslik>
+        <arapca>Sıkıntı anında okunacak dua</arapca>
+        <turkce>Ya Hayyu ya Kayyumu birahmetike estegisü.
+        </turkce>
+        <anlam> Ya Hayy ya Kayyum! Ancak senin rahmetinden yardım isterim.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="22">
+        <baslik>Hasede karşı okunacak dua</baslik>
+        <arapca>Hasede karşı okunacak dua</arapca>
+        <turkce>Bismillahi erkike vallahu yeşfike min külli dain ye'tike min şerri'n-neffasati fi'l-ukadi ve şerri hasidin iza hased.
+           </turkce>
+        <anlam> Allah’ın ismiyle ve sana şifa vermesi dileğyle okurum. Allah her türlü hastalıktan, düğümlere nefes eden büyücülerin
+            ve hasedçinin şerrinden seni korusun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="23">
+        <baslik>Hastayken okunacak dua</baslik>
+        <arapca>Hastayken okunacak dua</arapca>
+        <turkce>Hastayken okunacak dua
+            Ezhib'il-be'se Rabbe'n-nasi işfi ente'ş-Şafi la şifae illa şifaüke şifaen la yügadirü sukmen.
+        </turkce>
+        <anlam>  Ey insanları Rabbi. Bu hastalığı gider ve şifa ihsan et. Şifayı ancak sen verirsin. Senden başka şifa verecek yoktur.
+            Öyle bir şifa ver ki, bu hastalıktan hiç bir eser kalmasın.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="24">
+        <baslik>Hastayken okunacak dua</baslik>
+        <arapca>Hastayken okunacak dua</arapca>
+        <turkce>Bismillahirrahmanirrahim.Bismillahi'l Kerim eşeü billahi'l azim min şerri külli 'ırkı narin ve min şerri harri'n-nar.
+           </turkce>
+        <anlam> Rahman ve Rahim olan Allah’ın ismiyle. Kerim olan Allah’ın adıyla.Her türlü ağrının, yaranın ve cehennem ateşinin şerrinden azamet sahibi olan Allah'a sığınırım.
+    </anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="25">
+        <baslik>Hastayken okunacak dua</baslik>
+        <arapca>Hastayken okunacak dua</arapca>
+        <turkce>Allahümme işfi abdeke yebke'leke adüvven ev yemşi leke salatin.
+        </turkce>
+        <anlam> Allahım, şu kuluna şifa ver ki, senin rızan için bir düşmanını huzursuz etsin. Senin rızan için namaza gitsin.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="26">
+        <baslik>Hastayken okunacak dua</baslik>
+        <arapca>Hastayken okunacak dua</arapca>
+        <turkce>Hastayken okunacak dua
+            Allahümme inni es'elüke hayra'l-mevlici ve hayra'l-mahraci bismillahi velecna ve bismillahi haracna ve alallahi Rabbina ve tevekkelna.
+            Alllahım senden bu eve hayırlı bir şekilde girmeyi ve hayırlı bir şekilde çıkmayı dilerim. Allah'ın adıyla girdik. allah'ın adıyla çıktık.
+            Ve Rabbimiz olan Allah'a tevekkül ettik.
+        </turkce>
+        <anlam></anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="27">
+        <baslik>Ağrıyan yer için yapılacak dua</baslik>
+        <arapca>Ağrıyan yer için yapılacak dua</arapca>
+        <turkce>Sağ el ağrıyan yere konulur.
+            3 defa Bismillahi
+            7 defa Euzü billahi ve kudretihi min şerri ma ecidü ve uhazirü.
+           </turkce>
+        <anlam> Acısını çetiğim ve ileride çekeceğimden korktuğum hastalığın sıkıntısından ,Allaha'a ve Onun yüce kudretine sığınıyorum.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="28">
+        <baslik>Elbise çıkarıldığı zaman okunacak dua</baslik>
+        <arapca>Elbise çıkarıldığı zaman okunacak dua</arapca>
+        <turkce>Bismillahillezi lailahe illa hüve.</turkce>
+        <anlam>Kendisinden başka hiçbir ilah olmayan Allah’ın ismini söyleyerek bu elbiseyi çıkarıyorum.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="29">
+        <baslik>Münasebet esnasında okunacak dua</baslik>
+        <arapca>Münasebet esnasında okunacak dua</arapca>
+        <turkce>Bismillahi Allahümme cennib-ne'ş-şeytane ve cennibi'ş-şeytane ma razaktena.</turkce>
+        <anlam>Ya Rabbi, bizi şeytandan, şeytanı da bize ihsan edeceğin çocuktan uzak tut.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="30">
+        <baslik>Uykuda korkup uyanınca okunacak dua</baslik>
+        <arapca>Uykuda korkup uyanınca okunacak dua</arapca>
+        <turkce>Euzü bi kelimatillahi't-tammeti min gadabihi ve ikabihi ve şerri ibadihi ve min hemezati'ş-şeyatin ve en yahdurun.
+           </turkce>
+        <anlam> Allahım gazabından, azabınadan, kullarının şerrinden, şeytanların vesvese vermesinden ve yanımda bulunmalarından Allah'ın mükemmele kelimelerine sığınırım.
+        </anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="31">
+        <baslik>Yolculuğa çıkarken veya vasıtaya binerken okunacak dua</baslik>
+        <arapca>Yolculuğa çıkarken veya vasıtaya binerken okunacak dua</arapca>
+        <turkce>Sübhanellezi sahhara lena haza ve ma künna lehü mukrinine ve inna ila Rabbina le münkalibün.Allahümme inna nes'elüke fi seferina
+            haze'l-birra ve't-takva ve mine'l-ameli ma terda. Allahümme hevvin aleyna, seferena haza ve atvi anna bu'de'l-ardi. Allahümme ente's-sahibü fi's-seferi
+            ve'l-halifetü fi'l ehli. Allahümme inna neuzü bike min va'sai's-seferi ve keabet'il-manzari ve sui'l-munkalebi fi'l-mali ve'l ehli.
+            </turkce>
+        <anlam>Bizim gücümüz yetmezken onu emrimize veren Allah ne yücedir. Muhakkak ki sonunda Rabbimize döneceğiz.
+            Allahım, bu yolculuğumuzda iyilik, takva ve Senin razı olacağın amel isteriz. Allahım, bu yolculuğu bize kolaylaştır, uzakları bize yakınlaştır.
+            Allahım, sen bu yolculukta bizimle berabersin, geride kalan ailemizin de koruyucusun.
+            Allahım, bu yolculuğun zorluğundan, üzüntüye uğramaktan, döndüğümüzde malımızın ve çoluk çocuğumuzun başına herhangi bir felaketin geldiğini görmekten sana
+            sığınıyoruz.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="32">
+        <baslik>Herhangi bir şehre girince okunacak</baslik>
+        <arapca>Herhangi bir şehre girince okunacak</arapca>
+        <turkce>Allahümme Rabbe's-semavati's-seb'i vema azlelne. Rabbe'r-riyahi vema zerarne. İnna nes'elü hayra hazihi'l-karye. Neuzü bike min şer-riha ve şerri ehliha ve şerri fiha.
+           </turkce>
+        <anlam> Ey yedi kat göklerin ve gök kubbenin altında bulunan herşeyin  Rabbi olan Allahım! Ey rüzgarların yerden kaldırdıkları bütün zerrelerin Rabbi olan Allahım. Senden bu
+            beldenin hayrını dileriz. Beldenin, insanlarının ve içindekilerin şerrinden Sana sığınırız.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="33">
+        <baslik>Herhangi bir şehre girince okunacak</baslik>
+        <arapca>Herhangi bir şehre girince okunacak</arapca>
+        <turkce>Allahümme inin es'elüke min hayri hazihi ve hayri ma cema'te fiha ve euzü bike min şerri hazihi ve şerri ma cema'te fiha. Allahümme'r-zukna
+            min hayaha ve eizna min vebana ve habbibna ila ehliha ve habbib salihi ehliha ileyna.
+        </turkce>
+        <anlam>Allahım senden bu beldenin ve bu beldede topladığın şeylerin hayrını istiyorum. Bu beldenin ve içinde topladığın şeylerin hayrını istiyorum.
+            Bu beldenin ve içinde topladığın şeylerin kötülüğünden sana sığınıyorum. Allah'ım, buranın bereketi ile bizi rızıklandır. Hastalığından bizi koru. Bizi buranın
+            halkına sevdir.Halkının iyilerini de bize sevdir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="34">
+        <baslik>Gök gürlediğinde yapılacak dua</baslik>
+        <arapca>Gök gürlediğinde yapılacak dua</arapca>
+        <turkce>Gök gürlediğinde yapılacak dua
+            Allahümme la taktülna bi gadabike ve tuhlikna bi azabike ve afina kable zalike.
+            </turkce>
+        <anlam>Allahım bizi gazabınla öldürme. Azabınla helak etme ve bize bundan önce sağlık ve afiyet ihsan et.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="35">
+        <baslik>Yağmur yağdığında okunacak dua</baslik>
+        <arapca>Yağmur yağdığında okunacak dua</arapca>
+        <turkce>Allahümme sayyiben nafian.
+            </turkce>
+        <anlam>Allahım bol ve faydalı olsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="36">
+        <baslik>Yeni bir elbise giyildiğinde okunacak dua</baslik>
+        <arapca>Yeni bir elbise giyildiğinde okunacak dua</arapca>
+        <turkce>Elhamdülillahillezi kesani ma uvari bihi avreti ve etecemmelü bihi hayati.
+           </turkce>
+        <anlam> Avret yerimi kapattığım, hayatımı onunla süslediğim elbiseyi giydiren Allah'a hamdolsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="37">
+        <baslik>Geçim darlığı çekildiği zaman okunacak dua</baslik>
+        <arapca>Geçim darlığı çekildiği zaman okunacak dua</arapca>
+        <turkce>Bismillahi ala nefsi ve mali ve dini. Allahümme raddini bi kadaike ve barik li fima kuddirali hatta la uhibbe tacile ma ahharte. Vela te'hira ma accelte.
+           </turkce>
+        <anlam> Kendi malım ve dinim üzerinde Allahın ismini zikrederim. Allahım, hükmüne beni razı et. Benim için takdir ettiğin rızkıma bereket ihsan eyle. Taki sonraya bıraktığını şimdi,
+            şimdi verdiğini de sonra vermeni istemeyeyim.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="38">
+        <baslik>Musibet karşısında okunacak dua</baslik>
+        <arapca>Musibet karşısında okunacak dua</arapca>
+        <turkce>İnna lillahi ve inna ileyhi raciun.Allahümme e'cürni fi musibeti ve ehlif hayran minha
+           </turkce>
+        <anlam> Biz Allah’ın kullarıyız, sonunda yine Ona döneceğiz. Allahım başıma gelen bu musibet hakkında bana sevap ver. Onun ardından bana daha hayırlısını nasip et.
+        </anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="39">
+        <baslik>Dinde sebat için okunacak dua</baslik>
+        <arapca>Dinde sebat için okunacak dua</arapca>
+        <turkce>Ya mukallibe'l-kulub sebbit kalbi ala dinike.
+        </turkce>
+        <anlam> Ey kalpleri evirip çeviren Allahım, benim kalbimi dininde sabit kıl.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="40">
+        <baslik>İyiliği dokunan birine yapılacak dua</baslik>
+        <arapca>İyiliği dokunan birine yapılacak dua</arapca>
+        <turkce>Cezakallahü hayran kesira.
+        </turkce>
+        <anlam> Allah sana bol hayır versin.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="41">
+        <baslik>Aynaya bakanın okuyacağı dua</baslik>
+        <arapca>Aynaya bakanın okuyacağı dua</arapca>
+        <turkce>Elhamdülillâhi Allahümme kema hassente halki fe-hassin huluki.
+            </turkce>
+        <anlam>Hamd ve minnet Allah'a mahsustur. Allahım beni güzel yarattığın gibi, ahlakımı da güzelleştir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="42">
+        <baslik>Kur'an'ı hatmedenin okuyacağı dua</baslik>
+        <arapca>Kur'an'ı hatmedenin okuyacağı dua</arapca>
+        <turkce>Allahümme anes veşheti fi kabri.
+            </turkce>
+        <anlam>Allahım, kabrimde yalnız kaldığımda korku ve yalnızlığımı gider.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="43">
+        <baslik>Kişilerin şerrinden Allah'a sığınmak için okunacak dua</baslik>
+        <arapca>Kişilerin şerrinden Allah'a sığınmak için okunacak dua</arapca>
+        <turkce>Allahümme inna nec'alüke fi nuhurihim ve neuzü bike min şururihim.
+            </turkce>
+        <anlam>Allahım onların hakkından gelmeni diliyoruz ve şerlerinden sana sığınıyoruz.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="44">
+        <baslik>Kulağı çınlayanların okuyacağı dua</baslik>
+        <arapca>Kulağı çınlayanların okuyacağı dua</arapca>
+        <turkce>Zekerallahü bi-hayrin men zekereni.
+        </turkce>
+        <anlam> Allahım beni hayırla ananı sen de hayırla an.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="45">
+        <baslik>Sevinçli bir haber alındığında okunacak dua</baslik>
+        <arapca>Sevinçli bir haber alındığında okunacak dua</arapca>
+        <turkce>Elhamdülillahillezi bi-ni'metihi tetimmü's-salihat.
+            </turkce>
+        <anlam>İhsanıyla faydalı şeylerin gerçekleştiği Allah'a homdolsun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="46">
+        <baslik>Üzüntülü bir haber alındığında okunacak dua</baslik>
+        <arapca>Üzüntülü bir haber alındığında okunacak dua</arapca>
+        <turkce>Elhamdülillahi ala külli halin Rabbi euzü bike min hali ehli'n-nar.
+        </turkce>
+        <anlam> Her hal için Allah'a hamdolsun. Rabbim, cehennem ehlinin halinden sana sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="47">
+        <baslik>Zor bir iş karşısında okunacak dua</baslik>
+        <arapca>Zor bir iş karşısında okunacak dua</arapca>
+        <turkce>Allahümme la sehlen illa ma ce'altehu sehlen ve ente tec'alül-hazene iza şi'te sehlen.
+          </turkce>
+        <anlam>Allahım, senin kolaylaştırdığından başka kolaylık yoktur. Sen dilediğin zaman zoru kolaylaştırırsın.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="48">
+        <baslik>Kötü ahlaktan Allah'a sığınmak için okunacak dua</baslik>
+        <arapca>Kötü ahlaktan Allah'a sığınmak için okunacak dua</arapca>
+        <turkce>Allahümme inni euzü bike mine'şikaki ve'n-nifaki ve suu'l ahlak.
+            </turkce>
+        <anlam>Ey Allahım sana karşı gelmekten, nifaktan ve kötü ahlaktan sana sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="49">
+        <baslik>Kötü ahlaktan Allah'a sığınmak için okunacak dua</baslik>
+        <arapca>Kötü ahlaktan Allah'a sığınmak için okunacak dua</arapca>
+        <turkce>Allahümme inni euzü bike min münkerati'l-ahlaki ve'l-a'mali ve'l-ehvai.
+            Allahım, ahlakın, amellerin ve arzuların kötülerinden sana sığınırım.
+        </turkce>
+        <anlam></anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="50">
+        <baslik>Külli dua</baslik>
+        <arapca>Külli dua</arapca>
+        <turkce>Külli dua
+            Allahümme inna nes'elüke min hayri ma seeleke minhü nebbiyyüke Muhammedün. Ve neuzü bike min şerri ma istiaze minh nebiyyüke Muhammedün.</turkce>
+            <anlam>Allahım, Resulün Muhammed'in (SAV) istediği hayırlı şeyleri bizde sende istiyor, onun sana sığındığı şeylerin şerrinde biz de sana sığınıyoruz.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="51">
+        <baslik>Deccalden ve Kabir azabından Allah'a sığınmak için okunacak dua</baslik>
+        <arapca>Deccalden ve Kabir azabından Allah'a sığınmak için okunacak dua</arapca>
+        <turkce>Allahümme inni euzü bike min azabi cehennem. ve euzü bike min azabi'l kabri. Ve euzü bike min fittneti'l mesih-id Deccali. Ve euzü bike min
+            fitteti'l-mehya ve'l memat.
+        </turkce>
+        <anlam>Allah'ım cehennem azabından, kabir azabından Mesih-i Deccal fitnesinden, hayat ve ölümün fitnesinden sana sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+    <dua id="52">
+        <baslik>Borçtan Allaha sığınmak</baslik>
+        <arapca>Borçtan Allaha sığınmak</arapca>
+        <turkce>  Borçtan Allaha sığınmak
+            Allahümme inni euzü bike mine'l hemmi ve'l hezeni ve'l aczi ve'l-keseli ve'l-buhli ve dalai'dideyni ve galabeti'r-ricali
+           </turkce>
+        <anlam> Allahım sıkıntıdan üzüntüden güçsüzlükten tenbellikten cimrilikten borcun yükünden vr kişilerin tahakkümünden sana sığınırım.
+        </anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="53">
+        <baslik>Nimetin devamı için yapılacak dua</baslik>
+        <arapca>Nimetin devamı için yapılacak dua</arapca>
+        <turkce>Nimetin devamı için yapılacak dua
+            Allahümme inni euzü bike min zevali ni'metike ve tahavvüli afiye-tike ve füceti ni'metike ve cemi'i sahatike.
+            </turkce>
+        <anlam> Allahım, ihsan etmekte olduğun nimetin elimden çıkmasından, sağlığımın bozulmasından, aniden karşılaşacağım musibetlerden ve gazabını gerektiren herşeyden sana sığınırım.
+        </anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="54">
+        <baslik>Fakirlikten Allaha sığınmak için okunacak dua</baslik>
+        <arapca>Fakirlikten Allaha sığınmak için okunacak dua</arapca>
+        <turkce>Fakirlikten Allaha sığınmak için okunacak dua
+            Allahümme inni euzü bi vechike'l-kerimi vesmike'l-azimi mine'l-küfri ve'l-fakri.
+         </turkce>
+        <anlam>Allahım küfürden, fakirlikten Kerim yüzüne ve Azim ismine sığınırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="55">
+        <baslik>Abdest alırken okunacak dua</baslik>
+        <arapca>Abdest alırken okunacak dua</arapca>
+        <turkce>
+            Elleri yıkarken
+            Elhamdülillahillezi ceale'l-mae tahuran ve'l-İslama nura.
+
+            Ağza su verirken,
+            Allahümme einni ala tilaveti'l-Kur'ani ve zikrike ve şükrike hüzni ibadetik.
+
+            Burna su verirken
+            Allahümme erıhni raihate'l-emaneti ve la türihni raihate'n-nar.
+
+            Yüzü yıkarken
+            Allahümme beyyıd vechi yevme tebyaddu vücuhün ve tesveddü vücuh.
+
+            Sağ kolu yıkarken
+            Allahümme a'tini kitabi biyemini ve hasibni hisaben yesira.
+
+            Sol kolu yıkarken
+            Allahümme la tu'tıni kitabi biyesari ve la min verai zahri vela tuhasibni hisaben şedida.
+
+            Başı meshederken
+            Allahümme ezilli tahte zılli arşike yevme la zılla illa zıllü arşik.
+
+            Kulakları meshederken
+            Allahümme'c'alni minellezine yestemiune'l-kavle feyettebiune ahseneh.
+
+            Boynu meshederken;
+            Allahümme a'tık rakabeti mine'n-nar
+
+            Ayakları yıkarken
+            Allahümme sebbit kademeyye ale's-sırrati yevme tezillü fihi'l-akdam.
+
+            Abdest bittiğinde;
+            Kıbleye dönüp şehadet getirmek sünnettir.
+            Kadir suresini okumak abdestin adabındandır.
+
+        </turkce>
+        <anlam>
+
+            Elleri yıkarken
+            Suyu temizleyici ve İslamı nur kılan Allaha hamdolsun.
+
+            Ağza su verirken,
+            Allahım, Kuran okumak, seni zikir e sana şükür etmek , sana olan ibadetimi güzelleştirmek hususlarında bana yardım et.
+
+            Burna su verirken
+            Allah'ım, bana cennet kokusunu koklat, cehennem kokusunu koklatma.
+
+            Yüzü yıkarken
+            Allahım, bazı yüzlerin ak çıktığı, bazı yüzlerin de kara olduğu o günde benim yüzümü ak kıl.
+
+            Sağ kolu yıkarken
+            Allah’ım, amel defterimi sağımdan ver ve hesabımı kolay vermemi ihsan et.
+
+            Sol kolu yıkarken
+            Allahım, amel defterimi solumdan ve arkamdan verme. Beni şiddetli bir hesap ile sorguya çekme.
+
+            Başı meshederken
+            Allahım, senin arşının gölgesinden başka gölge olmadığı günde beni arşının gölgesinde gölgelendir.
+
+            Kulakları meshederken
+            Allahım, beni hak sözü işitip, en güzeline uyanlardan et.
+
+            Boynu meshederken;
+            Allahım, boynumu cehennem ateşinden azad et.
+
+            Ayakları yıkarken
+            Allahım ayakların kayacağı günde benim ayaklarımı sırak Köprüsün üzerinde kaydırma, doğru yoldan ayırma.
+
+            Abdest bittiğinde;
+            Kıbleye dönüp şehadet getirmek sünnettir.
+            Kadir suresini okumak abdestin adabındandır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="56">
+        <baslik>Camiye girerken okunacak dua</baslik>
+        <arapca>Camiye girerken okunacak dua</arapca>
+        <turkce>Camiye girerken okunacak dua
+            Bismillahi ve's-selamü ala Resulillah, Allahümmağfirli zünubi veftah li ebvabe rahmetike.
+            </turkce>
+        <anlam>Allah’ın ismiyle girerim. Selam Allah’ın Resulune olsun. Allah’ım günahlarımı affet ve rahmet kapılarını bana aç.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="57">
+        <baslik>Camiden çıkarken okunacak dua</baslik>
+        <arapca>Camiden çıkarken okunacak dua</arapca>
+        <turkce>Bismillahi ve's-selamü ala Resulillah, Allahümmağfirli zünubi veftah li ebvabe fazlike.
+        </turkce>
+        <anlam>Allah’ın ismiyle çıkarım.Selam Allah’ın Resulune olsun. Allah’ım günahlarımı bağışla ve ikram kapılarını bana aç.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+</dualar>
+
+

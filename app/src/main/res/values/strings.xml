@@ -1,0 +1,1909 @@
+<resources>
+    <string name="app_name">Cevher</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="sifirla">Sayacı Yenile</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="tesbih">Sanal Tesbih</string>
+    <string name="tesbihat">Namaz Tesbihatı</string>
+    <string name="yenile">Yenile</string>
+    <string name="cevsen1">Cevşen</string>
+    <string name="tamam">Tamam</string>
+    <string name="manuel">Manuel Tesbih</string>
+    <string name="cvsarapca">Arapça</string>
+    <string name="cvsturkce">Türkçe</string>
+    <string name="cvsmeal">Meal</string>
+    <string name="kaydet">Tamam</string>
+    <string name="cevsen">Cevşen</string>
+    <string name="kuran">"Kuran-ı Kerim"</string>
+    <string name="tecvid">Tecvid</string>
+    <string name="veritabani">VeriTabani</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="ilmihal">İlmihal</string>
+    <string name="dualar">Dualar</string>
+    <string name="uhud">Şüheda-i Uhud</string>
+    <string name="bedir">Ashab-ı Bedir</string>
+    <string name="zikirmatik">Zikirmatik</string>
+    <string name="vakit">Namaz Vakitleri</string>
+
+
+    <string name="html_title">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Uygulama Kılavuzu</a>
+
+                ]]>
+      </string>
+
+
+    <string name="html_cevsensayfasi">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Cevşen Sayfası Ayarları</a>
+
+                ]]>
+      </string>
+
+
+    <string name="html_kuransayfasi">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Kuran Sayfası Ayarları</a>
+
+                ]]>
+      </string>
+
+    <string name="html_kaydet">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Kaydet</a>
+
+                ]]>
+      </string>
+
+    <string name="html_progresbaslik">
+
+          <![CDATA[
+                    <a><font color=#8B4789>Namaz Vakitleri</a>
+
+                ]]>
+      </string>
+
+    <string name="html_progresmetin"><![CDATA[
+
+
+                     <a><font color=#8B4789>Bilgiler hazırlanıyor…</a>
+
+
+      ]]></string>
+
+    <string name="html_sayacbaslik">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Sayacı Başa Al</a>
+
+                ]]>
+      </string>
+
+    <string name="html_sayacmetin"><![CDATA[
+
+
+                    <a><font color=#8B4789>Sanal Sayaç başa alınacak.</a>
+
+
+      ]]></string>
+
+    <string name="html_yonlendir">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Sayfa Yönlendirme</a>
+
+                ]]>
+      </string>
+
+    <string name="html_yonlendirmetin"><![CDATA[
+
+
+                     <a><font color=#8B4789>Gitmek istediğiniz sayfayı seçiniz</a>
+
+
+      ]]></string>
+
+    <string name="mektubat">
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+        بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ
+
+وَ بِهٖ نَسْتَعٖينُ
+
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Birinci Mektup
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+بِاسْمِهٖ سُبْحَانَهُ وَ اِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهٖ
+
+Dört sualin muhtasar cevabıdır.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Birinci Sual
+Hazret-i Hızır aleyhisselâm hayatta mıdır? Hayatta ise niçin bazı mühim ulema hayatını kabul etmiyorlar?
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Elcevap: Hayattadır fakat meratib-i hayat beştir. O, ikinci mertebededir. Bu sebepten bazı ulema hayatında şüphe etmişler.
+
+Birinci Tabaka-i Hayat: Bizim hayatımızdır ki çok kayıtlarla mukayyeddir.
+
+İkinci Tabaka-i Hayat: Hazret-i Hızır ve İlyas aleyhimesselâmın hayatlarıdır ki bir derece serbesttir. Yani bir vakitte pek çok yerlerde bulunabilirler. Bizim gibi beşeriyet levazımatıyla daimî mukayyed değillerdir. Bazen istedikleri vakit bizim gibi yerler, içerler fakat bizim gibi mecbur değillerdir. Tevatür derecesinde, ehl-i şuhud ve keşif olan evliyanın Hazret-i Hızır ile maceraları, bu tabaka-i hayatı tenvir ve ispat eder. Hattâ makamat-ı velayette bir makam vardır ki “Makam-ı Hızır” tabir edilir. O makama gelen bir veli, Hızır’dan ders alır ve Hızır ile görüşür. Fakat bazen o makam sahibi, yanlış olarak ayn-ı Hızır telakki olunur.
+
+Üçüncü Tabaka-i Hayat: Hazret-i İdris ve İsa aleyhimesselâmın tabaka-i hayatlarıdır ki beşeriyet levazımatından tecerrüd ile melek hayatı gibi bir hayata girerek nurani bir letafet kesbeder. Âdeta beden-i misalî letafetinde ve cesed-i necmî nuraniyetinde olan cism-i dünyevîleriyle semavatta bulunurlar.
+
+Âhir zamanda Hazret-i İsa aleyhisselâm gelecek, şeriat-ı Muhammediye (asm) ile amel edecek mealindeki hadîsin sırrı şudur ki: Âhir zamanda felsefe-i tabiiyenin verdiği cereyan-ı küfrîye ve inkâr-ı uluhiyete karşı İsevîlik dini tasaffi ederek ve hurafattan tecerrüd edip İslâmiyet’e inkılab edeceği bir sırada, nasıl ki İsevîlik şahs-ı manevîsi, vahy-i semavî kılıncıyla o müthiş dinsizliğin şahs-ı manevîsini öldürür; öyle de Hazret-i İsa aleyhisselâm, İsevîlik şahs-ı manevîsini temsil ederek, dinsizliğin şahs-ı manevîsini temsil eden Deccal’ı öldürür yani inkâr-ı uluhiyet fikrini öldürecek.
+
+Dördüncü Tabaka-i Hayat: Şüheda hayatıdır. Nass-ı Kur’an’la şühedanın, ehl-i kuburun fevkinde bir tabaka-i hayatları vardır. Evet şüheda, hayat-ı dünyevîlerini tarîk-ı hakta feda ettikleri için Cenab-ı Hak kemal-i kereminden onlara hayat-ı dünyeviyeye benzer fakat kedersiz, zahmetsiz bir hayatı âlem-i berzahta onlara ihsan eder. Onlar kendilerini ölmüş bilmiyorlar yalnız kendilerinin daha iyi bir âleme gittiklerini biliyorlar, kemal-i saadetle mütelezziz oluyorlar, ölümdeki firak acılığını hissetmiyorlar.
+
+Ehl-i kuburun çendan ruhları bâkidir fakat kendilerini ölmüş biliyorlar. Berzahta aldıkları lezzet ve saadet, şühedanın lezzetine yetişmez. Nasıl ki iki adam bir rüyada cennet gibi bir güzel saraya girerler. Birisi rüyada olduğunu bilir. Aldığı keyif ve lezzet pek noksandır. “Ben uyansam şu lezzet kaçacak.” diye düşünür. Diğeri rüyada olduğunu bilmiyor. Hakiki lezzet ile hakiki saadete mazhar olur.
+
+İşte âlem-i berzahtaki emvat ve şühedanın hayat-ı berzahiyeden istifadeleri, öyle farklıdır. Hadsiz vakıatla ve rivayatla şühedanın bu tarz-ı hayata mazhariyetleri ve kendilerini sağ bildikleri sabit ve kat’îdir.
+
+Hattâ Seyyidü’ş-şüheda olan Hazret-i Hamza radıyallahu anh, mükerrer vakıatla kendine iltica eden adamları muhafaza etmesi ve dünyevî işlerini görmesi ve gördürmesi gibi çok vakıatla, bu tabaka-i hayat tenvir ve ispat edilmiş.
+
+Hattâ –ben kendim– Ubeyd isminde bir yeğenim ve talebem vardı. Benim yanımda ve benim yerime şehit olduktan sonra, üç aylık mesafede esarette bulunduğum zaman, mahall-i defnini bilmediğim halde, bence bir rüya-yı sadıkada, tahte’l-arz bir menzil suretindeki kabrine girmişim. Onu şüheda tabaka-i hayatında gördüm. O, beni ölmüş biliyormuş. Benim için çok ağladığını söyledi. Kendisini hayatta biliyor fakat Rus’un istilasından çekindiği için yer altında kendine güzel bir menzil yapmış. İşte bu cüz’î rüya, bazı şerait ve emaratla, geçen hakikate, bana şuhud derecesinde bir kanaat vermiştir.
+
+Beşinci Tabaka-i Hayat: Ehl-i kuburun hayat-ı ruhanîleridir. Evet mevt; tebdil-i mekândır, ıtlak-ı ruhtur, vazifeden terhistir. İdam ve adem ve fena değildir. Hadsiz vakıatla ervah-ı evliyanın temessülleri ve ehl-i keşfe tezahürleri ve sair ehl-i kuburun yakazaten ve menamen bizlerle münasebetleri ve vakıa mutabık olarak bizlere ihbaratları gibi çok delail, o tabaka-i hayatı tenvir ve ispat eder. Zaten beka-i ruha dair “Yirmi Dokuzuncu Söz” bu tabaka-i hayatı delail-i kat’iye ile ispat etmiştir.
+
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+İkinci Sual
+Furkan-ı Hakîm’de اَلَّذٖى خَلَقَ الْمَوْتَ وَالْحَيٰوةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا gibi âyetlerde “Mevt dahi hayat gibi mahluktur hem bir nimettir.” diye ifham ediliyor. Halbuki zahiren mevt; inhilaldir, ademdir, tefessühtür, hayatın sönmesidir, hēdimü’l-lezzattır. Nasıl mahluk ve nimet olabilir?
+
+Elcevap: Birinci Sual’in cevabının âhirinde denildiği gibi mevt, vazife-i hayattan bir terhistir bir paydostur bir tebdil-i mekândır bir tahvil-i vücuddur, hayat-ı bâkiyeye bir davettir bir mebdedir bir hayat-ı bâkiyenin mukaddimesidir. Nasıl ki hayatın dünyaya gelmesi bir halk ve takdir iledir, öyle de dünyadan gitmesi de bir halk ve takdir ile bir hikmet ve tedbir iledir.
+
+Çünkü en basit tabaka-i hayat olan hayat-ı nebatiyenin mevti, hayattan daha muntazam bir eser-i sanat olduğunu gösteriyor. Zira meyvelerin, çekirdeklerin, tohumların mevti; tefessüh ile çürümek ve dağılmakla göründüğü halde, gayet muntazam bir muamele-i kimyeviye ve mizanlı bir imtizacat-ı unsuriye ve hikmetli bir teşekkülat-ı zerreviyeden ibaret olan bir yoğurmaktır ki bu görünmeyen intizamlı ve hikmetli ölümü, sümbülün hayatıyla tezahür ediyor.
+
+Demek çekirdeğin mevti, sümbülün mebde-i hayatıdır; belki ayn-ı hayatı hükmünde olduğu için şu ölüm dahi hayat kadar mahluk ve muntazamdır.
+
+Hem zîhayat meyvelerin yahut hayvanların mide-i insaniyede ölümleri, hayat-ı insaniyeye çıkmalarına menşe olduğundan “O mevt, onların hayatından daha muntazam ve mahluk.” denilir.
+
+İşte en edna tabaka-i hayat olan hayat-ı nebatiyenin mevti; böyle mahluk, hikmetli ve intizamlı olsa tabaka-i hayatın en ulvisi olan hayat-ı insaniyenin başına gelen mevt, elbette yer altına girmiş bir çekirdeğin hava âleminde bir ağaç olması gibi; yer altına giren bir insan da âlem-i berzahta elbette bir hayat-ı bâkiye sümbülü verecektir.
+
+Amma mevt, nimet olduğunun ciheti ise çok vücuhundan dört vechine işaret ederiz:
+
+Birincisi: Ağırlaşmış olan vazife-i hayattan ve tekâlif-i hayatiyeden âzad edip yüzde doksan dokuz ahbabına kavuşmak için âlem-i berzahta bir visal kapısı olduğundan, en büyük bir nimettir.
+
+İkincisi: Dar, sıkıntılı, dağdağalı, zelzeleli dünya zindanından çıkarıp; vüs’atli, sürurlu, ızdırapsız, bâki bir hayata mazhariyetle Mahbub-u Bâki’nin daire-i rahmetine girmektir.
+
+Üçüncüsü: İhtiyarlık gibi şerait-i hayatiyeyi ağırlaştıran birçok esbab vardır ki mevti, hayatın pek fevkinde nimet olarak gösterir.
+
+Mesela, sana ızdırap veren pek ihtiyar olmuş peder ve validen ile beraber, ceddin cedleri, sefalet-i halleriyle senin önünde şimdi bulunsaydı hayat ne kadar nıkmet, mevt ne kadar nimet olduğunu bilecektin.
+
+Hem mesela, güzel çiçeklerin âşıkları olan güzel sineklerin kışın şedaidi içinde hayatları ne kadar zahmet ve ölümleri ne kadar rahmet olduğu anlaşılır.
+
+Dördüncüsü: Nevm nasıl ki bir rahat bir rahmet bir istirahattir; hususan musibetzedeler, yaralılar, hastalar için… Öyle de nevmin büyük kardeşi olan mevt dahi musibetzedelere ve intihara sevk eden belalarla müptela olanlar için ayn-ı nimet ve rahmettir.
+
+Amma ehl-i dalalet için müteaddid Sözlerde kat’î ispat edildiği gibi; mevt dahi hayat gibi nıkmet içinde nıkmet, azap içinde azaptır. O, bahisten hariçtir.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Üçüncü Sual
+Cehennem nerededir?
+
+Elcevap: قُلْ اِنَّمَا الْعِلْمُ عِنْدَ اللّٰهِ ۞ لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ Cehennemin yeri, bazı rivayatla “tahte’l-arz” denilmiştir. Başka yerlerde beyan ettiğimiz gibi küre-i arz, hareket-i seneviyesiyle ileride mecma-ı haşir olacak bir meydanın etrafında bir daire çiziyor. Cehennem ise arzın o medar-ı senevîsi altındadır, demektir. Görünmemeleri ve hissedilmemeleri, perdeli ve nursuz ateş olduğu içindir. Küre-i arzın seyahat ettiği mesafe-i azîmede pek çok mahlukat var ki nursuz oldukları için görünmezler. Kamer, nuru çekildikçe vücudunu kaybettiği gibi nursuz çok küreler, mahluklar gözümüzün önünde olup göremiyoruz.
+
+Cehennem ikidir: Biri suğra, biri kübradır. İleride suğra, kübraya inkılab edeceği ve çekirdeği hükmünde olduğu gibi ileride ondan bir menzil olur. Cehennem-i suğra yerin altında, yani merkezindedir. Kürenin altı, merkezidir.
+
+İlm-i tabakatü’l-arzca malûmdur ki: Ekseriya her otuz üç metre hafriyatta, bir derece-i hararet tezayüd eder. Demek, merkeze kadar nısf-ı kutr-u arz, altı bin küsur kilometre olduğundan iki yüz bin derece-i harareti câmi’, yani iki yüz defa ateş-i dünyevîden şedit ve rivayet-i hadîse muvafık bir ateş bulunuyor.
+
+Şu cehennem-i suğra, cehennem-i kübraya ait çok vezaifi, dünyada ve âlem-i berzahta görmüş ve ehadîslerle işaret edilmiştir. Âlem-i âhirette, küre-i arz nasıl ki sekenesini medar-ı senevîsindeki meydan-ı haşre döker; öyle de içindeki cehennem-i suğrayı dahi cehennem-i kübraya emr-i İlahî ile teslim eder. Ehl-i İtizal’in bazı imamları “Cehennem sonradan halk edilecektir.” demeleri, hal-i hazırda tamamıyla inbisat etmediğinden ve sekenelerine tam münasip bir tarzda inkişaf etmediğinden galattır ve gabavettir.
+
+Hem perde-i gayb içindeki âlem-i âhirete ait menzilleri dünya gözümüzle görmek ve göstermek için ya kâinatı küçültüp iki vilayet derecesine getirmeli veyahut gözümüzü büyütüp yıldızlar gibi gözlerimiz olmalı ki yerlerini görüp tayin edelim. وَالْعِلْمُ عِنْدَ اللّٰهِ âhiret âlemine ait menziller, bu dünyevî gözümüzle görülmez. Fakat bazı rivayatın işaratıyla âhiretteki cehennem, bu dünyamızla münasebettardır. Yazın şiddet-i hararetine مِنْ فَيْحِ جَهَنَّمَ denilmiştir. Demek bu dünyevî, küçücük ve sönük akıl gözüyle o büyük cehennem görülmez. Fakat ism-i Hakîm’in nuruyla bakabiliriz. Şöyle ki:
+
+Arzın medar-ı senevîsi altında bulunan cehennem-i kübra, yerin merkezindeki cehennem-i suğrayı güya tevkil ederek bazı vezaifini gördürmüş. Kadîr-i Zülcelal’in mülkü pek çok geniştir. Hikmet-i İlahiye nereyi göstermiş ise cehennem-i kübra oraya yerleşir.
+
+Evet, bir Kadîr-i Zülcelal ve “Emr-i kün feyekûn”e mâlik bir Hakîm-i Zülkemal, gözümüzün önünde kemal-i hikmet ve intizam ile kameri arza bağlamış; azamet-i kudret ve intizam ile arzı güneşe rabtetmiş ve güneşi seyyaratıyla beraber arzın sürat-i seneviyesine yakın bir sürat ile ve haşmet-i rububiyetiyle, bir ihtimale göre Şemsü’ş-şümus tarafına bir hareket vermiş ve donanma elektrik lambaları gibi yıldızları, saltanat-ı rububiyetine nurani şahitler yapmış; onunla saltanat-ı rububiyetini ve azamet-i kudretini göstermiş bir Zat-ı Zülcelal’in kemal-i hikmetinden ve azamet-i kudretinden ve saltanat-ı rububiyetinden uzak değildir ki cehennem-i kübrayı elektrik lambalarının fabrikasının kazanı hükmüne getirip âhirete bakan semanın yıldızlarını onunla iş’al etsin; hararet ve kuvvet versin. Yani, âlem-i nur olan cennetten yıldızlara nur verip cehennemden nâr ve hararet göndersin. Aynı halde o cehennemin bir kısmını ehl-i azaba mesken ve mahbes yapsın.
+
+Hem bir Fâtır-ı Hakîm ki dağ gibi koca bir ağacı, tırnak gibi bir çekirdekte saklar. Elbette o Zat-ı Zülcelal’in kudret ve hikmetinden uzak değildir ki küre-i arzın kalbindeki cehennem-i suğra çekirdeğinde cehennem-i kübrayı saklasın.
+
+Elhasıl: Cennet ve cehennem, şecere-i hilkatten ebed tarafına uzanıp eğilerek giden bir dalın iki meyvesidir. Meyvenin yeri ise dalın müntehasındadır.
+
+Hem şu silsile-i kâinatın iki neticesidir. Neticelerin mahalleri, silsilenin iki tarafındadır. Süflîsi, sakîli aşağı tarafında; nuranisi, ulvisi yukarı tarafındadır.
+
+Hem şu seyl-i şuunatın ve mahsulat-ı maneviye-i arziyenin iki mahzenidir. Mahzenin mekânı ise mahsulatın nevine göre fenası altında, iyisi üstündedir.
+
+Hem ebede karşı cereyan eden ve dalgalanan mevcudat-ı seyyalenin iki havuzudur. Havuzun yeri ise seylin durduğu ve tecemmu ettiği yerdedir. Yani habîsatı ve muzahrefatı esfelde, tayyibatı ve safiyatı a’lâdadır.
+
+Hem lütuf ve kahrın, rahmet ve azametin iki tecelligâhıdır. Tecelligâhın yeri ise her yerde olabilir. Rahman-ı Zülcemal ve Kahhar-ı Zülcelal nerede isterse tecelligâhını açar.
+
+Amma cennet ve cehennemin vücudları ise Onuncu ve Yirmi Sekizinci ve Yirmi Dokuzuncu Sözler’de gayet kat’î bir surette ispat edilmiştir. Şurada yalnız bu kadar deriz ki: Meyvenin vücudu dal kadar ve neticenin silsile kadar ve mahzenin mahsulat kadar ve havuzun ırmak kadar ve tecelligâhın, rahmet ve kahrın vücudları kadar kat’î ve yakîndir.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Dördüncü Sual
+Mahbublara olan aşk-ı mecazî aşk-ı hakikiye inkılab ettiği gibi acaba ekser nâsda bulunan dünyaya karşı olan aşk-ı mecazî dahi bir aşk-ı hakikiye inkılab edebilir mi?
+
+Elcevap: Evet. Dünyanın fâni yüzüne karşı olan aşk-ı mecazî; eğer o âşık, o yüzün üstündeki zeval ve fena çirkinliğini görüp ondan yüzünü çevirse bâki bir mahbub arasa dünyanın pek güzel ve âyine-i esma-i İlahiye ve mezraa-i âhiret olan iki diğer yüzüne bakmaya muvaffak olursa o gayr-ı meşru mecazî aşk, o vakit aşk-ı hakikiye inkılaba yüz tutar. Fakat bir şart ile ki kendinin zâil ve hayatıyla bağlı kararsız dünyasını, haricî dünyaya iltibas etmemektir.
+
+Eğer ehl-i dalalet ve gaflet gibi kendini unutup âfaka dalıp umumî dünyayı hususi dünyası zannedip ona âşık olsa tabiat bataklığına düşer, boğulur. Meğerki hârika olarak bir dest-i inayet onu kurtarsın. Şu hakikati tenvir için şu temsile bak. Mesela:
+
+Şu güzel ziynetli odanın dört duvarında, dördümüze ait dört endam âyinesi bulunsa o vakit beş oda olur. Biri hakiki ve umumî, dördü misalî ve hususi… Her birimiz kendi âyinemiz vasıtasıyla, hususi odamızın şeklini, heyetini, rengini değiştirebiliriz. Kırmızı boya vursak kırmızı, yeşil boyasak yeşil gösterir ve hâkeza… Âyinede tasarrufla çok vaziyetler verebiliriz; çirkinleştirir, güzelleştirir, çok şekillere koyabiliriz. Fakat haricî ve umumî odayı ise kolaylıkla tasarruf ve tağyir edemeyiz. Hususi oda ile umumî oda hakikatte birbirinin aynı iken ahkâmda ayrıdırlar. Sen bir parmak ile odanı harap edebilirsin, ötekinin bir taşını bile kımıldatamazsın.
+
+İşte dünya süslü bir menzildir. Her birimizin hayatı, bir endam âyinesidir. Şu dünyadan her birimize birer dünya var, birer âlemimiz var. Fakat direği, merkezi, kapısı, hayatımızdır. Belki o hususi dünyamız ve âlemimiz, bir sahifedir. Hayatımız bir kalem, onunla sahife-i a’malimize geçecek çok şeyler yazılıyor.
+
+Eğer dünyamızı sevdikse sonra gördük ki dünyamız hayatımız üstünde bina edildiği için hayatımız gibi zâil, fâni, kararsızdır, hissedip bildik. Ona ait muhabbetimiz, o hususi dünyamız âyine olduğu ve temsil ettiği güzel nukuş-u esma-i İlahiyeye döner; ondan, cilve-i esmaya intikal eder.
+
+Hem o hususi dünyamız, âhiret ve cennetin muvakkat bir fidanlığı olduğunu derk edip ona karşı şedit hırs ve talep ve muhabbet gibi hissiyatımızı onun neticesi ve semeresi ve sümbülü olan uhrevî fevaidine çevirsek o vakit o mecazî aşk, hakiki aşka inkılab eder.
+
+Yoksa نَسُوا اللّٰهَ فَاَنْسٰيهُمْ اَنْفُسَهُمْ اُولٰٓئِكَ هُمُ الْفَاسِقُونَ sırrına mazhar olup nefsini unutup hayatın zevalini düşünmeyerek hususi kararsız dünyasını, aynı umumî dünya gibi sabit bilip kendini lâyemut farz ederek dünyaya saplansa, şedit hissiyat ile ona sarılsa onda boğulur, gider. O muhabbet onun için hadsiz bela ve azaptır. Çünkü o muhabbetten yetimane bir şefkat, meyusane bir rikkat tevellüd eder. Bütün zîhayatlara acır, hattâ güzel ve zevale maruz bütün mahlukata bir rikkat ve bir firkat hisseder; elinden bir şey gelmez, yeis-i mutlak içinde elem çeker.
+
+Fakat gafletten kurtulan evvelki adam, o şedit şefkatin elemine karşı ulvi bir tiryak bulur ki acıdığı bütün zîhayatların mevt ve zevalinde bir Zat-ı Bâki’nin bâki esmasının daimî cilvelerini temsil eden âyine-i ervahları bâki görür; şefkati, bir sürura inkılab eder.
+
+Hem zeval ve fenaya maruz bütün güzel mahlukatın arkasında bir cemal-i münezzeh ve hüsn-ü mukaddesi ihsas eden bir nakış ve tahsin ve sanat ve tezyin ve ihsan ve tenvir-i daimîyi görür. O zeval ve fenayı tezyid-i hüsün ve tecdid-i lezzet ve teşhir-i sanat için bir tazelendirmek şeklinde görüp lezzetini ve şevkini ve hayretini ziyadeleştirir.
+
+اَلْبَاقٖى هُوَ الْبَاقٖى
+
+Said Nursî
+
+***
+    </string>
+
+
+    <string name="lemalar">
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+        بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ
+
+فَنَادٰى فِى الظُّلُمَاتِ اَنْ لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ ۞ اِذْ نَادٰى رَبَّهُٓ اَنّٖى مَسَّنِىَ الضُّرُّ وَاَنْتَ اَرْحَمُ الرَّاحِمٖينَ ۞ فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِىَ اللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظٖيمِ ۞ حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكٖيلُ ۞ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ الْعَلِىِّ الْعَظٖيمِ ۞ يَا بَاقٖى اَنْتَ الْبَاقٖى ۞ يَا بَاقٖى اَنْتَ الْبَاقٖى ۞ لِلَّذٖينَ اٰمَنُوا هُدًى وَ شِفَٓاءٌ
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Otuz Birinci Mektup’un birinci kısmı; her zaman, hususan mağrib ve işâ ortasında otuz üçer defa okunması çok faziletli bulunan mezkûr kelimat-ı mübarekenin her birinin çok envarından birer nurunu gösterecek altı lem’adır.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Birinci Lem’a
+Hazret-i Yunus İbn-i Metta alâ nebiyyina ve aleyhissalâtü vesselâmın münâcatı, en azîm bir münâcattır ve en mühim bir vesile-i icabe-i duadır.
+
+Hazret-i Yunus aleyhisselâmın kıssa-i meşhuresinin hülâsası: Denize atılmış, büyük bir balık onu yutmuş. Deniz fırtınalı ve gece dağdağalı ve karanlık ve her taraftan ümit kesik bir vaziyette لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ münâcatı, ona süraten vasıta-i necat olmuştur.
+
+Şu münâcatın sırr-ı azîmi şudur ki: O vaziyette esbab bi’l-külliye sukut etti. Çünkü o halde ona necat verecek öyle bir zat lâzım ki hükmü hem balığa hem denize hem geceye hem cevv-i semaya geçebilsin. Çünkü onun aleyhinde “gece, deniz ve hut” ittifak etmişler. Bu üçünü birden emrine musahhar eden bir zat onu sahil-i selâmete çıkarabilir. Eğer bütün halk onun hizmetkârı ve yardımcısı olsa idiler, yine beş para faydaları olmazdı. Demek, esbabın tesiri yok. Müsebbibü’l-esbab’dan başka bir melce olamadığını aynelyakîn gördüğünden sırr-ı ehadiyet, nur-u tevhid içinde inkişaf ettiği için şu münâcat birdenbire geceyi, denizi ve hutu musahhar etmiştir.
+
+O nur-u tevhid ile hutun karnını bir tahte’l-bahir gemisi hükmüne getirip ve zelzeleli dağvari emvac dehşeti içinde; denizi, o nur-u tevhid ile emniyetli bir sahra, bir meydan-ı cevelan ve tenezzühgâhı olarak o nur ile sema yüzünü bulutlardan süpürüp, kameri bir lamba gibi başı üstünde bulundurdu. Her taraftan onu tehdit ve tazyik eden o mahlukat, her cihette ona dostluk yüzünü gösterdiler. Tâ sahil-i selâmete çıktı, şecere-i yaktîn altında o lütf-u Rabbanîyi müşahede etti.
+
+İşte Hazret-i Yunus aleyhisselâmın birinci vaziyetinden yüz derece daha müthiş bir vaziyetteyiz. Gecemiz, istikbaldir. İstikbalimiz, nazar-ı gafletle onun gecesinden yüz derece daha karanlık ve dehşetlidir. Denizimiz, şu sergerdan küre-i zeminimizdir. Bu denizin her mevcinde binler cenaze bulunuyor, onun denizinden bin derece daha korkuludur. Bizim heva-yı nefsimiz, hutumuzdur; hayat-ı ebediyemizi sıkıp mahvına çalışıyor. Bu hut, onun hutundan bin derece daha muzırdır. Çünkü onun hutu yüz senelik bir hayatı mahveder. Bizim hutumuz ise yüz milyon seneler hayatın mahvına çalışıyor.
+
+Madem hakiki vaziyetimiz budur; biz de Hazret-i Yunus aleyhisselâma iktidaen, umum esbabdan yüzümüzü çevirip doğrudan doğruya Müsebbibü’l-esbab olan Rabb’imize iltica edip لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ demeliyiz ve aynelyakîn anlamalıyız ki gaflet ve dalaletimiz sebebiyle aleyhimize ittifak eden istikbal, dünya ve heva-yı nefsin zararlarını def’edecek yalnız o zat olabilir ki istikbal taht-ı emrinde, dünya taht-ı hükmünde, nefsimiz taht-ı idaresindedir.
+
+Acaba Hâlık-ı semavat ve arz’dan başka hangi sebep var ki en ince ve en gizli hatırat-ı kalbimizi bilecek ve bizim için istikbali, âhiretin icadıyla ışıklandıracak ve dünyanın yüz bin boğucu emvacından kurtaracak? Hâşâ, Zat-ı Vâcibü’l-vücud’dan başka hiçbir şey, hiçbir cihette onun izni ve iradesi olmadan imdat edemez ve halâskâr olamaz.
+
+Madem hakikat-i hal böyledir. Nasıl ki Hazret-i Yunus aleyhisselâma o münâcatın neticesinde hutu ona bir merkûb, bir tahte’l-bahir ve denizi bir güzel sahra ve gece mehtaplı bir latîf suret aldı. Biz dahi o münâcatın sırrıyla لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ demeliyiz. لَٓا اِلٰهَ اِلَّٓا اَنْتَ cümlesiyle istikbalimize سُبْحَانَكَ kelimesiyle dünyamıza اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ fıkrasıyla nefsimize nazar-ı merhametini celbetmeliyiz.
+
+Tâ ki nur-u iman ile ve Kur’an’ın mehtabıyla istikbalimiz tenevvür etsin ve o gecemizin dehşet ve vahşeti, ünsiyet ve tenezzühe inkılab etsin.
+
+Ve mütemadiyen mevt ve hayatın değişmesiyle seneler ve karnlar emvacı üstünde hadsiz cenazeler binip ademe atılan dünyamız ve zeminimizde, Kur’an-ı Hakîm’in tezgâhında yapılan bir sefine-i maneviye hükmüne geçen hakikat-i İslâmiyet içine girip selâmetle o denizin üstünde gezip, tâ sahil-i selâmete çıkarak hayatımızın vazifesi bitsin. O denizin fırtınaları ve zelzeleleri, sinema perdeleri gibi tenezzühün manzaralarını tazelendirmekle, vahşet ve dehşet yerine, nazar-ı ibret ve tefekkürü keyiflendirerek okşayıp ışıklandırsın.
+
+Hem o sırr-ı Kur’an’la, o terbiye-i Furkaniye ile nefsimiz bize binmeyecek, merkûbumuz olup, bizi ona bindirip hayat-ı ebediyemizin kazanmasına kuvvetli bir vasıtamız olsun.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Elhasıl: Madem insan, mahiyetinin câmiiyeti itibarıyla sıtmadan müteellim olduğu gibi arzın zelzele ve ihtizazatından ve kâinatın kıyamet hengâmında zelzele-i kübrasından müteellim oluyor. Ve nasıl ki hurdebînî bir mikroptan korkar, ecram-ı ulviyeden zuhur eden kuyruklu yıldızdan dahi korkar. Hem nasıl ki hanesini sever, koca dünyayı da öyle sever. Hem nasıl ki küçük bahçesini sever, öyle de hadsiz ebedî cenneti dahi müştakane sever.
+
+Elbette böyle bir insanın Mabud’u, Rabb’i, melcei, halâskârı, maksudu öyle bir zat olabilir ki umum kâinat onun kabza-i tasarrufunda, zerrat ve seyyarat dahi taht-ı emrindedir. Elbette öyle bir insan daima Yunusvari (as) لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّٖى كُنْتُ مِنَ الظَّالِمٖينَ demeye muhtaçtır.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ
+
+***
+    </string>
+
+    <string name="sozler">
+
+Birinci Söz
+        <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ
+
+وَ بِهٖ نَسْتَعٖينُ
+
+اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمٖينَ وَ الصَّلَاةُ وَ السَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَ عَلٰى اٰلِهٖ وَ صَحْبِهٖ اَجْمَعٖينَ
+
+        <![CDATA[
+                       <br> <br> <br>
+
+                ]]>
+Ey kardeş! Benden birkaç nasihat istedin. Sen bir asker olduğun için askerlik temsilatıyla, sekiz hikâyecikler ile birkaç hakikati nefsimle beraber dinle. Çünkü ben nefsimi herkesten ziyade nasihate muhtaç görüyorum. Vaktiyle sekiz âyetten istifade ettiğim sekiz sözü biraz uzunca nefsime demiştim. Şimdi kısaca ve avam lisanıyla nefsime diyeceğim. Kim isterse beraber dinlesin.
+        <![CDATA[
+                        <br> <br> <br>
+
+                ]]>
+Birinci Söz
+         <![CDATA[
+                     <br> <br>
+
+                ]]>
+Bismillah her hayrın başıdır. Biz dahi başta ona başlarız. Bil ey nefsim, şu mübarek kelime İslâm nişanı olduğu gibi bütün mevcudatın lisan-ı haliyle vird-i zebanıdır.
+
+Bismillah ne büyük tükenmez bir kuvvet, ne çok bitmez bir bereket olduğunu anlamak istersen şu temsilî hikâyeciğe bak, dinle. Şöyle ki:
+
+Bedevî Arap çöllerinde seyahat eden adama gerektir ki bir kabile reisinin ismini alsın ve himayesine girsin, tâ şakîlerin şerrinden kurtulup hâcatını tedarik edebilsin. Yoksa tek başıyla hadsiz düşman ve ihtiyacatına karşı perişan olacaktır.
+
+İşte böyle bir seyahat için iki adam sahraya çıkıp gidiyorlar. Onlardan birisi mütevazi idi, diğeri mağrur. Mütevazii, bir reisin ismini aldı. Mağrur, almadı. Alanı, her yerde selâmetle gezdi. Bir kātıu’t-tarîke rast gelse der: “Ben, filan reisin ismiyle gezerim.” Şakî def’olur, ilişemez. Bir çadıra girse o nam ile hürmet görür. Öteki mağrur, bütün seyahatinde öyle belalar çeker ki tarif edilmez. Daima titrer, daima dilencilik ederdi. Hem zelil hem rezil oldu.
+
+İşte ey mağrur nefsim, sen o seyyahsın. Şu dünya ise bir çöldür. Aczin ve fakrın hadsizdir. Düşmanın, hâcatın nihayetsizdir. Madem öyledir, şu sahranın Mâlik-i Ebedî’si ve Hâkim-i Ezelî’sinin ismini al. Tâ bütün kâinatın dilenciliğinden ve her hâdisatın karşısında titremeden kurtulasın.
+
+Evet, bu kelime öyle mübarek bir definedir ki senin nihayetsiz aczin ve fakrın, seni nihayetsiz kudrete, rahmete rabtedip Kadîr-i Rahîm’in dergâhında aczi, fakrı en makbul bir şefaatçi yapar.
+
+Evet, bu kelime ile hareket eden, o adama benzer ki askere kaydolur, devlet namına hareket eder. Hiçbir kimseden pervası kalmaz. Kanun namına, devlet namına der, her işi yapar, her şeye karşı dayanır.
+
+Başta demiştik: Bütün mevcudat, lisan-ı hal ile Bismillah der. Öyle mi?
+
+Evet, nasıl ki görsen, bir tek adam geldi, bütün şehir ahalisini cebren bir yere sevk etti ve cebren işlerde çalıştırdı. Yakînen bilirsin; o adam kendi namıyla, kendi kuvvetiyle hareket etmiyor. Belki o, bir askerdir, devlet namına hareket eder, bir padişah kuvvetine istinad eder.
+
+Öyle de her şey, Cenab-ı Hakk’ın namına hareket eder ki zerrecikler gibi tohumlar, çekirdekler başlarında koca ağaçları taşıyor, dağ gibi yükleri kaldırıyorlar.
+
+Demek her bir ağaç, Bismillah der. Hazine-i rahmet meyvelerinden ellerini dolduruyor, bizlere tablacılık ediyor.
+
+Her bir bostan, Bismillah der. Matbaha-i kudretten bir kazan olur ki çeşit çeşit, pek çok muhtelif leziz taamlar, içinde beraber pişiriliyor.
+
+Her bir inek, deve, koyun, keçi gibi mübarek hayvanlar Bismillah der. Rahmet feyzinden birer süt çeşmesi olur. Bizlere Rezzak namına en latîf, en nazif, âb-ı hayat gibi bir gıdayı takdim ediyorlar.
+
+Her bir nebat ve ağaç ve otların ipek gibi yumuşak kök ve damarları, Bismillah der. Sert olan taş ve toprağı deler, geçer. Allah namına, Rahman namına der, her şey ona musahhar olur. Evet, havada dalların intişarı ve meyve vermesi gibi o sert taş ve topraktaki köklerin kemal-i suhuletle intişar etmesi ve yer altında yemiş vermesi hem şiddet-i hararete karşı aylarca nazik, yeşil yaprakların yaş kalması, tabiiyyunun ağzına şiddetle tokat vuruyor. Kör olası gözüne parmağını sokuyor ve diyor ki:
+
+En güvendiğin salabet ve hararet dahi emir tahtında hareket ediyorlar ki, o ipek gibi yumuşak damarlar, birer asâ-yı Musa (as) gibi فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ emrine imtisal ederek taşları şakkeder. Ve o sigara kâğıdı gibi ince nâzenin yapraklar, birer aza-yı İbrahim (as) gibi ateş saçan hararete karşı يَا نَارُ كُونٖى بَرْدًا وَ سَلَامًا âyetini okuyorlar.
+
+Madem her şey manen Bismillah der. Allah namına Allah’ın nimetlerini getirip bizlere veriyorlar. Biz dahi Bismillah demeliyiz. Allah namına vermeliyiz, Allah namına almalıyız. Öyle ise Allah namına vermeyen gafil insanlardan almamalıyız.
+
+Sual: Tablacı hükmünde olan insanlara bir fiyat veriyoruz. Acaba asıl mal sahibi olan Allah, ne fiyat istiyor?
+
+Elcevap: Evet, o Mün’im-i Hakiki, bizden o kıymettar nimetlere, mallara bedel istediği fiyat ise üç şeydir. Biri zikir, biri şükür, biri fikirdir.
+
+Başta Bismillah zikirdir.
+
+Âhirde Elhamdülillah şükürdür.
+
+Ortada, bu kıymettar hârika-i sanat olan nimetler Ehad-i Samed’in mu’cize-i kudreti ve hediye-i rahmeti olduğunu düşünmek ve derk etmek fikirdir. Bir padişahın kıymettar bir hediyesini sana getiren bir miskin adamın ayağını öpüp hediye sahibini tanımamak ne derece belâhet ise öyle de zahirî mün’imleri medih ve muhabbet edip Mün’im-i Hakiki’yi unutmak, ondan bin derece daha belâhettir.
+
+Ey nefis, böyle ebleh olmamak istersen Allah namına ver, Allah namına al, Allah namına başla, Allah namına işle. Vesselâm.
+
+***
+        <![CDATA[
+                     <br>
+
+                ]]>
+
+On Dördüncü Lem’a’nın İkinci Makamı
+(Makam münasebetiyle buraya alınmıştır.)
+
+بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ in binler esrarından altı sırrına dairdir.
+
+İhtar: Besmele’nin rahmet noktasında parlak bir nuru, sönük aklıma uzaktan göründü. Onu, kendi nefsim için nota suretinde kaydetmek istedim. Ve yirmi otuz kadar sırlar ile o nurun etrafında bir daire çevirmek ile avlamak ve zapt etmek arzu ettim. Fakat maatteessüf şimdilik o arzuma tam muvaffak olamadım. Yirmi otuzdan beş altıya indi.
+
+“Ey insan!” dediğim vakit nefsimi murad ediyorum. Bu ders kendi nefsime has iken ruhen benimle münasebettar ve nefsi nefsimden daha hüşyar zatlara belki medar-ı istifade olur niyetiyle, On Dördüncü Lem’a’nın İkinci Makamı olarak müdakkik kardeşlerimin tasviplerine havale ediyorum. Bu ders akıldan ziyade kalbe bakar, delilden ziyade zevke nâzırdır.
+
+         <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ
+
+قَالَتْ يَٓا اَيُّهَا الْمَلَؤُا اِنّٖٓى اُلْقِىَ اِلَىَّ كِتَابٌ كَرٖيمٌ اِنَّهُ مِنْ سُلَيْمٰنَ وَ اِنَّهُ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ
+
+Şu makamda birkaç sır zikredilecektir.
+
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Birinci Sır
+Bismillahirrahmanirrahîm’in bir cilvesini şöyle gördüm ki: Kâinat simasında, arz simasında ve insan simasında birbiri içinde birbirinin numunesini gösteren üç sikke-i rububiyet var.
+
+Biri: Kâinatın heyet-i mecmuasındaki teavün, tesanüd, teanuk, tecavübden tezahür eden sikke-i kübra-i uluhiyettir ki “Bismillah” ona bakıyor.
+
+İkincisi: Küre-i arz simasında nebatat ve hayvanatın tedbir ve terbiye ve idaresindeki teşabüh, tenasüp, intizam, insicam, lütuf ve merhametten tezahür eden sikke-i kübra-i rahmaniyettir ki “Bismillahirrahman” ona bakıyor.
+
+Sonra insanın mahiyet-i câmiasının simasındaki letaif-i re’fet ve dekaik-ı şefkat ve şuâat-ı merhamet-i İlahiyeden tezahür eden sikke-i ulyâ-i rahîmiyettir ki Bismillahirrahmanirrahîm’deki “Er-Rahîm” ona bakıyor.
+
+Demek Bismillahirrahmanirrahîm sahife-i âlemde bir satır-ı nurani teşkil eden üç sikke-i ehadiyetin kudsî unvanıdır ve kuvvetli bir haytıdır ve parlak bir hattıdır. Yani Bismillahirrahmanirrahîm yukarıdan nüzul ile semere-i kâinat ve âlemin nüsha-i musağğarası olan insana ucu dayanıyor. Ferşi arşa bağlar, insanî arşa çıkmaya bir yol olur.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+İkinci Sır
+Kur’an-ı Mu’cizü’l-Beyan, hadsiz kesret-i mahlukatta tezahür eden vâhidiyet içinde ukûlü boğmamak için daima o vâhidiyet içinde ehadiyet cilvesini gösteriyor. Yani, mesela nasıl ki güneş, ziyasıyla hadsiz eşyayı ihata ediyor. Mecmu-u ziyasındaki güneşin zatını mülahaza etmek için gayet geniş bir tasavvur ve ihatalı bir nazar lâzım olduğundan; güneşin zatını unutturmamak için her bir parlak şeyde güneşin zatını aksi vasıtasıyla gösteriyor. Ve her parlak şey, kendi kabiliyetince güneşin cilve-i zatîsiyle beraber ziyası, harareti gibi hâssalarını gösteriyor. Ve her parlak şey güneşi bütün sıfâtıyla kabiliyetine göre gösterdiği gibi, güneşin ziya ve hararet ve ziyadaki elvan-ı seb’a gibi keyfiyatlarının her birisi dahi umum mukabilindeki şeyleri ihata ediyor.
+
+Öyle de وَ لِلّٰهِ الْمَثَلُ الْاَعْلٰى –temsilde hata olmasın– ehadiyet ve samediyet-i İlahiye, her bir şeyde, hususan zîhayatta, hususan insanın mahiyet âyinesinde bütün esmasıyla bir cilvesi olduğu gibi; vahdet ve vâhidiyet cihetiyle dahi mevcudat ile alâkadar her bir ismi bütün mevcudatı ihata ediyor.
+
+İşte vâhidiyet içinde ukûlü boğmamak ve kalpler Zat-ı Akdes’i unutmamak için daima vâhidiyetteki sikke-i ehadiyeti nazara veriyor ki o sikkenin üç mühim ukdesini irae eden Bismillahirrahmanirrahîm’dir.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Üçüncü Sır
+Şu hadsiz kâinatı şenlendiren, bilmüşahede rahmettir. Ve bu karanlıklı mevcudatı ışıklandıran, bilbedahe yine rahmettir. Ve bu hadsiz ihtiyacat içinde yuvarlanan mahlukatı terbiye eden, bilbedahe yine rahmettir. Ve bir ağacın bütün heyetiyle meyvesine müteveccih olduğu gibi bütün kâinatı insana müteveccih eden ve her tarafta ona baktıran ve muavenetine koşturan, bilbedahe rahmettir. Ve bu hadsiz fezayı ve boş ve hâlî âlemi dolduran, nurlandıran ve şenlendiren, bilmüşahede rahmettir. Ve bu fâni insanı ebede namzet eden ve ezelî ve ebedî bir zata muhatap ve dost yapan, bilbedahe rahmettir.
+
+Ey insan, madem rahmet böyle kuvvetli ve cazibedar ve sevimli ve mededkâr bir hakikat-i mahbubedir. “Bismillahirrahmanirrahîm” de, o hakikate yapış ve vahşet-i mutlakadan ve hadsiz ihtiyacatın elemlerinden kurtul ve o Sultan-ı ezel ve ebed’in tahtına yanaş ve o rahmetin şefkatiyle ve şefaatiyle ve şuâatıyla o Sultan’a muhatap ve halil ve dost ol!
+
+Evet, kâinatın envaını hikmet dairesinde insanın etrafında toplayıp bütün hâcatına kemal-i intizam ve inayet ile koşturmak, bilbedahe iki haletten birisidir: Ya kâinatın her bir nev’i kendi kendine insanı tanıyor, ona itaat ediyor, muavenetine koşuyor. Bu ise yüz derece akıldan uzak olduğu gibi çok muhalatı intac ediyor. İnsan gibi bir âciz-i mutlakta, en kuvvetli bir Sultan-ı Mutlak’ın kudreti bulunmak lâzım geliyor. Veyahut bu kâinatın perdesi arkasında bir Kadîr-i Mutlak’ın ilmi ile bu muavenet oluyor. Demek kâinatın envaı, insanı tanıyor değil; belki insanı bilen ve tanıyan, merhamet eden bir zatın tanımasının ve bilmesinin delilleridir.
+
+Ey insan! Aklını başına al. Hiç mümkün müdür ki: Bütün enva-ı mahlukatı sana müteveccihen muavenet ellerini uzattıran ve senin hâcetlerine “Lebbeyk!” dedirten Zat-ı Zülcelal seni bilmesin, tanımasın, görmesin! Madem seni biliyor, rahmetiyle bildiğini bildiriyor. Sen de onu bil, hürmetle bildiğini bildir ve kat’iyen anla ki: Senin gibi zayıf-ı mutlak, âciz-i mutlak, fakir-i mutlak, fâni, küçük bir mahluka koca kâinatı musahhar etmek ve onun imdadına göndermek; elbette hikmet ve inayet ve ilim ve kudreti tazammun eden hakikat-i rahmettir. Elbette böyle bir rahmet, senden küllî ve hâlis bir şükür ve ciddi ve safi bir hürmet ister. İşte o hâlis şükrün ve o safi hürmetin tercümanı ve unvanı olan Bismillahirrahmanirrahîm’i de. O rahmetin vusulüne vesile ve o Rahman’ın dergâhında şefaatçi yap.
+
+Evet, rahmetin vücudu ve tahakkuku, güneş kadar zahirdir. Çünkü nasıl merkezî bir nakış, her taraftan gelen atkı ve iplerin intizamından ve vaziyetlerinden hasıl oluyor. Öyle de bu kâinatın daire-i kübrasında bin bir ism-i İlahînin cilvesinden uzanan nurani atkılar, kâinat simasında öyle bir sikke-i rahmet içinde bir hâtem-i rahîmiyeti ve bir nakş-ı şefkati dokuyor ve öyle bir hâtem-i inayeti nescediyor ki güneşten daha parlak kendini akıllara gösteriyor.
+
+Evet, şems ve kameri, anâsır ve maadini, nebatat ve hayvanatı bir nakş-ı a’zamın atkı ipleri gibi o bin bir isimlerin şuâlarıyla tanzim eden ve hayata hâdim eden ve nebatî ve hayvanî olan umum validelerin gayet şirin ve fedakârane şefkatleriyle şefkatini gösteren ve zevi’l-hayatı hayat-ı insaniyeye musahhar eden ve ondan rububiyet-i İlahiyenin gayet güzel ve şirin bir nakş-ı a’zamını ve insanın ehemmiyetini gösteren ve en parlak rahmetini izhar eden o Rahman-ı Zülcemal, elbette kendi istiğna-i mutlakına karşı, rahmetini ihtiyac-ı mutlak içindeki zîhayata ve insana makbul bir şefaatçi yapmış.
+
+Ey insan, eğer insan isen Bismillahirrahmanirrahîm de, o şefaatçiyi bul!
+
+Evet, zeminde dört yüz bin muhtelif ayrı ayrı nebatatın ve hayvanatın taifelerini, hiçbirini unutmayarak, şaşırmayarak, vakti vaktine kemal-i intizam ile hikmet ve inayet ile terbiye ve idare eden ve küre-i arzın simasında hâtem-i ehadiyeti vaz’eden, bilbedahe belki bilmüşahede rahmettir. Ve o rahmetin vücudu, bu küre-i arzın simasındaki mevcudatın vücudları kadar kat’î olduğu gibi o mevcudat adedince tahakkukunun delilleri var.
+
+Evet, zeminin yüzünde öyle bir hâtem-i rahmet ve sikke-i ehadiyet bulunduğu gibi insanın mahiyet-i maneviyesinin simasında dahi öyle bir sikke-i rahmet vardır ki küre-i arz simasındaki sikke-i merhamet ve kâinat simasındaki sikke-i uzma-yı rahmetten daha aşağı değil. Âdeta bin bir ismin cilvesinin bir nokta-i mihrakıyesi hükmünde bir câmiiyeti var.
+
+Ey insan, hiç mümkün müdür ki: Sana bu simayı veren, o simada böyle bir sikke-i rahmeti ve bir hâtem-i ehadiyeti vaz’eden zat, seni başı boş bıraksın, sana ehemmiyet vermesin, senin harekâtına dikkat etmesin, sana müteveccih olan bütün kâinatı abes yapsın, hilkat şeceresini meyvesi çürük, bozuk, ehemmiyetsiz bir ağaç yapsın! Hem hiçbir cihetle şüphe kabul etmeyen ve hiçbir vechile noksaniyeti olmayan, güneş gibi zahir olan rahmetini ve ziya gibi görünen hikmetini inkâr ettirsin. Hâşâ!
+
+Ey insan! Bil ki o rahmetin arşına yetişmek için bir mi’rac var. O mi’rac Bismillahirrahmanirrahîm’dir. Ve bu mi’rac ne kadar ehemmiyetli olduğunu anlamak istersen, Kur’an-ı Mu’cizü’l-Beyan’ın yüz on dört surelerinin başlarına ve hem bütün mübarek kitapların iptidalarına ve umum mübarek işlerin mebdelerine bak. Ve Besmele’nin azamet-i kadrine en kat’î bir hüccet şudur ki, İmam-ı Şafiî (ra) gibi çok büyük müçtehidler demişler: “Besmele tek bir âyet olduğu halde, Kur’an’da yüz on dört defa nâzil olmuştur.”
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Dördüncü Sır
+Hadsiz kesret içinde vâhidiyet tecellisi, hitab-ı اِيَّاكَ نَعْبُدُ demekle herkese kâfi gelmiyor. Fikir dağılıyor. Mecmuundaki vahdet arkasında Zat-ı Ehadiyeti mülahaza edip اِيَّاكَ نَعْبُدُ وَ اِيَّاكَ نَسْتَعٖينُ demeye, küre-i arz vüs’atinde bir kalp bulunmak lâzım geliyor. Ve bu sırra binaen cüz’iyatta zahir bir surette sikke-i ehadiyeti gösterdiği gibi her bir nevide sikke-i ehadiyeti göstermek ve Zat-ı Ehad’i mülahaza ettirmek için hâtem-i rahmaniyet içinde bir sikke-i ehadiyeti gösteriyor; tâ külfetsiz herkes her mertebede اِيَّاكَ نَعْبُدُ وَ اِيَّاكَ نَسْتَعٖينُ deyip doğrudan doğruya Zat-ı Akdes’e hitap ederek müteveccih olsun.
+
+İşte Kur’an-ı Hakîm, bu sırr-ı azîmi ifade içindir ki kâinatın daire-i a’zamından mesela, semavat ve arzın hilkatinden bahsettiği vakit, birden en küçük bir daireden ve en dakik bir cüz’îden bahseder; tâ ki zahir bir surette hâtem-i ehadiyeti göstersin. Mesela, hilkat-i semavat ve arzdan bahsi içinde hilkat-i insandan ve insanın sesinden ve simasındaki dekaik-ı nimet ve hikmetten bahis açar; tâ ki fikir dağılmasın, kalp boğulmasın, ruh mabudunu doğrudan doğruya bulsun. Mesela وَمِنْ اٰيَاتِهٖ خَلْقُ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافُ اَلْسِنَتِكُمْ وَ اَلْوَانِكُمْ âyeti mezkûr hakikati mu’cizane bir surette gösteriyor.
+
+Evet, hadsiz mahlukatta ve nihayetsiz bir kesrette vahdet sikkeleri, mütedâhil daireler gibi en büyüğünden en küçük sikkeye kadar envaı ve mertebeleri vardır. Fakat o vahdet ne kadar olsa yine kesret içinde bir vahdettir, hakiki hitabı tam temin edemiyor. Onun için vahdet arkasında ehadiyet sikkesi bulunmak lâzımdır. Tâ ki kesreti hatıra getirmesin. Doğrudan doğruya Zat-ı Akdes’e karşı kalbe yol açsın.
+
+Hem sikke-i ehadiyete nazarları çevirmek ve kalpleri celbetmek için o sikke-i ehadiyet üstünde gayet cazibedar bir nakış ve gayet parlak bir nur ve gayet şirin bir halâvet ve gayet sevimli bir cemal ve gayet kuvvetli bir hakikat olan rahmet sikkesini ve rahîmiyet hâtemini koymuştur. Evet, o rahmetin kuvvetidir ki zîşuurun nazarlarını celbeder, kendine çeker ve ehadiyet sikkesine îsal eder ve Zat-ı Ehadiyeyi mülahaza ettirir ve ondan اِيَّاكَ نَعْبُدُ وَ اِيَّاكَ نَسْتَعٖينُ deki hakiki hitaba mazhar eder.
+
+İşte Bismillahirrahmanirrahîm Fatiha’nın fihristesi ve Kur’an’ın mücmel bir hülâsası olduğu cihetle, bu mezkûr sırr-ı azîmin unvanı ve tercümanı olmuş. Bu unvanı eline alan, rahmetin tabakatında gezebilir. Ve bu tercümanı konuşturan, esrar-ı rahmeti öğrenir ve envar-ı rahîmiyeti ve şefkati görür.
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Beşinci Sır
+Bir hadîs-i şerifte vârid olmuş ki:
+
+اِنَّ اللّٰهَ خَلَقَ الْاِنْسَانَ عَلٰى صُورَةِ الرَّحْمٰنِ –اَوْ كَمَا قَالَ–
+
+Bu hadîsi, bir kısım ehl-i tarîkat, akaid-i imaniyeye münasip düşmeyen acib bir tarzda tefsir etmişler. Hattâ onlardan bir kısım ehl-i aşk, insanın sima-yı manevîsine bir suret-i Rahman nazarıyla bakmışlar. Ehl-i tarîkatın ekserinde sekr, ehl-i aşkın çoğunda istiğrak ve iltibas olduğundan, hakikate muhalif telakkilerinde belki mazurdurlar. Fakat aklı başında olanlar, fikren onların esas-ı akaide münafî olan manalarını kabul edemez. Etse hata eder.
+
+Evet, bütün kâinatı bir saray, bir ev gibi muntazam idare eden ve yıldızları zerreler gibi hikmetli ve kolay çeviren ve gezdiren ve zerratı muntazam memurlar gibi istihdam eden Zat-ı Akdes-i İlahî’nin şeriki, naziri, zıddı, niddi olmadığı gibi لَيْسَ كَمِثْلِهٖ شَىْءٌ وَهُوَ السَّمٖيعُ الْبَصٖيرُ sırrıyla sureti, misli, misali, şebihi dahi olamaz. Fakat
+
+وَلَهُ الْمَثَلُ الْاَعْلٰى فِى السَّمٰوَاتِ وَالْاَرْضِ وَهُوَ الْعَزٖيزُ الْحَكٖيمُ
+
+sırrıyla, mesel ve temsil ile şuunatına ve sıfât ve esmasına bakılır. Demek mesel ve temsil, şuunat nokta-i nazarında vardır.
+
+Şu mezkûr hadîs-i şerifin çok makasıdından birisi şudur ki insan, ism-i Rahman’ı tamamıyla gösterir bir surettedir. Evet, sâbıkan beyan ettiğimiz gibi kâinatın simasında bin bir ismin şuâlarından tezahür eden ism-i Rahman göründüğü gibi zemin yüzünün simasında rububiyet-i mutlaka-i İlahiyenin hadsiz cilveleriyle tezahür eden ism-i Rahman gösterildiği gibi insanın suret-i câmiasında küçük bir mikyasta zeminin siması ve kâinatın siması gibi yine o ism-i Rahman’ın cilve-i etemmini gösterir demektir.
+
+Hem işarettir ki: Zat-ı Rahmanu’r-Rahîm’in delilleri ve âyineleri olan zîhayat ve insan gibi mazharlar o kadar o Zat-ı Vâcibü’l-vücud’a delâletleri kat’î ve vâzıh ve zahirdir ki güneşin timsalini ve aksini tutan parlak bir âyine parlaklığına ve delâletinin vuzuhuna işareten “O âyine güneştir.” denildiği vakit, “İnsanda suret-i Rahman var.” vuzuh-u delâletine ve kemal-i münasebetine işareten denilmiş ve denilir. Ve ehl-i vahdetü’l-vücudun mutedil kısmı “Lâ mevcude illâ hû” bu sırra binaen, bu delâletin vuzuhuna ve bu münasebetin kemaline bir unvan olarak demişler.
+
+اَللّٰهُمَّ يَا رَحْمٰنُ يَا رَحٖيمُ بِحَقِّ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ اِرْحَمْنَا كَمَا يَلٖيقُ بِرَحٖيمِيَّتِكَ وَ فَهِّمْنَا اَسْرَارَ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ كَمَا يَلٖيقُ بِرَحْمَانِيَّتِكَ اٰمٖينَ
+ <![CDATA[
+                     <br> <br> <br>
+
+                ]]>
+Altıncı Sır
+Ey hadsiz acz ve nihayetsiz fakr içinde yuvarlanan bîçare insan! Rahmet, ne kadar kıymettar bir vesile ve ne kadar makbul bir şefaatçi olduğunu bununla anla ki o rahmet, öyle bir Sultan-ı Zülcelal’e vesiledir ki yıldızlarla zerrat beraber olarak kemal-i intizam ve itaatle –beraber– ordusunda hizmet ediyorlar. Ve o Zat-ı Zülcelal’in ve o Sultan-ı ezel ve ebed’in istiğna-i zatîsi var ve istiğna-i mutlak içindedir. Hiçbir cihetle kâinata ve mevcudata ihtiyacı olmayan bir Ganiyy-i Ale’l-ıtlak’tır. Ve bütün kâinat taht-ı emir ve idaresinde ve heybet ve azameti altında nihayet itaatte, celaline karşı tezellüldedir.
+
+İşte rahmet seni ey insan! O Müstağni-i Ale’l-ıtlak’ın ve Sultan-ı Sermedî’nin huzuruna çıkarır ve ona dost yapar ve ona muhatap eder ve sevgili bir abd vaziyetini verir. Fakat nasıl sen güneşe yetişemiyorsun, çok uzaksın, hiçbir cihetle yanaşamıyorsun. Fakat güneşin ziyası, güneşin aksini, cilvesini senin âyinen vasıtasıyla senin eline verir. Öyle de o Zat-ı Akdes’e ve o Şems-i ezel ve ebed’e biz çendan nihayetsiz uzağız, yanaşamayız. Fakat onun ziya-i rahmeti, onu bize yakın ediyor.
+
+İşte ey insan! Bu rahmeti bulan, ebedî tükenmez bir hazine-i nur buluyor. O hazineyi bulmasının çaresi: Rahmetin en parlak bir misali ve mümessili ve o rahmetin en beliğ bir lisanı ve dellâlı olan ve Rahmeten li’l-âlemîn unvanıyla Kur’an’da tesmiye edilen Resul-i Ekrem aleyhissalâtü vesselâmın sünnetidir ve tebaiyetidir. Ve bu Rahmeten li’l-âlemîn olan rahmet-i mücessemeye vesile ise salavattır. Evet, salavatın manası, rahmettir. Ve o zîhayat mücessem rahmete, rahmet duası olan salavat ise o Rahmeten li’l-âlemîn’in vusulüne vesiledir. Öyle ise sen salavatı kendine, o Rahmeten li’l-âlemîn’e vesile yap ve o zatı da rahmet-i Rahman’a vesile ittihaz et. Umum ümmetin Rahmeten li’l-âlemîn olan Aleyhissalâtü vesselâm hakkında hadsiz bir kesretle rahmet manasıyla salavat getirmeleri, rahmet ne kadar kıymettar bir hediye-i İlahiye ve ne kadar geniş bir dairesi olduğunu parlak bir surette ispat eder.
+
+Elhasıl: Hazine-i rahmetin en kıymettar pırlantası ve kapıcısı Zat-ı Ahmediye aleyhissalâtü vesselâm olduğu gibi en birinci anahtarı dahi Bismillahirrahmanirrahîm’dir. Ve en kolay bir anahtarı da salavattır.
+
+اَللّٰهُمَّ بِحَقِّ اَسْرَارِ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ صَلِّ وَ سَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ رَحْمَةً لِلْعَالَمٖينَ كَمَا يَلٖيقُ بِرَحْمَتِكَ وَ بِحُرْمَتِهٖ وَ عَلٰى اٰلِهٖ وَ اَصْحَابِهٖ اَجْمَعٖينَ وَ ارْحَمْنَا رَحْمَةً تُغْنٖينَا بِهَا عَنْ رَحْمَةِ مَنْ سِوَاكَ مِنْ خَلْقِكَ اٰمٖينَ
+
+سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ
+
+***
+                     </string>
+
+    <string name="html">
+
+        <![CDATA[
+
+               <h1> <a><font color=#8B4789>Kur\'an-ı Kerim</a></h1>
+                <p><a><font color=#8B4789>Kur\'an-ı Kerim\'i Cüzler ve Sureler halinde okuyabilirsiniz.
+                                         Kuran-ı Kerim sureler halinde sunulmuştur.
+                                         Kayıt seçeneği ile kaldınız yeri kaydedebilirsiniz.
+                                         Kuran sayfasına tekrar geldiğinizde kaldığınız yer mesaj olarak bildirilecektir.</a></p><br>
+
+
+
+                <h1><a><font color=#8B4789>Cevşen</a></h1>
+               <p>  <a><font color=#8B4789>Cevşen onar bablık parçalar halinde sunulmuştur.
+                                            Kayıt seçeneği ile kaldığınız yeri kaydedebilirsiniz.
+                                            Cevşen sayfasına tekrar geldiğinizde kaldığınız yer mesaj olarak bildirilir.</a></p><br>
+
+
+
+               <h1> <a><font color=#8B4789>Dualar</a></h1>
+                <p><a><font color=#8B4789>Tesbih adetleri otamatik olarak görünür.
+                                           Ekle butonu ile kendi dualarınızı istediğiniz kategoriye ekleyebilirsiniz.
+                                           Seçili duaya uzun bastığınızda seçiminize göre Manuel Tesbih veya SilDüzenle sayfasına yönlendirilirsiniz.
+                                           Ayarlar menüsünden tanımlı temaları seçebilirsiniz.
+                                           Ayarlardan tuş sesi ve titreşim aktif hale getirilebilir.
+                                           Titreşimin aktif olması halinde tesbihinizde sona geldiğinizde titreşimle uyarılırsınız.</a></p><br>
+
+
+                <h1><a><font color=#8B4789>Namaz Vakitleri</a></h1>
+               <p> <a><font color=#8B4789>Dünyanın hemen hemen her yeri için Diyanetten alınan namaz vakitlerine buradan erişebilirsiniz.</a></p><br>
+
+
+               <h1><a><font color=#8B4789>Namaz Tesbihatı</a></h1>
+               <p><a><font color=#8B4789>Vakit namazlarının tesbihatları bu sayfada mevcuttur.</a></p><br>
+
+
+                <h1><a><font color=#8B4789>Sanal Tesbih</a></h1>
+               <p>  <a><font color=#8B4789>Sanal Tesbih 99luk tesbihin sanal halidir.Ekrandaki butonların yanısıra
+               ses artır azalt butonlarını da kullanabilirsiniz.</a></p><br>
+
+
+                <h1><a><font color=#8B4789>Manuel Tesbih</a></h1>
+                <p> <a><font color=#8B4789> Manuel Tesbih sayfasında  vird ve adet girerek tesbihinizi çekebilirsiniz.
+                                            Sayfadan ayrıldığınızda kaldığınız yer otomatik olarak kaydedilir.
+                                            Sayfaya tekrar döndüğünüzde kaldığınız yerden devam edebilirsiniz.
+                                            Ekrandaki butonların yanısıra
+               ses artır azalt butonlarını da kullanabilirsiniz
+                                        </a></p><br>
+
+
+                <h1><a><font color=#8B4789>Zikirmatik</a></h1>
+                <p><a><font color=#8B4789> Sanal zikirmatik hizmetinize sunulmuştur. Ekrandaki butonların yanısıra
+               ses artır azalt butonlarını da kullanabilirsiniz.</a></p><br>
+
+
+                <h1><a><font color=#8B4789>Tecvid</a></h1>
+               <p> <a><font color=#8B4789>Temel tecvid bilgileri kayıtlı derslerde mevcuttur.</a></p><br>
+
+
+                <h1><a><font color=#8B4789>İlmihal</a></h1>
+                <p><a><font color=#8B4789>İlmihal bilgilerini bu sayfaya kaydedebilirsiniz.
+                                          Silmek istediğiniz başlığa uzun basarak silme sayfasına gidebilirsiniz.</a></p><br>
+
+
+
+                ]]>
+
+    </string>
+
+    <string-array name="kategoriler">
+        <item>KURANDA PEYGAMBER DUALARI</item>
+        <item>SABAH DUALARI</item>
+        <item>AKŞAM DUALARI</item>
+        <item>CUMA OKUNACAK DUALAR</item>
+        <item>AŞİRLER</item>
+        <item>ESMA-İ HÜSNA</item>
+        <item>EFENDİMİZİN MUTAD OKUDUĞU SURELER</item>
+        <item>GÜNLÜK DUALAR</item>
+        <item>MÜBAREK GÜN VE GECELERDE YAPILACAK DUALAR</item>
+        <item>MUHTELİF DUALAR</item>
+        <item>HADİSLER</item>
+        <item>BENİM SEÇTİKLERİM</item>
+
+    </string-array>
+
+    <string-array name="kategoriler_ekle">
+        <item>KURANDA PEYGAMBER DUALARI</item>
+        <item>SABAH DUALARI</item>
+        <item>AKŞAM DUALARI</item>
+        <item>CUMA OKUNACAK DUALAR</item>
+        <item>AŞİRLER</item>
+        <item>ESMA-İ HÜSNA</item>
+        <item>EFENDİMİZİN MUTAD OKUDUĞU SURELER</item>
+        <item>GÜNLÜK DUALAR</item>
+        <item>MÜBAREK GÜN VE GECELERDE YAPILACAK DUALAR</item>
+        <item>MUHTELİF DUALAR</item>
+        <item>HADİSLER</item>
+        <item>BENİM SEÇTİKLERİM</item>
+        <item>İLMİHAL</item>
+
+    </string-array>
+
+    <string-array name="tecvid">
+
+        <item>Tecvid Dersleri</item>
+        <item>Ders1</item>
+        <item>Ders2</item>
+        <item>Ders3</item>
+        <item>Ders4</item>
+        <item>Ders5</item>
+        <item>Ders6</item>
+        <item>Ders7</item>
+        <item>Ders8</item>
+        <item>Ders9</item>
+        <item>Ders10</item>
+        <item>Ders11</item>
+        <item>Ders12</item>
+        <item>Ders13</item>
+    </string-array>
+
+
+    <string-array name="cevsen_listesi">
+
+        <item>"Cevşen\'ül Kebir"</item>
+        <item>1. Kısım (Bab 1–10) </item>
+        <item>2. Kısım (Bab 11–20)</item>
+        <item>3. Kısım (Bab 21–30)</item>
+        <item>4. Kısım (Bab 31–40)</item>
+        <item>5. Kısım (Bab 41–50)</item>
+        <item>6. Kısım (Bab 51–60)</item>
+        <item>7. Kısım (Bab 61–70)</item>
+        <item>8. Kısım (Bab 71–80)</item>
+        <item>9. Kısım (Bab 81–90)</item>
+        <item>10. Kısım (Bab 91–100)</item>
+        <item>Hatim Duası</item>
+
+    </string-array>
+
+    <string-array name="tefsir">
+
+        <item>Elmalılı Hamdi Yazır Tefsir</item>
+        <item>Bölüm 1</item>
+        <item>Bölüm 2</item>
+        <item>Bölüm 3</item>
+        <item>Bölüm 4</item>
+        <item>Bölüm 5</item>
+        <item>Bölüm 6</item>
+        <item>Bölüm 7</item>
+        <item>Bölüm 8</item>
+        <item>Bölüm 9</item>
+        <item>Bölüm 10</item>
+        <item>Bölüm 11</item>
+        <item>Bölüm 12</item>
+        <item>Bölüm 13</item>
+        <item>Bölüm 14</item>
+        <item>Bölüm 15</item>
+        <item>Bölüm 16</item>
+        <item>Bölüm 17</item>
+        <item>Bölüm 18</item>
+        <item>Bölüm 19</item>
+        <item>Bölüm 20</item>
+        <item>Bölüm 21</item>
+        <item>Bölüm 22</item>
+        <item>Bölüm 23</item>
+        <item>Bölüm 24</item>
+        <item>Bölüm 25</item>
+        <item>Bölüm 26</item>
+        <item>Bölüm 27</item>
+        <item>Bölüm 28</item>
+        <item>Bölüm 29</item>
+        <item>Bölüm 30</item>
+        <item>Bölüm 31</item>
+        <item>Bölüm 32</item>
+        <item>Bölüm 33</item>
+        <item>Bölüm 34</item>
+        <item>Bölüm 35</item>
+        <item>Bölüm 36</item>
+        <item>Bölüm 37</item>
+        <item>Bölüm 38</item>
+        <item>Bölüm 39</item>
+        <item>Bölüm 40</item>
+        <item>Bölüm 41</item>
+        <item>Bölüm 42</item>
+        <item>Bölüm 43</item>
+        <item>Bölüm 44</item>
+        <item>Bölüm 45</item>
+        <item>Bölüm 46</item>
+        <item>Bölüm 47</item>
+        <item>Bölüm 48</item>
+        <item>Bölüm 49</item>
+        <item>Bölüm 50</item>
+        <item>Bölüm 51</item>
+        <item>Bölüm 52</item>
+        <item>Bölüm 53</item>
+        <item>Bölüm 54</item>
+        <item>Bölüm 55</item>
+        <item>Bölüm 56</item>
+        <item>Bölüm 57</item>
+        <item>Bölüm 58</item>
+        <item>Bölüm 59</item>
+        <item>Bölüm 60</item>
+        <item>Bölüm 61</item>
+        <item>Bölüm 62</item>
+        <item>Bölüm 63</item>
+        <item>Bölüm 64</item>
+        <item>Bölüm 65</item>
+        <item>Bölüm 66</item>
+        <item>Bölüm 67</item>
+        <item>Bölüm 68</item>
+        <item>Bölüm 69</item>
+        <item>Bölüm 70</item>
+        <item>Bölüm 71</item>
+        <item>Bölüm 72</item>
+        <item>Bölüm 73</item>
+        <item>Bölüm 74</item>
+        <item>Bölüm 75</item>
+        <item>Bölüm 76</item>
+        <item>Bölüm 77</item>
+        <item>Bölüm 78</item>
+        <item>Bölüm 79</item>
+        <item>Bölüm 80</item>
+        <item>Bölüm 81</item>
+        <item>Bölüm 82</item>
+        <item>Bölüm 83</item>
+        <item>Bölüm 84</item>
+        <item>Bölüm 85</item>
+        <item>Bölüm 86</item>
+        <item>Bölüm 87</item>
+        <item>Bölüm 88</item>
+        <item>Bölüm 89</item>
+        <item>Bölüm 90</item>
+        <item>Bölüm 91</item>
+        <item>Bölüm 92</item>
+        <item>Bölüm 93</item>
+
+
+    </string-array>
+
+    <string-array name="cuz_listesi">
+        <item>"Kur\'an-ı Kerim"</item>
+        <item>1. Cüz</item>
+        <item>2. Cüz</item>
+        <item>3. Cüz</item>
+        <item>4. Cüz</item>
+        <item>5. Cüz</item>
+        <item>6. Cüz</item>
+        <item>7. Cüz</item>
+        <item>8. Cüz</item>
+        <item>9. Cüz</item>
+        <item>10. Cüz</item>
+        <item>11. Cüz</item>
+        <item>12. Cüz</item>
+        <item>13. Cüz</item>
+        <item>14. Cüz</item>
+        <item>15. Cüz</item>
+        <item>16. Cüz</item>
+        <item>17. Cüz</item>
+        <item>18. Cüz</item>
+        <item>19. Cüz</item>
+        <item>20. Cüz</item>
+        <item>21. Cüz</item>
+        <item>22. Cüz</item>
+        <item>23. Cüz</item>
+        <item>24. Cüz</item>
+        <item>25. Cüz</item>
+        <item>26. Cüz</item>
+        <item>27. Cüz</item>
+        <item>28. Cüz</item>
+        <item>29. Cüz</item>
+        <item>30. Cüz</item>
+        <item>Hatim Duası</item>
+
+    </string-array>
+
+
+    <string-array name="kuran_listesi">
+
+        <item>"Kur\'an-ı Kerim"</item>
+        <item>1- Fatiha Suresi</item>
+        <item>2- Bakara Suresi</item>
+        <item>3- Ali İmran Suresi</item>
+        <item>4- Nisa Suresi</item>
+        <item>5- Maide Suresi</item>
+        <item>6- Enam Suresi</item>
+        <item>7-  A\’râf Suresi</item>
+        <item>8- Enfâl Suresi</item>
+        <item>9- Tevbe Suresi</item>
+        <item>10- Yûnus Suresi</item>
+        <item>11- Hûd Suresi</item>
+        <item>12- Yûsuf Suresi</item>
+        <item>13- Ra’d Suresi</item>
+        <item>14- İbrahim Suresi</item>
+        <item>15- Hicr Suresi</item>
+        <item>16- Nahl Suresi</item>
+        <item>17- İsrâ Suresi</item>
+        <item>18- Kehf Suresi</item>
+        <item>19- Meryem Suresi</item>
+        <item>20- Tâ-Hâ Suresi</item>
+        <item>21- Enbiyâ Suresi</item>
+        <item>22- Hac Suresi</item>
+        <item>23- Mü’minûn Suresi</item>
+        <item>24- Nûr Suresi</item>
+        <item>25- Furkân Suresi</item>
+        <item>26- Şu’arâ Suresi</item>
+        <item>27- Neml Suresi</item>
+        <item>28- Kasas Suresi</item>
+        <item>29- Ankebût Suresi</item>
+        <item>30- Rûm Suresi</item>
+        <item>31- Lokmân Suresi</item>
+        <item>32- Secde Suresi</item>
+        <item>33- Ahzâb Suresi</item>
+        <item>34- Sebe Suresi</item>
+        <item>35- Fâtır Suresi</item>
+        <item>36- Yâsîn Suresi</item>
+        <item>37- Sâffât Suresi</item>
+        <item>38- Sâd Suresi</item>
+        <item>39- Zümer Suresi</item>
+        <item>40- Mü’min Suresi</item>
+        <item>41- Fussilet Suresi</item>
+        <item>42- Şûrâ Suresi</item>
+        <item>43- Zuhruf Suresi</item>
+        <item>44- Duhân Suresi</item>
+        <item>45- Câsiye Suresi</item>
+        <item>46- Ahkâf Suresi</item>
+        <item>47- Muhammed Suresi</item>
+        <item>48- Fetih Suresi</item>
+        <item>49- Hucurât Suresi</item>
+        <item>50- Kâf Suresi</item>
+        <item>51- Zâriyât Suresi</item>
+        <item>52- Tûr Suresi</item>
+        <item>53- Necm Suresi</item>
+        <item>54- Kamer Suresi</item>
+        <item>55- Rahmân Suresi</item>
+        <item>56- Vâkı’a Suresi</item>
+        <item>57- Hadîd Suresi</item>
+        <item>58- Mücâdele Suresi</item>
+        <item>59- Haşr Suresi</item>
+        <item>60- Mümtehine Suresi</item>
+        <item>61- Saff Suresi</item>
+        <item>62- Cum’a Suresi</item>
+        <item>63- Münâfikûn Suresi</item>
+        <item>64- Teğâbun Suresi</item>
+        <item>65- Talâk Suresi</item>
+        <item>66- Tahrîm Suresi</item>
+        <item>67- Mülk Suresi</item>
+        <item>68- Kalem Suresi</item>
+        <item>69- Hakka Suresi</item>
+        <item>70- Mearic Suresi</item>
+        <item>71- Nuh Suresi</item>
+        <item>72- Cin Suresi</item>
+        <item>73- Müzzemmil Suresi</item>
+        <item>74- Müddessir Suresi</item>
+        <item>75- Kıyâme Suresi</item>
+        <item>76- İnsan Suresi</item>
+        <item>77- Mürselât Suresi</item>
+        <item>78- Nebe Suresi</item>
+        <item>79- Nâzi’ât  Suresi</item>
+        <item>80- Abese Suresi</item>
+        <item>81- Tekvîr Suresi</item>
+        <item>82- İnfitâr Suresi</item>
+        <item>83- Mutaffifîn Suresi</item>
+        <item>84- İnşikâk Suresi</item>
+        <item>85- Bürûc Suresi</item>
+        <item>86- Târık Suresi</item>
+        <item>87- A’lâ  Suresi</item>
+        <item>88- Ğâşiye Suresi</item>
+        <item>89- Fecr Suresi</item>
+        <item>90- Beled Suresi</item>
+        <item>91- Şems Suresi</item>
+        <item>92- Leyl Suresi</item>
+        <item>93- Duha Suresi</item>
+        <item>94- İnşirah Suresi</item>
+        <item>95- Tin Suresi</item>
+        <item>96- Alak Suresi</item>
+        <item>97- Kadir Suresi</item>
+        <item>98- Beyyine Suresi</item>
+        <item>99- Zilzal Suresi</item>
+        <item>100- Adiyat Suresi</item>
+        <item>101- Karia Suresi</item>
+        <item>102- Tekasür Suresi</item>
+        <item>103- Asr Suresi</item>
+        <item>104- Hümeze Suresi</item>
+        <item>105- Fil Suresi</item>
+        <item>106- Kureyş Suresi</item>
+        <item>107- Maun Suresi</item>
+        <item>108- Kevser Suresi</item>
+        <item>109- Kafirun Suresi</item>
+        <item>110- Nasr Suresi</item>
+        <item>111- Tebbet Suresi</item>
+        <item>112- İhlas Suresi</item>
+        <item>113- Felak Suresi</item>
+        <item>114- Nas Suresi</item>
+        <item>Hatim Duası</item>
+    </string-array>
+
+
+
+    <string-array name="kategori_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+    <string-array name="boyut">
+
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>38</item>
+        <item>40</item>
+        <item>42</item>
+        <item>44</item>
+        <item>48</item>
+        <item>48</item>
+
+
+    </string-array>
+
+    <string-array name="temalar">
+        <item >Sayfa1</item>
+        <item >Sayfa2</item>
+        <item >Sayfa3</item>
+        <item >Sayfa4</item>
+        <item >Sayfa5</item>
+        <item >Sayfa6</item>
+        <item >Sayfa7</item>
+        <item >Sayfa8</item>
+        <item >Sayfa9</item>
+        <item >Sayfa10</item>
+
+    </string-array>
+
+
+    <string-array name="tema_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+    </string-array>
+
+
+
+
+    <string name="sabahtsb">
+
+"SABAH NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Sabah Namazının iki rek'atlik farzından sonra "SELAM DUASI" okunur
+
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+4
+Müteakiben 1 def'a
+
+Allâhumme innâ nukâddimu ileyke beyne yedey külli nefesin ve lemhatin ve lahzatin ve tarfatin yatrifu bihâ ehlü's-semâvâti ve ehlü'l-aradîyn, şehâdeten eşhedü en Lâ ilâhe illallâhu vahdehu lâ şerike leh,
+
+5
+Müteakiben 10 def'a
+
+Lâ ilâhe illallâhu vahdehu lâ şerike leh lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit ve hüve hayyun lâ yemût biyedihi'l-hayr ve hüve alâ külli şey’in kadir denir. Onuncusundâ en sonuna ve ileyhi'l-masîyr eklenir.
+
+6
+Tevbe istiğfâr duâsı okunur.Eller açılır ancak avuç içleri yere bakar.
+
+Allâhümme ecirnâ mine'n-nâr (3-5 veyâ 7 defâ)
+
+Allâhümme ecirnâ min külli nâr.
+
+Allâhümme ecirnâ min fitneti'd-dîniyyeti ve dünyeviyyeh
+
+Allâhümme ecirnâ min fitneti ahiri'z-zamân
+
+Allâhümme ecirnâ min fitneti'l-mesihi'd-deccâli ve's-sufyân
+
+Allâhümme ecirnâ mine'd-dalâlâti ve'l-bıd'ıyyâti ve'l-beliyyât
+
+Allâhümme ecirnâ min şerri'n-nefsi'l-emmâreh
+
+Allâhümme ecirnâ min şurûri'n-nüfûsi'l-emmârati'l-firâvniyyeh
+
+Allâhümme ecirnâ min şerri'n-nisâ
+
+Allâhümme ecirnâ min belâ'in-nisâ
+
+Allâhümme ecirnâ min fitneti'n-nisâ
+
+Allâhümme ecirnâ min azâbi'l-kâbr
+
+Allâhümme ecirnâ min azâbi'l-yevmi'l-kıyâmeh
+
+Allâhümme ecirnâ min azâbi cehennem
+
+Allâhümme ecirnâ min âzâbi kahrik
+
+Allâhümme ecirnâ min nâri kahrik
+
+Allâhümme ecirnâ min azâbi'l-kabri ve'n-nîrân
+
+Allâhümme ecirnâ mine'r-riyâi ve's-sum’âti ve'l-ucubi ve'l-fâhr
+
+Allâhümme ecirnâ min tecâvuzi'l-mülhidîyn
+
+Allâhümme ecirnâ min şerri'l-munâfıkîyn
+
+Allâhümme ecirnâ min fitneti'l-fâsıkîyn
+
+Allâhümme ecirnâ ve ecir vâlideynâ ve talebete rasâili'n-nûru's-sâdıkîyne fi hizmeti'l-kur’âni ve'l-imân, ve ahbâbene'l-mü’minîne'l-muhlisîyne ve akrıbâenâ ve ecdâdenâ mine'n-nâr (Eller yukarı çevrilir)Bi afvike yâ mücir bi fadlike yâ gâffâr. Âllâhümme edhılne'l-cennete mea'l-ebrâr. Âllâhumme edhılne'l-cennete meâ'l-ebrâr. Allâhumme edhılnâ ve edhı'l-üstâdenâ Said-i Nursî radıyallahu anh ve vâlideynâ ve talebete rasâili'n-nûru ve ıhvânenâ ve ehâvatenâ ve akribâenâ ve ecdâdenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne fi hizmeti'l-imâni ve'l-kur’ân, el cennete meâ'l-ebrâr, salli alâ nebiyyike'l-muhtar ve âlihi'l-athâr ve ashâbihi'l-ahyâr ve sellim mâdâme'l-leylü ve'n-nehâr. Âmin, ve'l-hamdü lillâhi rabbi'l-âlemin.
+
+7
+Daha sonra bilinen namaz tesbihatına devam edilir.
+
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+
+Fa'lem ennehu denir ve 33 defa
+
+Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben Tercüme-i İsm-i Âzâm Duası okunur
+
+Bismillâhirrahmânirrahiym.
+
+Subhaneke ya ALLAH tealeyte yâ RAHMAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya RAHİYM tealeyteyâ KERİM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhanekeya HAMİD tealeyte yâ HAKİM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MECİD tealeyte yâ MELİK ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KUDDÜS tealeyte yâ SELAM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜ'MİN tealeyte yâ MÜHEYMİN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya AZİZ tealeyte yâ CEBBAR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜTEKEBBİR tealeyte yâ HALIK ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya EVVEL tealeyte yâ AHİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ZAHİR tealeyte yâ BATIN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya BARİ tealeyte yâ MUSAVVİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya TEVVAB tealeyteyâ VEHHAB ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya BAİS tealeyte yâ VARİS ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KADİM tealeyte yâ MUKİM  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya FERD tealeyte yâ VİTR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya NUR tealeyte yâ SETTAR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya CELİL tealeyte yâ CEMİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KAHİR tealeyte yâ KADİR  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MELİK tealeyte yâ MUKTEDİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ALİM tealeyte yâ ALLAM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya AZİYM tealeyte yâ GAFUR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HALİM  tealeyte yâ VEDUD ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhanekeya ŞEHİD tealeyte yâ ŞAHİD ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KEBİR tealeyte yâ MÜTEAL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya NUR tealeyte yâ LATİF ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya SEMİ' tealeyte yâ KEFİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KARİB tealeyte yâ BASİYR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HAKK tealeyte yâ MÜBİN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya RAUF tealeyte yâ RAHİYM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya TAHİR tealeyte yâ MÜTEAHHİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜCEMMİL tealeyte yâ MUFADDİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜZHİR tealeyte yâ MÜN’İM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya DEYYAN tealeyte yâ SULTAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HANNAN tealeyte yâ MENNAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya EHAD tealeyte yâ SAMED ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HAYY tealeyte yâ KAYYUM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ADL tealeyte yâ HAKEM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya FERD tealeyte yâ KUDDUS ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhâneke âhiyyen şerâhiyyen tealeyte lâ ilâhe illâ ente ecirnâ ve ecir üstâdenâ ve vâlideynâ ve rufekâenâ ve âkribâenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne mine'n-nâr ve min külli nâr (eller aşağıya çevrilir) vahfaznâ minşerri'n-nefsi ve'ş-şeytan ve min şerri'l-cinni ve'l-insân ve min şerri'l-bid’âti ve'd-dalâleti ve'l-ilhâdi ve't-tuğyân (eller yukârı çevrilir) bi âfvike yâ Mücir, bi fadlike yâ Gaffâr, bi rahmetike yâ erhame'r-râhimîn.
+Allâhumme edhilne'l-cennete mea'l-ebrâr, bişefâati nebiyyike'l-muhtar. Amîn ve'l-hamdülillâhi rabbi'l-âlemin.
+E'uzü besmele çekilerek Haşr Suresinin son beş ayeti "Lâ yestevî" okunur.
+
+
+
+
+        "
+    </string>
+
+    <string name="ogletsb">
+
+"ÖĞLE NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiate'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Öğlen Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+İki rek'at sünnet kılındıktan sonra bilinen namaz tesbihatına devam edilir.
+
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+
+Fa'lem ennehu denir ve 33 defa (sabah namâzından sonra 100 defa okunabilir) Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+
+Allahumme salli ve sellim ve bârik alâ seyyidinâ Muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeder-rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsmi Âzâm Duası okunur
+Bismillâhirrahmânirrahiym.
+
+Yâ Cemilu Yâ Allâh
+
+Yâ Karîbu Yâ Allâh
+
+Yâ Mücîbu Yâ Allâh
+
+Yâ Habîbu Yâ Allâh
+
+Yâ Raûfu Yâ Allâh
+
+Yâ Atûfu Yâ Allâh
+
+Yâ Ma’rûfu Yâ Allâh
+
+Yâ Latîfü Yâ Allâh
+
+Yâ Azîymü Yâ Allâh
+
+Yâ Hannânü Yâ Allâh
+
+Yâ Mennânü Yâ Allâh
+
+Yâ Deyyânü Yâ Allâh
+
+Yâ Subhânü Yâ Allâh
+
+Yâ Emânü Yâ Allâh
+
+Yâ Bürhânü Yâ Allâh
+
+Yâ Sultânü Yâ Allâh
+
+Yâ Müste'ânü Yâ Allâh
+
+Yâ Muhsinü Yâ Allâh
+
+Yâ Mütealü Yâ Allâh
+
+Yâ Rahmânü Yâ Allâh
+
+Yâ Rahîmü Yâ Allâh
+
+Yâ Kerîmü Yâ Allâh
+
+Yâ Mecîdü Yâ Allâh
+
+Yâ Ferdü Yâ Allâh
+
+Yâ Vitru Yâ Allâh
+
+Yâ Ehadü Yâ Allâh
+
+Yâ Samedü Yâ Allâh
+
+Yâ Mahmûdu Yâ Allâh
+
+Yâ Sadıka'l-vâ’di Yâ Allâh
+
+Yâ Âliyyü Yâ Allâh
+
+Yâ Ganiyyü Yâ Allâh
+
+Yâ Şâfî Yâ Allâh
+
+Yâ Kâfî Yâ Allâh
+
+Yâ Muâfî Yâ Allâh
+
+Yâ Bâkî Yâ Allâh
+
+Yâ Hâdî Yâ Allâh
+
+Yâ Kâdiru Yâ Allâh
+
+Yâ Sâtiru Yâ Allâh
+
+Yâ Kahhâru Yâ Allâh
+
+Yâ Cebbâru Yâ Allâh
+
+Yâ Gaffâru Yâ Allâh
+
+Yâ Fettâhu Yâ Allâh
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+
+E'uzü besmele çekilerek "Lekad sadakallahü" aşri okunur.
+
+
+
+
+        "
+
+    </string>
+
+    <string name="ikinditsb">
+"İKİNDİ NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+İkindi Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+Daha sonra bilinen namaz tesbihatına devam edilir.
+
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+
+Fa'lem ennehu denir ve 33 defa
+
+Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben Tercüme-i İsm-i Âzâm Duası okunur
+
+Bismillâhirrahmânirrahiym.
+
+Subhaneke ya ALLAH tealeyte yâ RAHMAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya RAHİYM tealeyteyâ KERİM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhanekeya HAMİD tealeyte yâ HAKİM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MECİD tealeyte yâ MELİK ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KUDDÜS tealeyte yâ SELAM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜ'MİN tealeyte yâ MÜHEYMİN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya AZİZ tealeyte yâ CEBBAR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜTEKEBBİR tealeyte yâ HALIK ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya EVVEL tealeyte yâ AHİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ZAHİR tealeyte yâ BATIN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya BARİ tealeyte yâ MUSAVVİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya TEVVAB tealeyteyâ VEHHAB ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya BAİS tealeyte yâ VARİS ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KADİM tealeyte yâ MUKİM  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya FERD tealeyte yâ VİTR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya NUR tealeyte yâ SETTAR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya CELİL tealeyte yâ CEMİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KAHİR tealeyte yâ KADİR  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MELİK tealeyte yâ MUKTEDİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ALİM tealeyte yâ ALLAM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya AZİYM tealeyte yâ GAFUR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HALİM  tealeyte yâ VEDUD ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhanekeya ŞEHİD tealeyte yâ ŞAHİD ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KEBİR tealeyte yâ MÜTEAL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya NUR tealeyte yâ LATİF ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya SEMİ' tealeyte yâ KEFİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya KARİB tealeyte yâ BASİYR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HAKK tealeyte yâ MÜBİN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya RAUF tealeyte yâ RAHİYM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya TAHİR tealeyte yâ MÜTEAHHİR ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜCEMMİL tealeyte yâ MUFADDİL ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya MÜZHİR tealeyte yâ MÜN’İM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya DEYYAN tealeyte yâ SULTAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HANNAN tealeyte yâ MENNAN ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya EHAD tealeyte yâ SAMED ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya HAYY tealeyte yâ KAYYUM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya ADL tealeyte yâ HAKEM ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhaneke ya FERD tealeyte yâ KUDDUS ecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Eller açılır,
+
+Subhâneke âhiyyen şerâhiyyen tealeyte lâ ilâhe illâ ente ecirnâ ve ecir üstâdenâ ve vâlideynâ ve rufekâenâ ve âkribâenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne mine'n-nâr ve min külli nâr (eller aşağıya çevrilir) vahfaznâ minşerri'n-nefsi ve'ş-şeytan ve min şerri'l-cinni ve'l-insân ve min şerri'l-bid’âti ve'd-dalâleti ve'l-ilhâdi ve't-tuğyân (eller yukârı çevrilir) bi âfvike yâ Mücir, bi fadlike yâ Gaffâr, bi rahmetike yâ erhame'r-râhimîn.
+Allâhumme edhilne'l-cennete mea'l-ebrâr, bişefâati nebiyyike'l-muhtar. Amîn ve'l-hamdülillâhi rabbi'l-âlemin.
+
+E'uzü besmele çekilerek "Nebe Suresi (Amme)" okunur.
+
+
+
+
+        "
+
+
+    </string>
+
+    <string name="aksamtsb">
+
+"AKŞAM NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Akşam Namazının üç rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+4
+İki rek'at sünneti müteakip, 1 def'a
+Amennâ biennehu denir.
+
+5
+Müteakiben 9 def'a
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit; biyedihi'l-hayr ve hüve alâ külli şey’in kadir denir. Onuncusunda Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit ve hüve hayyun lâ yemût biyedihi'l-hayr ve hüve alâ külli şey’in kadirve ileyhi'l-masîyr eklenir.
+
+6
+Tevbe istiğfâr duâsı okunur.Eller açılır ancak avuç içleri yere bakar.
+
+Allâhümme ecirnâ mine'n-nâr (3-5 veyâ 7 defâ)
+
+Allâhümme ecirnâ min külli nâr.
+
+Allâhümme ecirnâ min fitneti'd-dîniyyeti ve dünyeviyyeh
+
+Allâhümme ecirnâ min fitneti ahiri'z-zamân
+
+Allâhümme ecirnâ min fitneti'l-mesihi'd-deccâli ve's-sufyân
+
+Allâhümme ecirnâ mine'd-dalâlâti ve'l-bıd'ıyyâti ve'l-beliyyât
+
+Allâhümme ecirnâ min şerri'n-nefsi'l-emmâreh
+
+Allâhümme ecirnâ min şurûri'n-nüfûsi'l-emmârati'l-firâvniyyeh
+
+Allâhümme ecirnâ min şerri'n-nisâ
+
+Allâhümme ecirnâ min belâ'in-nisâ
+
+Allâhümme ecirnâ min fitneti'n-nisâ
+
+Allâhümme ecirnâ min azâbi'l-kâbr
+
+Allâhümme ecirnâ min azâbi'l-yevmi'l-kıyâmeh
+
+Allâhümme ecirnâ min azâbi cehennem
+
+Allâhümme ecirnâ min âzâbi kahrik
+
+Allâhümme ecirnâ min nâri kahrik
+
+Allâhümme ecirnâ min azâbi'l-kabri ve'n-nîrân
+
+Allâhümme ecirnâ mine'r-riyâi ve's-sum’âti ve'l-ucubi ve'l-fâhr
+
+Allâhümme ecirnâ min tecâvuzi'l-mülhidîyn
+
+Allâhümme ecirnâ min şerri'l-munâfıkîyn
+
+Allâhümme ecirnâ min fitneti'l-fâsıkîyn
+
+Allâhümme ecirnâ ve ecir vâlideynâ ve talebete rasâili'n-nûru's-sâdıkîyne fi hizmeti'l-kur’âni ve'l-imân, ve ahbâbene'l-mü’minîne'l-muhlisîyne ve akrıbâenâ ve ecdâdenâ mine'n-nâr (Eller yukarı çevrilir)Bi afvike yâ mücir bi fadlike yâ gâffâr. Âllâhümme edhılne'l-cennete mea'l-ebrâr. Âllâhumme edhılne'l-cennete meâ'l-ebrâr. Allâhumme edhılnâ ve edhı'l-üstâdenâ Said-i Nursî radıyallahu anh ve vâlideynâ ve talebete rasâili'n-nûru ve ıhvânenâ ve ehâvatenâ ve akribâenâ ve ecdâdenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne fi hizmeti'l-imâni ve'l-kur’ân, el cennete meâ'l-ebrâr, salli alâ nebiyyike'l-muhtar ve âlihi'l-athâr ve ashâbihi'l-ahyâr ve sellim mâdâme'l-leylü ve'n-nehâr. Âmin, ve'l-hamdü lillâhi rabbi'l-âlemin.
+
+7
+Bilinen namaz tesbihatına devam edilir.
+Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsm-i Âzâm Duası okunur
+
+Bismillâhirrahmânirrahiym
+
+Yâ Cemilu Yâ Allâh
+
+Yâ Karîbu Yâ Allâh
+
+Yâ Mücîbu Yâ Allâh
+
+Yâ Habîbu Yâ Allâh
+
+Yâ Raûfu Yâ Allâh
+
+Yâ Atûfu Yâ Allâh
+
+Yâ Ma’rûfu Yâ Allâh
+
+Yâ Latîfü Yâ Allâh
+
+Yâ Azîymü Yâ Allâh
+
+Yâ Hannânü Yâ Allâh
+
+Yâ Mennânü Yâ Allâh
+
+Yâ Deyyânü Yâ Allâh
+
+Yâ Subhânü Yâ Allâh
+
+Yâ Emânü Yâ Allâh
+
+Yâ Bürhânü Yâ Allâh
+
+Yâ Sultânü Yâ Allâh
+
+Yâ Müste'ânü Yâ Allâh
+
+Yâ Muhsinü Yâ Allâh
+
+Yâ Mütealü Yâ Allâh
+
+Yâ Rahmânü Yâ Allâh
+
+Yâ Rahîmü Yâ Allâh
+
+Yâ Kerîmü Yâ Allâh
+
+Yâ Mecîdü Yâ Allâh
+
+Yâ Ferdü Yâ Allâh
+
+Yâ Vitru Yâ Allâh
+
+Yâ Ehadü Yâ Allâh
+
+Yâ Samedü Yâ Allâh
+
+Yâ Mahmûdu Yâ Allâh
+
+Yâ Sadıka'l-vâ’di Yâ Allâh
+
+Yâ Âliyyü Yâ Allâh
+
+Yâ Ganiyyü Yâ Allâh
+
+Yâ Şâfî Yâ Allâh
+
+Yâ Kâfî Yâ Allâh
+
+Yâ Muâfî Yâ Allâh
+
+Yâ Bâkî Yâ Allâh
+
+Yâ Hâdî Yâ Allâh
+
+Yâ Kâdiru Yâ Allâh
+
+Yâ Sâtiru Yâ Allâh
+
+Yâ Kahhâru Yâ Allâh
+
+Yâ Cebbâru Yâ Allâh
+
+Yâ Gaffâru Yâ Allâh
+
+Yâ Fettâhu Yâ Allâh
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+E'uzü besmele çekilerek Haşr Suresinin son beş ayeti "Lâ yestevî" okunur.
+
+
+
+
+        "
+
+    </string>
+
+    <string name="yatsitsb">
+
+        "YATSI NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiate'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Yatsı Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+İki rek'at sünnet ve Vitr Namazı kılındıktan sonra bilinen namaz tesbihatına devam edilir.
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa (sabah namâzından sonra 100 defa okunabilir) Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+
+Allahumme salli ve sellim ve bârik alâ seyyidinâ Muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeder-rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsmi Âzâm Duası okunur
+
+Bismillâhirrahmânirrahiym
+
+Yâ Cemilu Yâ Allâh
+
+Yâ Karîbu Yâ Allâh
+
+Yâ Mücîbu Yâ Allâh
+
+Yâ Habîbu Yâ Allâh
+
+Yâ Raûfu Yâ Allâh
+
+Yâ Atûfu Yâ Allâh
+
+Yâ Ma’rûfu Yâ Allâh
+
+Yâ Latîfü Yâ Allâh
+
+Yâ Azîymü Yâ Allâh
+
+Yâ Hannânü Yâ Allâh
+
+Yâ Mennânü Yâ Allâh
+
+Yâ Deyyânü Yâ Allâh
+
+Yâ Subhânü Yâ Allâh
+
+Yâ Emânü Yâ Allâh
+
+Yâ Bürhânü Yâ Allâh
+
+Yâ Sultânü Yâ Allâh
+
+Yâ Müste'ânü Yâ Allâh
+
+Yâ Muhsinü Yâ Allâh
+
+Yâ Mütealü Yâ Allâh
+
+Yâ Rahmânü Yâ Allâh
+
+Yâ Rahîmü Yâ Allâh
+
+Yâ Kerîmü Yâ Allâh
+
+Yâ Mecîdü Yâ Allâh
+
+Yâ Ferdü Yâ Allâh
+
+Yâ Vitru Yâ Allâh
+
+Yâ Ehadü Yâ Allâh
+
+Yâ Samedü Yâ Allâh
+
+Yâ Mahmûdu Yâ Allâh
+
+Yâ Sadıka'l-vâ’di Yâ Allâh
+
+Yâ Âliyyü Yâ Allâh
+
+Yâ Ganiyyü Yâ Allâh
+
+Yâ Şâfî Yâ Allâh
+
+Yâ Kâfî Yâ Allâh
+
+Yâ Muâfî Yâ Allâh
+
+Yâ Bâkî Yâ Allâh
+
+Yâ Hâdî Yâ Allâh
+
+Yâ Kâdiru Yâ Allâh
+
+Yâ Sâtiru Yâ Allâh
+
+Yâ Kahhâru Yâ Allâh
+
+Yâ Cebbâru Yâ Allâh
+
+Yâ Gaffâru Yâ Allâh
+
+Yâ Fettâhu Yâ Allâh
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+E'uzü besmele çekilerek Bakara Suresinin son iki ayeti Âmene'r-resûlü aşri okunur.
+
+
+
+
+        "
+
+    </string>
+    <string name="mealler">Mealler</string>
+    <string name="tefsirler">Tefsirler</string>
+
+
+</resources>

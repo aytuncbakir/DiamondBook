@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+    <dua id="1">
+        <baslik>Vakia Suresi (Her Akşam/Gece)</baslik>
+        <arapca> اِذَا وَقَعَتِ الْوَاقِعَةُۙ ﴿1﴾ لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌۢ ﴿2﴾ خَافِضَةٌ رَافِعَةٌۙ ﴿3﴾</arapca>
+        <turkce> Vakiâ Suresi(Her Akşam/Gece)</turkce>
+        <anlam>1 - Olacak vak'a olduğu zaman</anlam>
+        <adet>1</adet>
+    </dua>
+	
+	<dua id="2">
+        <baslik>Secde Suresi (Her Akşam/Gece)</baslik>
+        <arapca>الٓمٓ۠ ﴿1﴾ تَنْز۪يلُ الْكِتَابِ لَا رَيْبَ ف۪يهِ مِنْ رَبِّ الْعَالَم۪ينَۜ ﴿2﴾ </arapca>
+        <turkce>Secde Suresi (Her Akşam/Gece)</turkce>
+        <anlam>  1.	Elif Lâm Mîm. 2.	Kendisinde hiçbir şüphe bulunmayan bu Kitab'ın indirilişi, âlemlerin Rabbi tarafındandır.</anlam>
+        <adet>1</adet>
+    </dua>
+	
+	<dua id="3">
+        <baslik>Mülk Suresi (Her Akşam/Gece)</baslik>
+        <arapca>  تَبَارَكَ الَّذ۪ي بِيَدِهِ الْمُلْكُۘ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌۙ ﴿1﴾ اَلَّذ۪ي خَلَقَ الْمَوْتَ وَالْحَيٰوةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًاۜ وَهُوَ الْعَز۪يزُ الْغَفُورُۙ ٌ</arapca>
+        <turkce>Mülk Suresi (Her Akşam/Gece) 1.	Tebarekelleziy biyedihilmulku ve huve 'ala kulli şey'in kadiyrun.</turkce>
+        <anlam>1 - Mutlak hükümranlık elinde bulunan Allah, yüceler yücesidir ve O'nun her şeye gücü yeter.</anlam>
+        <adet>3</adet>
+    </dua>
+	
+	<dua id="4">
+        <baslik>Kehf Suresi (Cuma Gündüz/Gece)</baslik>
+        <arapca> اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَنْزَلَ عَلٰى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ۜ۔ ﴿1﴾ </arapca>
+        <turkce>Kehf Suresi (Cuma Gündüz/Gece) 1.El hamdü lillahillezı enzele ala abdihil kitabe ve lem yec'al lehu ıveca</turkce>
+        <anlam>Hamd o Allah'a mahsustur ki kulu (Muhammed'e) kitabı indirdi ve ona hiçbir ağırlık koymadı.</anlam>
+        <adet>1</adet>
+    </dua>
+
+</dualar>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sivamalabrothers.cevher">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".GirisSayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.GIRISSAYFASI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".KitapGoster">
+            <intent-filter>
+                <action android:name="android.intent.action.SOZLER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".RisaleSayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.RISALESAYFASI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Tesbih">
+            <intent-filter>
+                <action android:name="android.intent.action.TESBIH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".Cevsen">
+            <intent-filter>
+                <action android:name="android.intent.action.CEVSEN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".Cevsensayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.CEVSENSAYFASI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".TabActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.TABACTIVITY"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".Ayarlar">
+            <intent-filter>
+                <action android:name="android.intent.action.AYARLAR"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+
+        <activity
+            android:name=".Manueldua">
+            <intent-filter>
+                <action android:name="android.intent.action.MANUELDUA"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Kuran">
+            <intent-filter>
+                <action android:name="android.intent.action.KURAN"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Kuransayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.KURANSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Meal">
+            <intent-filter>
+                <action android:name="android.intent.action.MEAL"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Mealsayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.MEALSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".MealMenu">
+            <intent-filter>
+                <action android:name="android.intent.action.MEALMENU"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Tefsir">
+            <intent-filter>
+                <action android:name="android.intent.action.TEFSIR"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Tefsirsayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.TEFSIRSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".TefsirMenu">
+            <intent-filter>
+                <action android:name="android.intent.action.TEFSIRMENU"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Tecvid">
+            <intent-filter>
+                <action android:name="android.intent.action.TECVID"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Tecvidsayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.TECVIDSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".VeriTabaniActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VERITABANIACTIVITY"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".VeriTabaniSilDuzenleActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VERITABANISILDUZENLEACTIVITY"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Ilmihal">
+            <intent-filter>
+                <action android:name="android.intent.action.ILMIHAL"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Ilmihalsayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.ILMIHALSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".KuranMenu">
+            <intent-filter>
+                <action android:name="android.intent.action.KURANMENU"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Cuzsayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.CUZSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".Zikirmatik">
+            <intent-filter>
+                <action android:name="android.intent.action.ZIKIRMATIK"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".NamazVakitleri">
+            <intent-filter>
+                <action android:name="android.intent.action.NAMAZVAKITLERI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".NamazVaktiGoster">
+            <intent-filter>
+                <action android:name="android.intent.action.NAMAZVAKTIGOSTER"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".DualarSayfasi">
+            <intent-filter>
+                <action android:name="android.intent.action.DUALARSAYFASI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".DualarListesi">
+            <intent-filter>
+                <action android:name="android.intent.action.DUALARLISTESI"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".DualarGoruntule">
+            <intent-filter>
+                <action android:name="android.intent.action.DUALARGORUNTULE"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".UzunDualarGoruntule">
+            <intent-filter>
+                <action android:name="android.intent.action.UZUNDUALARGORUNTULE"
+
+                    />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+    </application>
+
+
+</manifest>

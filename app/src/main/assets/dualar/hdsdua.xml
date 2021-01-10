@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+  
+     <dua id="1">
+         <baslik>Kardeşlik</baslik>
+        <arapca>اَلْمُؤْمِنُ يُحِبُّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ</arapca>
+        <turkce>El mu'minu yuhibbu li ehihi ma yuhibbu li nefsihi</turkce>
+		<anlam>Mü'min kendisi için sevdiğini kardeşi için de sever</anlam>
+        <adet>1</adet>
+    </dua>
+	
+ <dua id="2">
+        <baslik>Eminlik</baslik>
+        <arapca>اَلْمُسْلِمُ مَنْ سَلِمَ النَّاسُ مِنْ لِسَانِهِ وَيَدِهِ</arapca>
+        <turkce>El-muslimu men selime’n-Nâsu min lisanihi ve yedihi</turkce>
+        <anlam>Müslüman, insanların elinden ve dilinden emin olduğu kimsedir</anlam>
+        <adet>1</adet>
+    </dua>
+
+	 <dua id="3">
+         <baslik>Duaya icabet hususu</baslik>
+         <arapca>اُدْعُوا اللّٰهَ وَ اَنْتُمْ مُوقِنُونَ باِلاِجَابَةِ</arapca>
+        <turkce>Ud'ullahe ve entüm mûginûne bil-icâbeti</turkce>
+        <anlam>Size cevap verileceğinden emin olarak Allah'a dua edin.</anlam>
+        <adet>1</adet>
+    </dua>
+
+	
+ <dua id="4">
+        <baslik>Ahlak</baslik>
+        <arapca>حَسِّنُوا اَخْلَاقَكُمْ</arapca>
+        <turkce>Hassinû ahlâkakum</turkce>
+        <anlam>Ahlakınızı güzelleştiriniz</anlam>
+        <adet>1</adet>
+    </dua>
+
+	  <dua id="5">
+          <baslik>Emin olma, aldatmama</baslik>
+        <arapca>مَنْ غَشَّنَا فَلَيْسَ مِنَّا</arapca>
+        <turkce>Men ğaşşanâ feleyse minnâ</turkce>
+		<anlam>Bizi aldatan bizden değildir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="6">
+        <baslik>İlim</baslik>
+        <arapca>Âfetü’l ilmi en nisyanü </arapca>
+        <turkce>Âfetü’l ilmi en nisyanü </turkce>
+        <anlam>İlmin afeti unutmaktır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="7">
+        <baslik>Temizlik</baslik>
+        <arapca>Ettuhuru şatru’l iman</arapca>
+        <turkce>Ettuhuru şatru’l iman </turkce>
+        <anlam>Temizlik imanın yarısıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="8">
+        <baslik>Tevekkül</baslik>
+        <arapca>A’kilhâ ve tevekkel</arapca>
+        <turkce>A’kilhâ ve tevekkel</turkce>
+        <anlam>(Deveyi) bağla ve tevekkül et.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="9">
+        <baslik>Oruç</baslik>
+        <arapca>Sûmû tesihhû</arapca>
+        <turkce>Sûmû tesihhû</turkce>
+        <anlam>Oruç tutun, sıhhat bulun.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="10">
+        <baslik>Namaz</baslik>
+        <arapca>Es-salâtü imâdü’d dini</arapca>
+        <turkce>Es-salâtü imâdü’d dini</turkce>
+        <anlam>Namaz dinin direğidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="11">
+        <baslik>Helal Rızık</baslik>
+        <arapca>Talebü’l helali cihadün</arapca>
+        <turkce>Talebü’l helali cihadün</turkce>
+        <anlam>Helal peşinde koşmak cihaddır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="12">
+        <baslik>Mescidler</baslik>
+        <arapca>El mescidü beytü külli takiyyin</arapca>
+        <turkce>El mescidü beytü külli takiyyin</turkce>
+        <anlam>Mescid, takva sahiplerinin evidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="13">
+        <baslik>Güzel Söz</baslik>
+        <arapca>El-kelimü’t tayyibetü sadakatün</arapca>
+        <turkce>El-kelimü’t tayyibetü sadakatün</turkce>
+        <anlam>Güzel söz sadakadır.</anlam>
+        <adet>1</adet>
+    </dua>
+    <dua id="14">
+        <baslik>Meclis Adabı</baslik>
+        <arapca>El mecalisü bi’l emaneti</arapca>
+        <turkce>El mecalisü bi’l emaneti</turkce>
+        <anlam>Meclislerdeki sözler emanettir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="15">
+        <baslik>Hayra vesile olma</baslik>
+        <arapca>Ed-dellü alel hayri kefailihi</arapca>
+        <turkce>Ed-dellü alel hayri kefailihi</turkce>
+        <anlam>Hayra vesile olan yapan gibidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="16">
+        <baslik>Cömertlik</baslik>
+        <arapca>El cennetü dâr-ül eshıya</arapca>
+        <turkce>El cennetü dâr-ül eshıya</turkce>
+        <anlam>Cennet cömertler yurdudur.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="17">
+        <baslik>Oruç</baslik>
+        <arapca>Es- savmü nısf’us sabr</arapca>
+        <turkce>Es- savmü nısf’us sabr</turkce>
+        <anlam>Oruç sabrın yarısıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="18">
+        <baslik>Sabır</baslik>
+        <arapca>Es sabru nısf’ul iman</arapca>
+        <turkce>Es sabru nısf’ul iman</turkce>
+        <anlam>Sabır imanın yarısıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="19">
+        <baslik>Tebessüm</baslik>
+        <arapca>Et tebessümü sadakatun</arapca>
+        <turkce>Et tebessümü sadakatun</turkce>
+        <anlam>Tebessüm etmek sadakadır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="20">
+        <baslik>Sabır - Başarı</baslik>
+        <arapca>Es sabru miftahul ferec</arapca>
+        <turkce>Es sabru miftahul ferec</turkce>
+        <anlam>Sabır, başarının anahtarıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="21">
+        <baslik>Sabır - Musibet</baslik>
+        <arapca>Es sabru ınde sadmetül ula</arapca>
+        <turkce>Es sabru ınde sadmetül ula</turkce>
+        <anlam>Sabır, musibetin ilk  anındakidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="22">
+        <baslik>İbadetin devamlılığı</baslik>
+        <arapca>Efdalü’l ibadeti edvamuha</arapca>
+        <turkce>Efdalü’l ibadeti edvamuha</turkce>
+        <anlam>İbadetin efdali devamlı olanıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="23">
+        <baslik>Kur'an</baslik>
+        <arapca>El Kur’anü hüved deva</arapca>
+        <turkce>El Kur’anü hüved deva</turkce>
+        <anlam>Kur’an, sırf devadır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="24">
+        <baslik>Dile sahip olma</baslik>
+        <arapca>Men samete reca</arapca>
+        <turkce>Men samete reca</turkce>
+        <anlam>Dilini tutan kurtuldu.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="25">
+        <baslik>Allah korkusu</baslik>
+        <arapca>Re’sü’l hikmeti mehafetullah</arapca>
+        <turkce>Re’sü’l hikmeti mehafetullah</turkce>
+        <anlam>Hikmetin başı Allah korkusudur.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="26">
+        <baslik>Vaadi yerine getirme</baslik>
+        <arapca>El idetü atiyyetün</arapca>
+        <turkce>El idetü atiyyetün</turkce>
+        <anlam>Vaad edilen verilmelidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="27">
+        <baslik>Dua</baslik>
+        <arapca>Ed duaü silahu’l mümin</arapca>
+        <turkce>Ed duaü silahu’l mümin</turkce>
+        <anlam>Dua müminin silahıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="28">
+        <baslik>Müsahamalı olma</baslik>
+        <arapca>İsmah yusmah leke</arapca>
+        <turkce>İsmah yusmah leke</turkce>
+        <anlam>Müsamaha et ki sende göresin.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="29">
+        <baslik>Namaz</baslik>
+        <arapca>Es salatü nur’ul mümin</arapca>
+        <turkce>Es salatü nur’ul mümin</turkce>
+        <anlam>Namaz müminin nurudur.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="30">
+        <baslik>Pişmanlık</baslik>
+        <arapca>En nedametü tevbetün</arapca>
+        <turkce>En nedametü tevbetün</turkce>
+        <anlam>Pişmanlık tövbedir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="31">
+        <baslik>Din</baslik>
+        <arapca>Ed dinü en nasiha</arapca>
+        <turkce>Ed dinü en nasiha</turkce>
+        <anlam>Din nasihattir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="32">
+        <baslik>Dua</baslik>
+        <arapca>Ed duaü hüvel ibadetü</arapca>
+        <turkce>Ed duaü hüvel ibadetü</turkce>
+        <anlam>Dua ibadettir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="33">
+        <baslik>Öfkelenme</baslik>
+        <arapca>İzâ gadibte fe’skut</arapca>
+        <turkce>İzâ gadibte fe’skut</turkce>
+        <anlam>Öfkelendiğinde sus.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="34">
+        <baslik>Gülmek</baslik>
+        <arapca>Kesretü’d dahiki tumitül kalb</arapca>
+        <turkce>Kesretü’d dahiki tumitül kalb</turkce>
+        <anlam>Çok gülmek kalbi öldürür.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="35">
+        <baslik>Oruç</baslik>
+        <arapca>Es savmu cünnetün</arapca>
+        <turkce>Es savmu cünnetün</turkce>
+        <anlam>Oruç kalkandır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="36">
+        <baslik>Sabah uykusu</baslik>
+        <arapca>Es subhatü temneu’r rızk</arapca>
+        <turkce>Es subhatü temneu’r rızk</turkce>
+        <anlam>Sabah uykusu, rızka engeldir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="37">
+        <baslik>İçki</baslik>
+        <arapca>El hamrü ummü’l habais</arapca>
+        <turkce>El hamrü ummü’l habais</turkce>
+        <anlam>İçki, kötülüklerin anasıdır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="38">
+        <baslik>Gözlere sahip çıkma</baslik>
+        <arapca>Zina’l uyûni en nazaru</arapca>
+        <turkce>Zina’l uyûni en nazaru</turkce>
+        <anlam>Gözlerin zinası bakmaktır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="39">
+        <baslik>Kanaat</baslik>
+        <arapca>El kanâatü mâlün la yenfedü</arapca>
+        <turkce>El kanâatü mâlün la yenfedü</turkce>
+        <anlam>Kanaat bitmez bir sermayedir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="40">
+        <baslik>Haya</baslik>
+        <arapca>El hayaü minel iman</arapca>
+        <turkce>El hayaü minel iman</turkce>
+        <anlam>Hayâ(utanma duygusu) imandandır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="41">
+        <baslik>Arkadaşlık üzerine</baslik>
+        <arapca>El mer’ü ala dini halilihi</arapca>
+        <turkce>El mer’ü ala dini halilihi</turkce>
+        <anlam>Kişi, arkadaşının dini üzeredir.</anlam>
+        <adet>1</adet>
+    </dua>
+	
+</dualar>

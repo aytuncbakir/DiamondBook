@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+    
+	<dua id="1">
+        <baslik>Her türlü istek, tüm duaların kabul olması</baslik>
+        <arapca>Her türlü istek, tüm duaların kabul olması</arapca>
+        <turkce>Allah</turkce>
+        <anlam>Eşi benzeri olmayan, bütün noksan sıfatlardan münezzeh tek ilah, Her biri sonsuz bir hazine olan bütün isimlerini kuşatan özel ismi. İsimlerin sultanı.</anlam>
+        <adet>66</adet>
+    </dua>
+	
+	<dua id="2">
+        <baslik>Dünyada ve ahirette Allah'ın sevgisini kazanmak</baslik>
+        <arapca>Dünyada ve ahirette Allah'ın sevgisini kazanmak.</arapca>
+        <turkce>Er-Rahmân</turkce>
+        <anlam>Dünyada bütün mahlükata merhamet eden, şefkat gösteren, ihsan eden.</anlam>
+        <adet>298</adet>
+    </dua>
+	
+	<dua id="3">
+        <baslik>Maddî ve manevî rızka nail olmak olmak için okunacak dua</baslik>
+        <arapca>Maddî ve manevî rızka nail olmak.</arapca>
+        <turkce>Er-Rahîm</turkce>
+        <anlam>Ahirette, müminlere sonsuz ikram, lütuf ve ihsanda bulunan.</anlam>
+        <adet>258</adet>
+    </dua>
+	
+	<dua id="4">
+        <baslik>Maddî ve manevî güçlü ve emir sahibi olmak için okunacak dua</baslik>
+        <arapca>Maddî ve manevî güçlü olmak, insanlara sözlerini anlatıp dinletebilmek, emir sahibi olmak.</arapca>
+        <turkce>El-Melik</turkce>
+        <anlam>Mülkün, kainatın sahibi, mülk ve saltanatı devamlı olan.</anlam>
+        <adet>90</adet>
+    </dua>
+	
+	<dua id="5">
+        <baslik>Maddî ve manevî her türlü temizlik, kalp temizliği, ruhî hastalıklardan iyileşmek.</baslik>
+        <arapca>Maddî ve manevî her türlü temizlik, kalp temizliği, ruhî hastalıklardan iyileşmek.</arapca>
+        <turkce>El-Kuddûs</turkce>
+        <anlam>Her noksanlıktan uzak ve her türlü takdıse layık olan.</anlam>
+        <adet>170</adet>
+    </dua>
+	
+	<dua id="6">
+        <baslik>Korkulan her şeyden emin olmak ve esenliğe çıkmak.</baslik>
+        <arapca>Korkulan her şeyden emin olmak ve esenliğe çıkmak.</arapca>
+        <turkce>Es-Selâm</turkce>
+        <anlam>Her türlü tehlikelerden selamete çıkaran.</anlam>
+        <adet>131</adet>
+    </dua>
+	
+	<dua id="7">
+        <baslik>Güvende olma, güvenilir insan olmak, kötü hastalıklara düşmemek.</baslik>
+        <arapca>Güvende olma, güvenilir insan olmak, kötü hastalıklara düşmemek.</arapca>
+        <turkce>El-Mü'min</turkce>
+        <anlam>Güven veren, emin kılan, koruyan.</anlam>
+        <adet>137</adet>
+    </dua>
+	
+	<dua id="8">
+        <baslik>İnsanlardan korunmak ve onların düşüncelerine akıl erdirebilmek.</baslik>
+        <arapca>İnsanlardan korunmak ve onların düşüncelerine akıl erdirebilmek.</arapca>
+        <turkce>El-Müheymin</turkce>
+        <anlam>Her şeyi görüp gözeten.</anlam>
+        <adet>145</adet>
+    </dua>
+	
+	<dua id="9">
+        <baslik>Düşmanlara galip gelmek için okunacak dua.</baslik>
+        <arapca>Düşmanlara galip gelmek.</arapca>
+        <turkce>El-Azîz </turkce>
+        <anlam> İzzet sahibi, her şeye galip olan.</anlam>
+        <adet>94</adet>
+    </dua>
+	<dua id="10">
+        <baslik>İstek ve arzuların olması, insanların ve cinlerin şerrinden emin olmak.</baslik>
+        <arapca>İstek ve arzuların olması, insanların ve cinlerin şerrinden emin olmak.</arapca>
+        <turkce>El-Cebbâr</turkce>
+        <anlam>Azamet ve kudret sahibi. Dilediğini yapan ve yaptıran.</anlam>
+        <adet>206</adet>
+    </dua>
+	
+	<dua id="11">
+        <baslik>İzzet, refah ve gerçek büyüklüğe erişmek, halk tarafından sevilmek.</baslik>
+        <arapca>İzzet, refah ve gerçek büyüklüğe erişmek, halk tarafından sevilmek.</arapca>
+        <turkce>El-Mütekebbir </turkce>
+        <anlam>Büyüklükte eşi, benzeri olmayan.</anlam>
+        <adet>662</adet>
+    </dua>
+			
+
+	<dua id="12">
+        <baslik>İşlerde üzüntü ve sıkıntıdan kurtulmak, başarılı olmak.</baslik>
+        <arapca>İşlerde üzüntü ve sıkıntıdan kurtulmak, başarılı olmak.</arapca>
+        <turkce>El-Hâlık</turkce>
+        <anlam>Yaratan, yoktan var eden.</anlam>
+        <adet>731</adet>
+    </dua>
+	
+	<dua id="13">
+        <baslik>İşte başarılı olmak, maddî ve manevî sıkıntılardan kurtulmak.</baslik>
+        <arapca>İşte başarılı olmak, maddî ve manevî sıkıntılardan kurtulmak.</arapca>
+        <turkce>El-Bâri </turkce>
+        <anlam>Her şeyi kusursuz ve uyumlu yaratan.</anlam>
+        <adet>214</adet>
+    </dua>
+	<dua id="14">
+        <baslik>Maksat ve meramına ulaşmak ve ifade etmek, en zor işleri başarmak ve bir işte uzmanlaşmak.</baslik>
+        <arapca>Maksat ve meramına ulaşmak ve ifade etmek, en zor işleri başarmak ve bir işte uzmanlaşmak.</arapca>
+        <turkce>El-Musavvir</turkce>
+        <anlam>Varlıklara şekil veren.</anlam>
+        <adet>336</adet>
+    </dua>
+	
+	<dua id="15">
+        <baslik>Bağışlanmak ve günahlardan korunmak.</baslik>
+        <arapca>Bağışlanmak ve günahlardan korunmak.</arapca>
+        <turkce>El-Gaffâr</turkce>
+        <anlam>Günahları örten ve çok mağfiret eden.</anlam>
+        <adet>1281</adet>
+    </dua>
+	
+	<dua id="16">
+        <baslik>Zalimlerin ve din düşmanlarının kahrından kurtulmak.</baslik>
+        <arapca>Zalimlerin ve din düşmanlarının kahrından kurtulmak.</arapca>
+        <turkce>El-Kahhâr</turkce>
+        <anlam>Her şeye, her istediğini yapacak surette, galip ve hakim olan.</anlam>
+        <adet>306</adet>
+    </dua>
+	
+	<dua id="17">
+        <baslik>Sıkıntısız ve maddî açıdan rahat bir hayat sürmek.</baslik>
+        <arapca>Sıkıntısız ve maddî açıdan rahat bir hayat sürmek.</arapca>
+        <turkce> El-Vehhâb</turkce>
+        <anlam>Karşılıksız hibeler veren, çok fazla ihsan eden.</anlam>
+        <adet>14</adet>
+    </dua>
+	
+	<dua id="18">
+        <baslik>Bol rızıklı bir ömür geçirmek.</baslik>
+        <arapca>Bol rızıklı bir ömür geçirmek.</arapca>
+        <turkce> Er-Rezzâk</turkce>
+        <anlam>Bütün mahlükatın rızkını veren ve ihtiyacını karşılayan.</anlam>
+        <adet>308</adet>
+    </dua>
+	
+	<dua id="19">
+        <baslik>Maddî ve manevî hayır kapılarının açılması, ticarette başarıya ulaşmak.</baslik>
+        <arapca>Maddî ve manevî hayır kapılarının açılması, ticarette başarıya ulaşmak.</arapca>
+        <turkce>El-Fettâh</turkce>
+        <anlam>Her türlü müşkülleri açan ve kolaylaştıran, darlıktan kurtaran.</anlam>
+        <adet>489</adet>
+    </dua>
+	
+	<dua id="20">
+        <baslik>İlim zenginliği için.</baslik>
+        <arapca>İlim zenginliği için.</arapca>
+        <turkce> El-Alîm</turkce>
+        <anlam>Gizli açık, geçmiş, gelecek, her şeyi en ince detaylarına kadar bilen.</anlam>
+        <adet>150</adet>
+    </dua>
+
+	<dua id="21">
+        <baslik>Zalimin zulmünden kurtulmak.</baslik>
+        <arapca>Zalimin zulmünden kurtulmak.</arapca>
+        <turkce>El-Kâbıd</turkce>
+        <anlam>Dilediğine darlık veren, sıkan, daraltan.</anlam>
+        <adet>903</adet>
+    </dua>
+	
+	<dua id="22">
+        <baslik>Rızkının genişlemesi ve bereketin artması.</baslik>
+        <arapca>Rızkının genişlemesi ve bereketin artması.</arapca>
+        <turkce>El-Bâsıt</turkce>
+        <anlam>Dilediğine bolluk veren, açan, genişleten.</anlam>
+        <adet>72</adet>
+    </dua>
+	
+	<dua id="23">
+        <baslik>Kötüden, kötülerden ve belalardan korunmak.</baslik>
+        <arapca>Kötüden, kötülerden ve belalardan korunmak.</arapca>
+        <turkce>El-Hâfıd</turkce>
+        <anlam>Dereceleri alçaltan</anlam>
+        <adet>1481</adet>
+    </dua>
+	
+	<dua id="24">
+        <baslik>İnsanlar içinde ve işinde yükselmek, tevazu sahibi olmak.</baslik>
+        <arapca>İnsanlar içinde ve işinde yükselmek, tevazu sahibi olmak.</arapca>
+        <turkce>Er-Râfi</turkce>
+        <anlam>Şeref verip yükselten.</anlam>
+        <adet>351</adet>
+    </dua>
+	
+	<dua id="25">
+        <baslik>Fakir ve zelillikten kurtulmak.</baslik>
+        <arapca>Fakir ve zelillikten kurtulmak.</arapca>
+        <turkce>El-Mu'ız</turkce>
+        <anlam>Dilediğini aziz eden, izzet veren.</anlam>
+        <adet>117</adet>
+    </dua>
+	
+	<dua id="26">
+        <baslik>Düşmanları zelil etmek.</baslik>
+        <arapca>Düşmanları zelil etmek.</arapca>
+        <turkce>El-Müzil</turkce>
+        <anlam>Dilediğini zillete düşüren.</anlam>
+        <adet>770</adet>
+    </dua>
+	<dua id="27">
+        <baslik>Duaların kabul olması.</baslik>
+        <arapca>Duaların kabul olması.</arapca>
+        <turkce>Es-Semi</turkce>
+        <anlam>Her şeyi en iyi işiten.</anlam>
+        <adet>180</adet>
+    </dua>
+		<dua id="28">
+            <baslik>Acziyetin kalkması, basiretli olmak.302-112</baslik>
+            <arapca>Acziyetin kalkması, basiretli olmak.302-112</arapca>
+            <turkce>El-Basîr</turkce>
+            <anlam>Gizli açık, her şeyi en iyi gören.</anlam>
+        <adet>302</adet>
+    </dua>
+		<dua id="29">
+            <baslik>Haklı davasını kazanmak, insanlar arasında hak ile hüküm vermek.</baslik>
+        <arapca>Haklı davasını kazanmak, insanlar arasında hak ile hüküm vermek.</arapca>
+        <turkce>El-Hakem</turkce>
+        <anlam>Mutlak hakim, hakkı batıldan ayıran. Hikmetle hükmeden.</anlam>
+        <adet>68</adet>
+    </dua>
+	<dua id="30">
+        <baslik>Adaletli olmak, haklı davayı kazanmak.</baslik>
+        <arapca>Adaletli olmak, haklı davayı kazanmak.</arapca>
+        <turkce>El-Adl</turkce>
+        <anlam>Mutlak adil, çok adaletli.</anlam>
+        <adet>104</adet>
+    </dua>
+	<dua id="31">
+        <baslik>Dileklerin olması, kısmet ve rızkın artması.</baslik>
+        <arapca>Dileklerin olması, kısmet ve rızkın artması.</arapca>
+        <turkce>El-Latîf</turkce>
+        <anlam>Lütuf ve ihsan sahibi olan. Bütün incelikleri bilen.</anlam>
+        <adet>129</adet>
+    </dua>
+	<dua id="32">
+        <baslik>Hafıza ve idrakin genişlemesi.</baslik>
+        <arapca>Hafıza ve idrakin genişlemesi.</arapca>
+        <turkce>El-Habîr</turkce>
+        <anlam>Olmuş olacak her şeyden haberdar.</anlam>
+        <adet>812</adet>
+    </dua>
+	<dua id="33">
+        <baslik>Ahlâk güzelliği ve yumuşak huylu olmak, hiddet ve sinirin gitmesi.</baslik>
+        <arapca>Ahlâk güzelliği ve yumuşak huylu olmak, hiddet ve sinirin gitmesi.</arapca>
+        <turkce>El-Halîm</turkce>
+        <anlam>Cezada, acele etmeyen, yumuşak davranan.</anlam>
+        <adet>88</adet>
+    </dua>
+	<dua id="34">
+        <baslik>Sözünün tesirli olması ve sözü dinlenir olmak.</baslik>
+        <arapca>Sözünün tesirli olması ve sözü dinlenir olmak.</arapca>
+        <turkce>El-Azîm</turkce>
+        <anlam>Büyüklükte benzeri yok. Pek yüce.</anlam>
+        <adet>1020</adet>
+    </dua>
+	<dua id="35">
+        <baslik>Günahların affı ve kötü ahlâktan korunmak.</baslik>
+        <arapca>Günahların affı ve kötü ahlâktan korunmak.</arapca>
+        <turkce>El-Gafûr</turkce>
+        <anlam>Affı, mağfireti bol.</anlam>
+        <adet>1286</adet>
+    </dua>
+	<dua id="36">
+        <baslik>Talihin açıklığı, kendine verilen nimetlerin şükrünü eda etmek, bol rızık için.</baslik>
+        <arapca>Talihin açıklığı, kendine verilen nimetlerin şükrünü eda etmek, bol rızık için.</arapca>
+        <turkce>Eş-Şekûr</turkce>
+        <anlam>Az amele, çok sevap veren.</anlam>
+        <adet>526</adet>
+    </dua>
+	<dua id="37">
+        <baslik>Zilletten kurtulmak, ilim, derecelerin artması.</baslik>
+        <arapca>Zilletten kurtulmak, ilim, derecelerin artması.</arapca>
+        <turkce>El-Aliyy</turkce>
+        <anlam>Yüceler yücesi, çok yüce.</anlam>
+        <adet>110</adet>
+    </dua>
+	<dua id="38">
+        <baslik>Maddî ve manevî büyüklük, hürmet sahibi olmak.</baslik>
+        <arapca>Maddî ve manevî büyüklük, hürmet sahibi olmak.</arapca>
+        <turkce> El-Kebîr</turkce>
+        <anlam>Büyüklükte benzeri yok, pek büyük.</anlam>
+        <adet>232</adet>
+    </dua>
+
+	<dua id="39">
+        <baslik>Nefsinin ve malının korunması.</baslik>
+        <arapca>Nefsinin ve malının korunması.</arapca>
+        <turkce>El-Hafîz</turkce>
+        <anlam>Her şeyi koruyucu olan.</anlam>
+        <adet>998</adet>
+    </dua>
+
+
+	<dua id="40">
+        <baslik>Muhtaç olunan şeyi kazanmak ve rızık.</baslik>
+        <arapca>Muhtaç olunan şeyi kazanmak ve rızık.</arapca>
+        <turkce> El-Mukît</turkce>
+        <anlam>Her yaratılmışın rızkını, gıdasını veren, tayin eden.</anlam>
+        <adet>550</adet>
+    </dua>
+
+	<dua id="41">
+        <baslik>Herkese karşı açık alınlı olmak.</baslik>
+        <arapca>Herkese karşı açık alınlı olmak.</arapca>
+        <turkce> El-Hasîb</turkce>
+        <anlam>Kulların hesabını en iyi gören.</anlam>
+        <adet>80</adet>
+    </dua>
+	<dua id="42">
+        <baslik>Gerçek yüceliğe erişmek, zalim ve zorbayı zelil etmek.73-5329</baslik>
+        <arapca>Gerçek yüceliğe erişmek, zalim ve zorbayı zelil etmek.73-5329</arapca>
+        <turkce> El-Celîl</turkce>
+        <anlam>Celal ve azamet sahibi olan.</anlam>
+        <adet>73</adet>
+    </dua>
+	<dua id="43">
+        <baslik>Bol rızık sahibi olmak, cömert olmak ve kolaylıklara nail olmak.</baslik>
+        <arapca>Bol rızık sahibi olmak, cömert olmak ve kolaylıklara nail olmak.</arapca>
+        <turkce>El-Kerîm</turkce>
+        <anlam>Keremi, lütuf ve ihsanı bol, karşılıksız veren, çok ikram eden.</anlam>
+        <adet>270</adet>
+    </dua>
+	<dua id="44">
+        <baslik>Her işte Allah'ın koruması altında olmak, bunu hissetmek, hafızasının kuvvetlenmesi.</baslik>
+        <arapca>Her işte Allah'ın koruması altında olmak, bunu hissetmek, hafızasının kuvvetlenmesi.</arapca>
+        <turkce>Er-Rakîb</turkce>
+        <anlam>Her varlığı, her işi her an görüp, gözeten, kontrolü altında tutan.</anlam>
+        <adet>312</adet>
+    </dua>
+	
+	<dua id="45">
+        <baslik>Duaların kabul olunması.55-3025</baslik>
+        <arapca>Duaların kabul olunması.55-3025</arapca>
+        <turkce>El-Mucîb</turkce>
+        <anlam>Duaları, istekleri kabul eden</anlam>
+        <adet>55</adet>
+    </dua>
+	
+	<dua id="46">
+        <baslik>Ömür uzunluğu, sıhhat ve rızık genişliği için.</baslik>
+        <arapca>Ömür uzunluğu, sıhhat ve rızık genişliği için.</arapca>
+        <turkce>El-Vâsi</turkce>
+        <anlam>Rahmet, kudret ve ilmi ile her şeyi ihata eden</anlam>
+        <adet>137</adet>
+    </dua>
+	
+	<dua id="47">
+        <baslik>İlim ve hikmet sahibi olmak, uzağı görmek, hikmetli iş yapmak.78-6084</baslik>
+        <arapca>İlim ve hikmet sahibi olmak, uzağı görmek, hikmetli iş yapmak.78-6084</arapca>
+        <turkce>El-Hakîm</turkce>
+        <anlam>Her işi hikmetli, her şeyi hikmetle yaratan.</anlam>
+        <adet>78</adet>
+    </dua>
+	<dua id="48">
+        <baslik>İnsanların sevgisini kazanmak.</baslik>
+        <arapca>İnsanların sevgisini kazanmak.</arapca>
+        <turkce>El-Vedûd</turkce>
+        <anlam>Kullarını en fazla seven, sevilmeye en layık olan.20-400</anlam>
+        <adet>20</adet>
+    </dua>
+	<dua id="49">
+        <baslik>İzzet ve şerefin artması.</baslik>
+        <arapca>İzzet ve şerefin artması.</arapca>
+        <turkce>El-Mecîd</turkce>
+        <anlam>Her türlü övgüye layık bulunan.57-3249</anlam>
+        <adet>57</adet>
+    </dua>
+	<dua id="50">
+        <baslik>Kuvvetli irade ve alacaklarını almak.</baslik>
+        <arapca>Kuvvetli irade ve alacaklarını almak.</arapca>
+        <turkce>El-Bâis</turkce>
+        <anlam>Ölüleri dirilten.</anlam>
+        <adet>573</adet>
+    </dua>
+		<dua id="51">
+            <baslik>Şehid olmak, heybetli olmak, halk arasında sevilmek.</baslik>
+        <arapca>Şehid olmak, heybetli olmak, halk arasında sevilmek.</arapca>
+        <turkce>Eş-Şehîd</turkce>
+        <anlam>Her zaman her yerde hazır ve nazır olan.</anlam>
+        <adet>319</adet>
+    </dua>
+	<dua id="52">
+        <baslik>Sağlam bir imana ve doğru bir ibadet hayatına sahip olmak, başladığı işin sonunun gelmesi.</baslik>
+        <arapca>Sağlam bir imana ve doğru bir ibadet hayatına sahip olmak, başladığı işin sonunun gelmesi.</arapca>
+        <turkce> El-Hakk</turkce>
+        <anlam>Varlığı hiç değişmeden duran. Var olan, hakkı ortaya çıkaran.</anlam>
+        <adet>108</adet>
+    </dua>
+	<dua id="53">
+        <baslik>Allah'tan her türlü yardım görmek.</baslik>
+        <arapca>Allah'tan her türlü yardım görmek.</arapca>
+        <turkce> El-Vekîl</turkce>
+        <anlam>Kendisine tevekkül edenlerin işlerini en iyi neticeye ulaştıran.</anlam>
+        <adet>66</adet>
+    </dua>
+	<dua id="54">
+        <baslik>Kansızlık ve vücudun güçlü olması, zor işleri kolaylıkla halletmek.</baslik>
+        <arapca>Kansızlık ve vücudun güçlü olması, zor işleri kolaylıkla halletmek.</arapca>
+        <turkce>El-Kaviyy</turkce>
+        <anlam>Kudreti en üstün ve hiç azalmaz.</anlam>
+        <adet>116</adet>
+    </dua>
+	<dua id="55">
+        <baslik>Maddî ve manevî dayanıklı, sağlam ve iradeli olmak, hastalıklardan kurtulmak.</baslik>
+        <arapca>Maddî ve manevî dayanıklı, sağlam ve iradeli olmak, hastalıklardan kurtulmak.</arapca>
+        <turkce>El-Metîn</turkce>
+        <anlam>Kuvvet ve kudret kaynağı, pek güçlü.</anlam>
+        <adet>500</adet>
+    </dua>
+	<dua id="56">
+        <baslik>Her işte Allah'ın yardımını istemek.46-2116</baslik>
+        <arapca>Her işte Allah'ın yardımını istemek.46-2116</arapca>
+        <turkce> El-Veliyy</turkce>
+        <anlam>İnananların dostu, onları sevip yardım eden.</anlam>
+        <adet>46</adet>
+    </dua>
+	<dua id="57">
+        <baslik>Kazancın genişlemesi, Allah'ı çokça hamd etmek için yardım istemek.(62-3844)</baslik>
+        <arapca>(62-3844)	Kazancın genişlemesi, Allah'ı çokça hamd etmek için yardım istemek.</arapca>
+        <turkce> El-Hamîd</turkce>
+        <anlam>Her türlü hamd ve senaya layık olan.</anlam>
+        <adet>62</adet>
+    </dua>
+	<dua id="58">
+        <baslik>Zekânın kuvvetli olması.</baslik>
+        <arapca>Zekânın kuvvetli olması.</arapca>
+        <turkce>El-Muhsî</turkce>
+        <anlam>Yarattığı ve yaratacağı bütün varlıkların sayısını bilen.</anlam>
+        <adet>148</adet>
+    </dua>
+	<dua id="59">
+        <baslik>Her işte muvaffak olmak, ummadığı yerden yardım gelmesi.</baslik>
+        <arapca>Her işte muvaffak olmak, ummadığı yerden yardım gelmesi.</arapca>
+        <turkce> El-Mübdi</turkce>
+        <anlam>Maddesiz, örneksiz yaratan.</anlam>
+        <adet>57</adet>
+    </dua>
+	<dua id="60">
+        <baslik>Elden kaçanı geri kazanmak, Allah'ın ahirette yeniden dirilme hakikatini ruhlarımıza duyurması.</baslik>
+        <arapca>Elden kaçanı geri kazanmak, Allah'ın ahirette yeniden dirilme hakikatini ruhlarımıza duyurması.</arapca>
+        <turkce>El-Muîd</turkce>
+        <anlam>Yarattıklarını yok edip, sonra tekrar diriltecek olan.</anlam>
+        <adet>124</adet>
+    </dua>
+	<dua id="61">
+        <baslik>İşlerin başarılı olması, hastalıklardan kurtulmak.</baslik>
+        <arapca>İşlerin başarılı olması, hastalıklardan kurtulmak.</arapca>
+        <turkce>El-Muhyî</turkce>
+        <anlam>İhya eden, dirilten, can veren.</anlam>
+        <adet>68</adet>
+    </dua>
+	<dua id="62">
+        <baslik>Harama bakmamak, kötülüklerden vazgeçmek, devamlı ahireti hatırlamak.</baslik>
+        <arapca>Harama bakmamak, kötülüklerden vazgeçmek, devamlı ahireti hatırlamak.</arapca>
+        <turkce>El-Mümît</turkce>
+        <anlam>Her canlıya ölümü tattıran.</anlam>
+        <adet>490</adet>
+    </dua>
+	<dua id="63">
+        <baslik>Sözün tesirli olması, sözü dinlenir olmak.(18-324)	</baslik>
+        <arapca>Sözün tesirli olması, sözü dinlenir olmak.(18-324)	</arapca>
+        <turkce>El-Hayy</turkce>
+        <anlam>Ezeli ve ebedi hayat sahibi.</anlam>
+        <adet>18</adet>
+    </dua>
+	<dua id="64">
+        <baslik>Bütün işlerde yardımı Allah'tan beklemek, isteklere nail olmak, rızkın devamlı olması.</baslik>
+        <arapca>Bütün işlerde yardımı Allah'tan beklemek, isteklere nail olmak, rızkın devamlı olması.</arapca>
+        <turkce>El-Kayyûm</turkce>
+        <anlam>Varlıkları diri tutan, zatı ile kaim olan.</anlam>
+        <adet>156</adet>
+    </dua>
+	<dua id="65">
+        <baslik>Aradığını ve kaybettiğini bulmak.(14-196)</baslik>
+        <arapca>(14-196)	Aradığını ve kaybettiğini bulmak.</arapca>
+        <turkce>El-Vâcid</turkce>
+        <anlam>Kendisinden hiçbir şey gizli kalmayan, istediğini, istediği vakit bulan.</anlam>
+        <adet>14</adet>
+    </dua>
+	<dua id="66">
+        <baslik>Kazancın bolluğu ve şerefli bir hayat sahibi olmak.</baslik>
+        <arapca>Kazancın bolluğu ve şerefli bir hayat sahibi olmak.</arapca>
+        <turkce>El-Macîd</turkce>
+        <anlam>Kadri ve şanı büyük, keremi, ihsanı bol olan.</anlam>
+        <adet>48</adet>
+    </dua>
+	<dua id="67">
+        <baslik>Kalbin uyanıklığı, isteklerin olması.(19-3669)</baslik>
+        <arapca>(19-3.669)	Kalbin uyanıklığı, isteklerin olması.</arapca>
+        <turkce>El-Vâhid</turkce>
+        <anlam>Zat, sıfat ve fiillerinde benzeri ve ortağı olmayan, tek olan.</anlam>
+        <adet>19</adet>
+    </dua>
+	<dua id="68">
+        <baslik>Hiç kimseye muhtaç olmamak.</baslik>
+        <arapca>Hiç kimseye muhtaç olmamak.</arapca>
+        <turkce> Es-Samed</turkce>
+        <anlam>Hiçbir şeye ihtiyacı olmayan, herkesin muhtaç olduğu</anlam>
+        <adet>134</adet>
+    </dua>
+	<dua id="69">
+        <baslik>İstediğini yapmaya güç yetirmek.</baslik>
+        <arapca>İstediğini yapmaya güç yetirmek.</arapca>
+        <turkce> El-Kâdir</turkce>
+        <anlam>Dilediğini dilediği gibi yaratmaya muktedir olan.</anlam>
+        <adet>305</adet>
+    </dua>
+	<dua id="70">
+        <baslik>Her işte başarılı olmak.</baslik>
+        <arapca>Her işte başarılı olmak.</arapca>
+        <turkce>El-Muktedir</turkce>
+        <anlam>Dilediği gibi tasarruf eden, her şeyi kolayca yaratan kudret sahibi.</anlam>
+        <adet>744</adet>
+    </dua>
+	<dua id="71">
+        <baslik>Daima yükselmek.</baslik>
+        <arapca>Daima yükselmek.</arapca>
+        <turkce> El-Mukaddim</turkce>
+        <anlam>Dilediğini, öne alan, yükselten.</anlam>
+        <adet>184</adet>
+    </dua>
+	<dua id="72">
+        <baslik>Kötü ve belalı birinin veya bir işin kendinden uzaklaşması.</baslik>
+        <arapca>Kötü ve belalı birinin veya bir işin kendinden uzaklaşması.</arapca>
+        <turkce>El-Muahhir</turkce>
+        <anlam>Dilediğini sona alan, erteleyen, alçaltan.</anlam>
+        <adet>847</adet>
+    </dua>
+	<dua id="73">
+        <baslik>Her hayır işinde birinci olmak.</baslik>
+        <arapca>Her hayır işinde birinci olmak.</arapca>
+        <turkce>El-Evvel</turkce>
+        <anlam>Ezeli olan, varlığının başlangıcı olmayan.</anlam>
+        <adet>37</adet>
+    </dua>
+	<dua id="74">
+        <baslik>Ömrün uzun olması.</baslik>
+        <arapca>Ömrün uzun olması.</arapca>
+        <turkce>El-Âhir</turkce>
+        <anlam>Ebedi olan, varlığının sonu olmayan.</anlam>
+        <adet>801</adet>
+    </dua>
+	<dua id="75">
+        <baslik>Her meselenin zuhuru, açıklığı, gizli olmaması.</baslik>
+        <arapca>Her meselenin zuhuru, açıklığı, gizli olmaması.</arapca>
+        <turkce>El-Zâhir</turkce>
+        <anlam>Varlığı açık, aşikar olan, kesin delillerle bilinen.</anlam>
+        <adet>1106</adet>
+    </dua>
+
+
+	<dua id="76">
+        <baslik>Nefsi mutmain ve kalbi geniş olmak, iç rahatlığının artması.</baslik>
+        <arapca>Nefsi mutmain ve kalbi geniş olmak, iç rahatlığının artması.</arapca>
+        <turkce>El-Bâtın</turkce>
+        <anlam>Akılların idrak edemeyeceği, yüceliği gizli olan.</anlam>
+        <adet>62</adet>
+    </dua>
+	<dua id="77">
+        <baslik>Sözünün tesirli olması, insanların kendini sevmesi.</baslik>
+        <arapca>Sözünün tesirli olması, insanların kendini sevmesi.</arapca>
+        <turkce>El-Vâlî</turkce>
+        <anlam>Bütün kainatı idare eden.</anlam>
+        <adet>47</adet>
+    </dua>
+	<dua id="78">
+        <baslik>İstediği makama gelmek ve yüceliğe ermek.</baslik>
+        <arapca>İstediği makama gelmek ve yüceliğe ermek.</arapca>
+        <turkce>El-Müteâlî</turkce>
+        <anlam> Son derece yüce olan.</anlam>
+        <adet>551</adet>
+    </dua>
+	<dua id="79">
+        <baslik>Her halukarda iyilik bulmak.</baslik>
+        <arapca>Her halukarda iyilik bulmak.</arapca>
+        <turkce>El-Berr</turkce>
+        <anlam>İyilik ve ihsanı bol, iyilik ve ihsan kaynağı.</anlam>
+        <adet>202</adet>
+    </dua>
+	<dua id="80">
+        <baslik>Tövbelerin kabul olması.</baslik>
+        <arapca>Tövbelerin kabul olması.</arapca>
+        <turkce> Et-Tevvâb</turkce>
+        <anlam>Tevbeleri kabul edip, günahları bağışlayan.</anlam>
+        <adet>409</adet>
+    </dua>
+	<dua id="81">
+        <baslik>Zulüm ve fenalıklardan korunmak.</baslik>
+        <arapca>Zulüm ve fenalıklardan korunmak.</arapca>
+        <turkce>El-Müntekim</turkce>
+        <anlam>Zalimlerin cezasını veren, intikam alan.</anlam>
+        <adet>630</adet>
+    </dua>
+	<dua id="82">
+        <baslik>Rızık bolluğu, kalp huzuru, affedilmek.</baslik>
+        <arapca>Rızık bolluğu, kalp huzuru, affedilmek.</arapca>
+        <turkce> El-Afüvv</turkce>
+        <anlam>Affı çok olan, günahları affetmeyi seven.</anlam>
+        <adet>156</adet>
+    </dua>
+	<dua id="83">
+        <baslik>Merhametinin artması, hiçbir varlıktan zarar görmemek.</baslik>
+        <arapca>Merhametinin artması, hiçbir varlıktan zarar görmemek.</arapca>
+        <turkce>Er-Raûf</turkce>
+        <anlam>Çok merhametli, pek şefkatli.</anlam>
+        <adet>287</adet>
+	</dua>
+	
+	<dua id="84">
+        <baslik>Mal ve kazanca zarar gelmemesi, maddî ve manevî derecelerin artması.</baslik>
+        <arapca>Mal ve kazanca zarar gelmemesi, maddî ve manevî derecelerin artması.</arapca>
+        <turkce>Mâlik-ül Mülk</turkce>
+        <anlam>Mülkün, her varlığın sahibi.</anlam>
+        <adet>212</adet>
+    </dua>
+	<dua id="85">
+        <baslik>İşlerin kolay ve âsân olması, insanların kendini sevmesi.</baslik>
+        <arapca>İşlerin kolay ve âsân olması, insanların kendini sevmesi.</arapca>
+        <turkce>Zül-Celâli vel ikrâm</turkce>
+        <anlam>Celal, azamet ve pek büyük ikram sahibi.</anlam>
+        <adet>1100</adet>
+    </dua>
+	<dua id="86">
+        <baslik>Eşlerin arasını düzeltmek ve adaletli olmak.</baslik>
+        <arapca>Eşlerin arasını düzeltmek ve adaletli olmak.</arapca>
+        <turkce>El-Muksit</turkce>
+        <anlam>Her işi birbirine uygun yapan.</anlam>
+        <adet>209</adet>
+    </dua>
+	<dua id="87">
+        <baslik>Küsleri barıştırmak ve hayırların birleşip toplanması.</baslik>
+        <arapca>Küsleri barıştırmak ve hayırların birleşip toplanması.</arapca>
+        <turkce>El-Câmi</turkce>
+        <anlam>Mahşerde her mahlükatı bir araya toplayan.</anlam>
+        <adet>114</adet>
+    </dua>
+	<dua id="88">
+        <baslik>Gerçek zenginlik, servet ve geniş rızık, insanlar tarafından sevilmek.</baslik>
+        <arapca>Gerçek zenginlik, servet ve geniş rızık, insanlar tarafından sevilmek.</arapca>
+        <turkce> El-Ganiyy</turkce>
+        <anlam>Her türlü zenginlik sahibi, ihtiyacı olmayan.</anlam>
+        <adet>1060</adet>
+    </dua>
+	<dua id="89">
+        <baslik>Geçim genişliği, bol rızık ve zenginlik.</baslik>
+        <arapca>Geçim genişliği, bol rızık ve zenginlik.</arapca>
+        <turkce> El-Mugnî</turkce>
+        <anlam>Müstağni kılan. ihtiyaç gideren, zengin eden.</anlam>
+        <adet>1100</adet>
+    </dua>
+
+	<dua id="90">
+        <baslik>Kaza ve belalardan emin olmak.</baslik>
+        <arapca>Kaza ve belalardan emin olmak.</arapca>
+        <turkce>El-Mâni</turkce>
+        <anlam>Dilemediği şeye mani olan, engelleyen.</anlam>
+        <adet>161</adet>
+    </dua>
+	<dua id="91">
+        <baslik>Zararlı kişilerden emin olmak ve onları Allah'a havale etmek.</baslik>
+        <arapca>Zararlı kişilerden emin olmak ve onları Allah'a havale etmek.</arapca>
+        <turkce> Ed-Dârr</turkce>
+        <anlam>Elem, zarar verenleri yaratan.</anlam>
+        <adet>1001</adet>
+    </dua>
+	<dua id="92">
+        <baslik>Hastalıklardan korunmak, şifa bulmak, zararlardan uzak durmak.</baslik>
+        <arapca>Hastalıklardan korunmak, şifa bulmak, zararlardan uzak durmak.</arapca>
+        <turkce>En-Nâfi</turkce>
+        <anlam>Fayda veren şeyleri yaratan.</anlam>
+        <adet>201</adet>
+    </dua>
+	<dua id="93">
+        <baslik>Doğruyu ve yanlışı görüp kalp nuruna sahip olmak.</baslik>
+        <arapca>Doğruyu ve yanlışı görüp kalp nuruna sahip olmak.</arapca>
+        <turkce>En-Nûr</turkce>
+        <anlam>Alemleri nurlandıran, dilediğine nur veren.</anlam>
+        <adet>256</adet>
+    </dua>
+	<dua id="94">
+        <baslik>Doğru yolu bulmak ve çocuklarının serkeş olmaması.(20-400)</baslik>
+        <arapca>(20-400)	Doğru yolu bulmak ve çocuklarının serkeş olmaması.</arapca>
+        <turkce>El-Hâdî</turkce>
+        <anlam>Hidayet veren.</anlam>
+        <adet>20</adet>
+    </dua>
+	
+	<dua id="95">
+        <baslik>Allah'ın yardımına nail olmak, maddî ve manevî güzellik için.</baslik>
+        <arapca>Allah'ın yardımına nail olmak, maddî ve manevî güzellik için.</arapca>
+        <turkce>El-Bedî</turkce>
+        <anlam>Eşi ve benzeri olmayan güzellik sahibi, eşsiz yaratan.</anlam>
+        <adet>86</adet>
+    </dua>
+	<dua id="96">
+        <baslik>Ömrün uzunluğu ve sağlıklı olmak.</baslik>
+        <arapca>Ömrün uzunluğu ve sağlıklı olmak.</arapca>
+        <turkce> El-Bâkî</turkce>
+        <anlam>Varlığının sonu olmayan, ebedi olan</anlam>
+        <adet>113</adet>
+    </dua>
+	<dua id="97">
+        <baslik>Uzun ömür, bol mal, şeref ve rızık sahibi olmak.</baslik>
+        <arapca>Uzun ömür, bol mal, şeref ve rızık sahibi olmak.</arapca>
+        <turkce>El-Vâris</turkce>
+        <anlam>Her şeyin asıl sahibi olan.</anlam>
+        <adet>707</adet>
+    </dua>
+	<dua id="98">
+        <baslik>Güzel ahlâk sahibi olmak, kötü alışkanlıklardan korunmak.</baslik>
+        <arapca>Güzel ahlâk sahibi olmak, kötü alışkanlıklardan korunmak.</arapca>
+        <turkce>Er-Reşîd</turkce>
+        <anlam>İrşada muhtaç olmayan, doğru yolu gösteren. </anlam>
+        <adet>514</adet>
+    </dua>
+	<dua id="99">
+        <baslik>Başladığı işi kolay bitirmek, sinirini yenmek ve sabırlı olmak.</baslik>
+        <arapca>Başladığı işi kolay bitirmek, sinirini yenmek ve sabırlı olmak.</arapca>
+        <turkce>Es-Sabûr</turkce>
+        <anlam>Ceza vermede acele etmeyen.</anlam>
+        <adet>298</adet>
+    </dua>
+    
+</dualar>

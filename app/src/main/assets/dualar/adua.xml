@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dualar>
+    <dua id="1">
+        <baslik>Cehennem ateşinden hıfz olma</baslik>
+        <arapca>Allahümme ecirna minennâr</arapca>
+        <turkce>Allahümme ecirna minennâr</turkce>
+        <anlam>Allah'ım, bizi cehennem ateşinden koru.</anlam>
+        <adet>7</adet>
+    </dua>
+	
+	<dua id="2">
+        <baslik>Hıfz duası</baslik>
+        <arapca>بِسْمِ اللَّهِ الَّذِى لاَ يَضُرّ ُ مَعَ اسْمِهِ شَيْءٌ فِي اْلاَرْدِ وَلاَ فِي السَّمَاءِ وَ هُوَ السَّمِيعُ الْعَلِيمْ</arapca>
+        <turkce>Bismillahillezî lâ yedurru ma’asmihî şey’ün fil erdı ve lâ fissemâi ve hüvessemî’ul alîm</turkce>
+        <anlam>Yüce Allah’in ismiyle hareket ederim. O yüce Allah ki O’nun mübârek ismiyle hareket edildigi (O’nun ismi söylendigi) vakit yerde ve gökte hiçbir sey okuyana zarar veremez. O yüce Allah her seyi en iyi isiten ve en mükemmel bir sekilde bilendir.</anlam>
+        <adet>3</adet>
+    </dua>
+	
+	<dua id="3">
+        <baslik>Allah'a sığınma</baslik>
+        <arapca>Eûzü billahis-semî’il alîmi mineşşeytânirracîm</arapca>
+        <turkce>Eûzü billahis-semî’il alîmi mineşşeytânirracîm</turkce>
+        <anlam>ALLAH‘ın rahmetinden kovulmuş şeytandan, işiten ve bilen ALLAH’a sığınırım.</anlam>
+        <adet>3</adet>
+    </dua>
+
+	<dua id="4">
+        <baslik>Allah'ı tazim etme ve O'na sığınma</baslik>
+        <arapca>حَسْبِيَ الٰهّلُ لَا إِلٰهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ</arapca>
+        <turkce>Hasbiyallahü lâ ilahe illâ hü, aleyhi tevekkeltü ve hüve Rabbül-arşil-azîm</turkce>
+        <anlam>Bana Allah yeter. O’ndan başka ilâh yoktur. Ben O’na güvendim ve O, büyük Arş’ın Rabbidir.(Tevbe, 9/129)</anlam>
+        <adet>7</adet>
+    </dua>
+	
+	<dua id="5">
+        <baslik>Akşam namazı aşiri</baslik>
+        <arapca>لَوْ أَنزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ ﴿٢١﴾ هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ ﴿٢٢﴾ هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ﴿٢٣﴾ هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاء الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ</arapca>
+        <turkce>La yestevi ashabün nâri ve ashabül cenneh. Ashabül cenneti hümül fâizûn. Lev enzelnâ hâzel kur’âne alâ cebelil leraeytehu hâşian müteseddian min haşyetillâh. Vetilkel emsâlü nadribuhâ linnâsi laallehüm yetefekkerûn. Huvallahullezî lâ ilâhe illâ hu. Âlimul ğaybi veşşehâdeh. Hüver rahmânürrahîm. Huvallahullezî lâ ilâhe illâ hu. Elmelikül kuddûsüs Selâmül Mü’minül Müheyminül Azîzül Cebbârül Mütekebbir. Sübhânallâhi amma yüşrikûn. Huvallahul Hâlikul Bariul Musavvirü lehul esmâül Hüsnâ. Yüsebbihu lehu mâ fissemâvâti vel ard. Vehüvel azîzül Hakîm.</turkce>
+        <anlam>Biz bu Kur'ân'ı bir dağa indirseydik, Allah'ın korkusundan onu baş eğmiş, parça, parça olmuş görürdün. Bu misalleri düşünsünler diye insanlara veriyoruz. O, öyle Allah'tır ki, O'ndan başka ilah yoktur. Görülmeyeni ve görüleni bilendir. O, esirgeyendir, bağışlayandır. O, öyle Allah'tır ki, kendisinden başka hiçbir tanrı yoktur. O, mülkün sahibidir, eksiklikten münezzehtir, selamet verendir, emniyete kavuşturandır, gözetip koruyandır, üstündür, istediğini zorla yaptıran, büyüklükte eşi olmayandır. Allah, müşriklerin ortak koştukları şeylerden münezzehtir. O, yaratan, var eden, şekil veren Allah'tır. En güzel isimler O'nundur. Göklerde ve yerde olanlar O'nun şanını yüceltmektedirler. O, galiptir, hikmet sahibidir.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="6">
+        <baslik>Akşam okunacak dua</baslik>
+        <arapca>Akşam okunacak dua</arapca>
+        <turkce>Emseyna ve emse'l-mülkü lillahi ve'l-hamdülillahi la şerike lehu la ilahe illa hüve ve ileyhi'l-masir.</turkce>
+        <anlam>Akşamladık. Mülk de Allah'ın olarak akşama erişti. Allah'a hamd ve senalar olsun. Onun ortağı yoktur.
+            Ondan başka ilah yoktur. ancak O vardır. Dönüş Onadır.</anlam>
+        <adet>1</adet>
+    </dua>
+
+    <dua id="7">
+        <baslik>Yatmadan önce okunacak dua</baslik>
+        <arapca>Yatmadan önce okunacak dua</arapca>
+        <turkce>Allahümme bismike emutü ve ahya.</turkce>
+        <anlam>Ey Allahım senin isminle uyur, senin isminle uyanırım.</anlam>
+        <adet>1</adet>
+    </dua>
+
+
+
+
+
+
+
+    
+</dualar>

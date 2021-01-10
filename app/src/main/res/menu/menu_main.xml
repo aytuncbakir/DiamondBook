@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/ayarlar"
+        android:orderInCategory="1"
+        android:title="@string/ayarlar"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/anasayfa"
+        android:orderInCategory="2"
+        android:title="@string/anasayfa"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/tesbih"
+        android:orderInCategory="9"
+        android:title="@string/tesbih"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/manuel"
+        android:orderInCategory="7"
+        android:title="@string/manuel"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/dualar"
+        android:orderInCategory="5"
+        android:title="@string/dualar"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+    />
+
+    <item
+        android:id="@+id/zikirmatik"
+        android:orderInCategory="8"
+        android:title="@string/zikirmatik"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/vakit"
+        android:orderInCategory="6"
+        android:title="@string/vakit"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/cevsen"
+        android:orderInCategory="4"
+        android:title="@string/cevsen"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/tesbihat"
+        android:orderInCategory="6"
+        android:title="@string/tesbihat"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/kuran"
+        android:orderInCategory="3"
+        android:title="@string/kuran"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/tecvid"
+        android:orderInCategory="11"
+        android:title="@string/tecvid"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/ilmihal"
+        android:orderInCategory="12"
+        android:title="@string/ilmihal"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/mealler"
+        android:orderInCategory="13"
+        android:title="@string/mealler"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/tefsirler"
+        android:orderInCategory="14"
+        android:title="@string/tefsirler"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"
+        />
+
+
+</menu>

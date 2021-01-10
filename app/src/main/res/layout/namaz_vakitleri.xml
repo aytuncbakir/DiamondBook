@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:id="@+id/arkaplan"
+android:orientation="vertical">
+
+<TextView
+    android:id="@+id/baslik"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_marginTop="30dp"
+    android:textColor="@color/buton_rengi_pres"
+    android:background="@drawable/giris_baslik"
+    android:paddingTop="3dp"
+    android:paddingBottom="3dp"
+    android:padding="5dp"
+    android:textAlignment="center"
+    android:text="Namaz Vakitleri" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/checkText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:text="Seçimimi Kaydet: " />
+
+        <CheckBox
+            android:id="@+id/hatirla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:padding="3dp"
+            android:text="" />
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/ulke"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:text="Ülke :" />
+
+    <Spinner
+        android:id="@+id/ulkespinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/il"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:text="İl :" />
+
+    <Spinner
+        android:id="@+id/ilspinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/ilce"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:text="İlçe :" />
+
+    <Spinner
+        android:id="@+id/ilcespinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/secimiGoster"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/giris_baslik"
+            android:layout_margin="3dp"
+            android:padding="3dp"
+            android:text="Seçimim için Vakitler"
+            android:textSize="10sp"
+            android:textColor="@color/buton_rengi_pres" />
+
+        <Button
+            android:id="@+id/kayitliKonumGoster"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_margin="3dp"
+            android:padding="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/giris_baslik"
+            android:textColor="@color/buton_rengi_pres"
+            android:textSize="10sp"
+            android:text="Kayıtlı Seçim için Vakitler" />
+
+    </LinearLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/reklam_layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/reklam_layout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="3dp"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:id="@+id/reklam_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical" />
+
+
+    </RelativeLayout>
+</LinearLayout>
